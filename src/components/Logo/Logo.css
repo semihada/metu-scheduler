@@ -1,0 +1,29 @@
+#metu-scheduler {
+  display: inline-flex;
+  align-items: center;
+  height: 40px;
+}
+
+#metu-scheduler:hover {
+  opacity: 0.8;
+}
+
+#scheduler-title {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: white;
+  margin-left: 12px;
+}
+
+#metu-mark {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  background: white;
+  border-radius: 50%;
+  color: #e30a17;
+  font-size: 22px;
+  font-weight: 700;
+}

@@ -1,0 +1,56 @@
+#courses {
+  width: 100%;
+  table-layout: fixed;
+  border-spacing: 0;
+}
+
+@media only screen and (max-width: 599px) {
+  #courses {
+    margin-bottom: 32px;
+  }
+}
+
+#courses tr {
+  height: 47px;
+}
+
+#courses tr td {
+  font-size: 13px;
+  border-bottom: #d9d9d9 solid thin;
+  position: relative;
+}
+
+#courses tbody tr:last-child td {
+  border: none;
+}
+
+#courses tr td:nth-child(1) {
+  width: 30px;
+  text-align: center;
+  padding-right: 5px;
+}
+
+.instructor small {
+  width: 100%;
+  min-width: 0;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 80%;
+  margin-top: 3px;
+  opacity: 0.6;
+}
+
+.instructor .course-name {
+  display: block;
+  color: #777;
+  font-size: 75%;
+  line-height: 1.15;
+  margin-top: 2px;
+  opacity: 0.85;
+}
+
+.instructor .instructor-name {
+  margin-top: 3px;
+}

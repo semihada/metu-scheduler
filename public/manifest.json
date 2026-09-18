@@ -1,0 +1,9 @@
+{
+  "short_name": "METU Scheduler",
+  "name": "METU Scheduler",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e30a17",
+  "background_color": "#ffffff"
+}

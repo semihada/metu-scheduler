@@ -1,0 +1,136 @@
+.course-option {
+  display: flex;
+  align-items: baseline;
+  min-width: 0;
+  gap: 6px;
+}
+
+.course-option-code {
+  flex: 0 0 auto;
+  font-weight: 600;
+}
+
+.course-option-name {
+  overflow: hidden;
+  color: #777;
+  font-size: 0.85em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.course-faculty-toggle,
+.course-department-toggle {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #e0e3e7;
+  border-radius: 6px;
+  background: #f7f8fa;
+  color: #374151;
+  cursor: pointer;
+  font-size: 0.8em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 8px 10px 8px 12px;
+  text-align: left;
+  transition: background 150ms ease, border-color 150ms ease, border-radius 150ms ease;
+}
+
+.course-faculty-toggle:hover,
+.course-department-toggle:hover {
+  border-color: #b8c0ca;
+  background: #eef1f5;
+}
+
+.course-faculty-toggle.expanded,
+.course-department-toggle.expanded {
+  border-color: #c4cbd4;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background: #eef1f5;
+}
+
+.course-faculty {
+  margin: 4px 6px;
+}
+
+.course-faculty-toggle {
+  border-color: #cbd5e1;
+  background: #edf2f7;
+  font-size: 0.82em;
+  letter-spacing: 0.02em;
+}
+
+.course-faculty-toggle.expanded {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background: #e3eaf2;
+}
+
+.course-departments {
+  margin: 0;
+  padding: 3px 5px 4px;
+  border: 1px solid #e0e3e7;
+  border-top: 0;
+  background: #fafbfc;
+}
+
+.course-department {
+  margin: 3px 0;
+  list-style: none;
+}
+
+.course-department-toggle {
+  padding: 6px 9px;
+  border-radius: 4px;
+  background: #fff;
+  font-size: 0.76em;
+  letter-spacing: 0.05em;
+}
+
+.course-department-toggle.expanded {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background: #f1f3f6;
+}
+
+.course-department > .MuiCollapse-root {
+  border: 1px solid #e5e7eb;
+  border-top: 0;
+  background: #fff;
+}
+
+.course-department > .MuiCollapse-root ul {
+  margin: 0;
+  padding: 0;
+}
+
+.course-group-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.course-group-chevron {
+  color: #6b7280;
+  transition: transform 180ms ease;
+}
+
+.course-faculty-toggle.expanded .course-group-chevron,
+.course-department-toggle.expanded .course-group-chevron {
+  transform: rotate(180deg);
+}
+
+.course-group > .MuiCollapse-root {
+  border: 1px solid #e0e3e7;
+  border-top: 0;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  background: #fff;
+}
+
+.course-group > .MuiCollapse-root ul {
+  margin: 0;
+  padding: 0;
+}

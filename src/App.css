@@ -1,0 +1,186 @@
+body {
+  font-family: Montserrat;
+  font-size: 13px;
+  margin: 0;
+}
+
+#root {
+  width: calc(100% - 32px);
+  min-height: calc(100vh - 32px);
+  padding: 16px;
+}
+
+@media only screen and (max-width: 599px) {
+  #root {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: calc(100vh - 100px);
+  margin-bottom: 24px;
+}
+
+.background {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+      45deg,
+      rgb(19, 73, 95),
+      rgb(118, 75, 226),
+      rgb(131, 115, 198),
+      rgb(119, 211, 185)
+    )
+    fixed;
+}
+
+#selectors {
+  margin-bottom: 16px;
+  padding: 16px;
+}
+
+#coffee-button {
+  display: inline-block;
+  width: calc(100% - 24px);
+  padding: 2px 12px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 36px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#coffee-button:hover {
+  opacity: 0.85;
+}
+
+#coffee-icon {
+  width: 20px;
+  height: 13px;
+  margin-right: 6px;
+}
+
+#coffee-icon {
+  height: 15px;
+  width: 22px;
+  animation: coffee-animation 3s infinite;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#sponsor-link {
+  color: #fff;
+}
+
+#sponsor-link a {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#sponsor-link a:hover {
+  opacity: 0.8;
+}
+
+@media only screen and (max-width: 599px) {
+  #main {
+    flex-direction: column-reverse;
+    order: 2;
+  }
+}
+
+#schedule-details {
+  padding-right: 5px;
+}
+
+@media only screen and (max-width: 599px) {
+  #schedule-details {
+    margin-top: 16px;
+    padding-right: 0;
+  }
+}
+
+.paper {
+  padding: 16px;
+}
+
+#schedule-details .paper {
+  height: calc(100% - 32px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#schedule-table {
+  padding-left: 12px;
+}
+
+@media only screen and (max-width: 599px) {
+  #schedule-table {
+    padding-left: 0;
+  }
+}
+
+#capture-button {
+  margin-left: auto;
+}
+
+@media only screen and (max-width: 599px) {
+  #logo {
+    margin: 0 auto 16px auto;
+  }
+}
+
+.introjs-tooltipbuttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.introjs-tooltipbuttons .introjs-donebutton {
+  order: 1;
+  margin-right: 0;
+}
+
+@keyframes coffee-animation {
+  0% {
+    transform: rotate(0) scale(1);
+  }
+  50% {
+    transform: rotate(0) scale(1.15);
+  }
+  65% {
+    transform: rotate(0) scale(1.3);
+  }
+  70% {
+    transform: rotate(0) scale(1.3);
+  }
+  74% {
+    transform: rotate(-10deg) scale(1.3);
+  }
+  78% {
+    transform: rotate(10deg) scale(1.3);
+  }
+  82% {
+    transform: rotate(-10deg) scale(1.3);
+  }
+  86% {
+    transform: rotate(10deg) scale(1.3);
+  }
+  90% {
+    transform: rotate(0) scale(1.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
