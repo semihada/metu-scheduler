@@ -34,6 +34,12 @@ npm run fetch-engineering
 
 You can equivalently pass `--all` or `--engineering` to `npm run fetch-offerings` (for example, `npm run fetch-offerings -- --engineering`).
 
+Each run compares the fresh data against the previously committed file and, when
+anything changed, appends a per-department summary of added, removed, and changed
+courses to [CHANGELOG.md](CHANGELOG.md). The JSON files are pretty-printed with
+naturally sorted keys, so git diffs show exactly which courses changed. The
+scheduled GitHub Actions run also uses the same summary as its commit message.
+
 ## Credits
 
 - **UI Architecture:** Adapted from [Bilkent Scheduler](https://github.com/furkankose/bilkent-scheduler) by Furkan Kose, licensed under MIT. 

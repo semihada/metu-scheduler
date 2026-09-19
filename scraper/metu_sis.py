@@ -15,9 +15,11 @@ import re
 import sys
 import tempfile
 import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from bs4 import BeautifulSoup
 from curl_cffi import requests
@@ -25,6 +27,11 @@ from curl_cffi import requests
 SIS_URL = "https://sis.metu.edu.tr"
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "public" / "data"
+CHANGELOG_PATH = ROOT / "CHANGELOG.md"
+CHANGELOG_HEADER = (
+    "# Course Offerings Changelog\n\n"
+    "Every automated scrape that changes course data adds an entry here.\n\n"
+)
 DAY_INDEX = {
     "Monday": 0,
     "Tuesday": 1,
@@ -39,6 +46,15 @@ ENGINEERING_PROGRAMS = frozenset({"AEE", "CE", "CENG", "EE", "IE", "ME", "ROB"})
 
 def clean(value: str | None) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
+
+
+def istanbul_now() -> datetime:
+    """Current local time in Istanbul (Europe/Istanbul; UTC+3 year-round since 2016)."""
+    try:
+        return datetime.now(ZoneInfo("Europe/Istanbul"))
+    except ZoneInfoNotFoundError:
+        # No IANA database available (bare Windows without the tzdata package).
+        return datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=3)))
 
 
 class SISClient:
@@ -188,10 +204,25 @@ def parse_courses(html: str, program: str) -> dict[str, Any]:
     return courses
 
 
+def natural_key(value: str) -> tuple:
+    """Sort key that orders digit runs numerically: "1" < "2" < "10"."""
+    return tuple(int(part) if part.isdigit() else part for part in re.split(r"(\d+)", value))
+
+
+def ordered(value: Any) -> Any:
+    """Recursively rebuild dicts with naturally sorted keys for stable, readable diffs."""
+    if isinstance(value, dict):
+        return {key: ordered(value[key]) for key in sorted(value, key=natural_key)}
+    if isinstance(value, list):
+        return [ordered(item) for item in value]
+    return value
+
+
 def write_json(path: Path, value: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=path.parent, delete=False) as temp:
-        json.dump(value, temp, ensure_ascii=False, separators=(",", ":"))
+        json.dump(ordered(value), temp, ensure_ascii=False, indent=2)
+        temp.write("\n")
         temp_path = Path(temp.name)
     temp_path.replace(path)
 
@@ -203,6 +234,106 @@ def read_json(path: Path, default: Any) -> Any:
         return json.load(source)
 
 
+def summarize_changes(previous: dict[str, Any], current: dict[str, Any]) -> tuple[list[str], dict[str, int], list[str]]:
+    """Compare two offerings snapshots.
+
+    Returns (per-department markdown blocks, totals, changed department codes).
+    """
+    blocks: list[str] = []
+    totals = {"added": 0, "removed": 0, "changed": 0}
+    departments: list[str] = []
+    for code in sorted(set(previous) | set(current), key=natural_key):
+        old_courses, new_courses = previous.get(code, {}), current.get(code, {})
+        added = sorted(set(new_courses) - set(old_courses), key=natural_key)
+        removed = sorted(set(old_courses) - set(new_courses), key=natural_key)
+        changed = sorted(
+            (course for course in set(old_courses) & set(new_courses) if old_courses[course] != new_courses[course]),
+            key=natural_key,
+        )
+        if not (added or removed or changed):
+            continue
+        totals["added"] += len(added)
+        totals["removed"] += len(removed)
+        totals["changed"] += len(changed)
+        departments.append(code)
+        lines = [f"### {code}"]
+        if added:
+            lines.append(f"- Added ({len(added)}): {', '.join(added)}")
+        if removed:
+            lines.append(f"- Removed ({len(removed)}): {', '.join(removed)}")
+        if changed:
+            lines.append(f"- Changed ({len(changed)}): {', '.join(changed)}")
+        blocks.append("\n".join(lines))
+    return blocks, totals, departments
+
+
+def changelog_entry(previous: dict[str, Any], current: dict[str, Any], semester: dict[str, str]) -> str:
+    blocks, totals, departments = summarize_changes(previous, current)
+    stamp = istanbul_now().strftime("%Y-%m-%d %H:%M %z")
+    if not previous:
+        return "\n".join(
+            [
+                f"## {stamp} - {semester['name']} ({semester['code']})",
+                "",
+                f"Initial snapshot: {len(current)} departments, "
+                f"{sum(len(courses) for courses in current.values())} courses.",
+            ]
+        )
+    return "\n".join(
+        [
+            f"## {stamp} - {semester['name']} ({semester['code']})",
+            "",
+            f"{len(departments)} departments: +{totals['added']} added, -{totals['removed']} removed, "
+            f"{totals['changed']} changed",
+            "",
+            *blocks,
+        ]
+    )
+
+
+def commit_summary(previous: dict[str, Any], current: dict[str, Any], semester: dict[str, str]) -> str:
+    """Build the bot's commit message: summary title on the first line, details as the body."""
+    blocks, totals, departments = summarize_changes(previous, current)
+    if not previous:
+        return "\n".join(
+            [
+                f"Auto-update course offerings (new semester: {semester['name']})",
+                "",
+                f"Initial snapshot: {len(current)} departments, "
+                f"{sum(len(courses) for courses in current.values())} courses.",
+            ]
+        ) + "\n"
+    names = ", ".join(departments[:3])
+    if len(departments) > 3:
+        names += f" and {len(departments) - 3} more"
+    return "\n".join(
+        [
+            f"Auto-update course offerings ({names})",
+            "",
+            f"{len(departments)} departments: +{totals['added']} added, -{totals['removed']} removed, "
+            f"{totals['changed']} changed",
+            "",
+            *blocks,
+        ]
+    ) + "\n"
+
+
+def update_changelog(entry: str) -> None:
+    """Insert a new entry just below the changelog header, newest first."""
+    if CHANGELOG_PATH.exists():
+        content = CHANGELOG_PATH.read_text(encoding="utf-8")
+        if content.startswith(CHANGELOG_HEADER):
+            content = CHANGELOG_HEADER + entry + "\n\n" + content[len(CHANGELOG_HEADER) :]
+        else:
+            # Header was edited by hand: fall back to inserting below the title line.
+            title_end = content.find("\n")
+            rest = content[title_end + 1 :].lstrip("\n") if title_end != -1 else content
+            content = f"{content[: title_end + 1]}\n{entry}\n\n{rest}"
+    else:
+        content = f"{CHANGELOG_HEADER}{entry}\n"
+    CHANGELOG_PATH.write_text(content, encoding="utf-8")
+
+
 def arguments() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Refresh METU SIS course offerings.")
     refresh = parser.add_mutually_exclusive_group(required=True)
@@ -211,6 +342,11 @@ def arguments() -> argparse.Namespace:
         "--engineering",
         action="store_true",
         help="refresh AEE, CE, CENG, EE, IE, ME, and ROB only",
+    )
+    parser.add_argument(
+        "--summary-file",
+        type=Path,
+        help="write a commit-ready summary (title line + details) to this file",
     )
     return parser.parse_args()
 
@@ -231,6 +367,7 @@ def main() -> None:
         raise RuntimeError("No requested METU SIS programs were found")
 
     offering_path = DATA_DIR / "offerings" / f"{semester['code']}.json"
+    previous = read_json(offering_path, {})
     offerings: dict[str, Any] = {} if args.all else read_json(offering_path, {})
     departments = {} if args.all else {
         department["code"]: department
@@ -247,10 +384,23 @@ def main() -> None:
     if not any(offerings.values()):
         raise RuntimeError("METU SIS returned no courses; refusing to replace existing data")
     year_start = int(semester["code"][:4])
-    write_json(DATA_DIR / "departments.json", list(departments.values()))
+    write_json(
+        DATA_DIR / "departments.json",
+        sorted(departments.values(), key=lambda item: natural_key(item["code"])),
+    )
     write_json(DATA_DIR / "semesters.json", [{**semester, "year": f"{year_start}-{year_start + 1}"}])
     write_json(offering_path, offerings)
     print(f"Wrote {sum(len(courses) for courses in offerings.values())} courses for {semester['name']}.")
+
+    blocks, _, _ = summarize_changes(previous, offerings)
+    if blocks:
+        entry = changelog_entry(previous, offerings, semester)
+        update_changelog(entry)
+        if args.summary_file:
+            args.summary_file.write_text(commit_summary(previous, offerings, semester), encoding="utf-8")
+        print(entry)
+    else:
+        print("No offering changes detected.")
 
 
 if __name__ == "__main__":

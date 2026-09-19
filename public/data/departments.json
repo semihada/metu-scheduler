@@ -1,1 +1,822 @@
-[{"code":"TURK","name":"Turkish Language"},{"code":"THEA","name":"Music and Fine Arts"},{"code":"SLTP","name":"Music and Fine Arts"},{"code":"MUS","name":"Music and Fine Arts"},{"code":"INST","name":"Music and Fine Arts"},{"code":"ARCH","name":"Architecture"},{"code":"CRP","name":"City and Regional Planning"},{"code":"ID","name":"Industrial Design"},{"code":"GENE","name":"Molecular Biology and Genetics"},{"code":"PHYS","name":"Physics"},{"code":"SOC","name":"Sociology"},{"code":"PSY","name":"Psychology"},{"code":"CHEM","name":"Chemistry"},{"code":"MATH","name":"Mathematics"},{"code":"BIOL","name":"Biology"},{"code":"HIST","name":"History"},{"code":"PHIL","name":"Philosophy"},{"code":"STAT","name":"Statistics"},{"code":"ADM","name":"Political Science and Public Adm."},{"code":"ECON","name":"Economics"},{"code":"BA","name":"Business Administration"},{"code":"IR","name":"International Relations"},{"code":"GIA","name":"Global and International Affairs (International Joint Program)"},{"code":"BAS","name":"Business Administration (International Joint Program)"},{"code":"ELE","name":"Elementary Education"},{"code":"ECE","name":"Early Childhood Education"},{"code":"ESE","name":"Elementary Science Education"},{"code":"EME","name":"Elementary Mathematics Educ."},{"code":"SSME","name":"Secondary Science and Mathematics Educ."},{"code":"PHED","name":"Physics Education"},{"code":"CHED","name":"Chemistry Education"},{"code":"CEIT","name":"Computer Education and Instructional Technology"},{"code":"FLE","name":"Foreign Language Education"},{"code":"TEFL","name":"English Language Teaching (International Joint Program)"},{"code":"PES","name":"Physical Education and Sports"},{"code":"EDS","name":"Educational Sciences"},{"code":"BED","name":"Biology Education"},{"code":"MSE","name":"Mathematics and Science Education"},{"code":"ENVE","name":"Environmental Engineering"},{"code":"ES","name":"Engineering Sciences"},{"code":"CE","name":"Civil Engineering"},{"code":"CHE","name":"Chemical Engineering"},{"code":"GEOE","name":"Geological Engineering"},{"code":"MINE","name":"Mining Engineering"},{"code":"PETE","name":"Petroleum and Natural Gas Engineering"},{"code":"EE","name":"Electrical and Electronics Engineering"},{"code":"IE","name":"Industrial Engineering"},{"code":"ME","name":"Mechanical Engineering"},{"code":"METE","name":"Metallurgical and Materials Engineering"},{"code":"CENG","name":"Computer Engineering"},{"code":"AEE","name":"Aerospace Engineering"},{"code":"FDE","name":"Food Engineering"},{"code":"CNGB","name":"Computer Engineering (Türkiye-Azerbaijan University TAU)"},{"code":"BASE","name":"Basic English"},{"code":"ARAB","name":"Modern Languages (Arabic)"},{"code":"FREN","name":"Modern Languages (French)"},{"code":"GERM","name":"Modern Languages (German)"},{"code":"JA","name":"Modern Languages (Japanese)"},{"code":"ITAL","name":"Modern Languages (Italian)"},{"code":"RUS","name":"Modern Languages (Russian)"},{"code":"SPAN","name":"Modern Languages (Spanish)"},{"code":"HEB","name":"Modern Languages (Hebrew)"},{"code":"GRE","name":"Modern Language (Greek)"},{"code":"CHN","name":"Modern Languages (Chinese)"},{"code":"PERS","name":"Modern Languages (Persian)"},{"code":"KORE","name":"Modern Languages (Korean)"},{"code":"TFL","name":"Modern Languages (Turkish as a Foreign Languages)"},{"code":"ENG","name":"Modern Languages (English)"},{"code":"TPR","name":"Tech. Voc.School"},{"code":"AUTO","name":"Industrial Automation"},{"code":"WELD","name":"Welding Technology"},{"code":"TKPR","name":"Meslek Yüksekokulu"},{"code":"FDTE","name":"Food Technology"},{"code":"ELEK","name":"Elektrik"},{"code":"ENEL","name":"Elektronik Teknolojisi"},{"code":"ENOT","name":"Endüstriyel Otomasyon"},{"code":"IAM","name":"Institute Of Applied Mathematics"},{"code":"CRYP","name":"Cryptography"},{"code":"SC","name":"Scientific Computing Program"},{"code":"FM","name":"Financial Mathematics"},{"code":"FMLI","name":"Financial Mathematics: Life Insurance Option"},{"code":"IS","name":"Information Systems"},{"code":"COGS","name":"Cognitive Sciences"},{"code":"MS","name":"Modelling And Simulation"},{"code":"ION","name":"Informatics Online"},{"code":"SM","name":"Software Management"},{"code":"MI","name":"Medical Informatics"},{"code":"WBLS","name":"Work Based Learning Studies (International Joint Program)"},{"code":"BIN","name":"Bioinformatics"},{"code":"MMI","name":"Multimedia Informatics"},{"code":"CSEC","name":"Cyber Security"},{"code":"DI","name":"Data Informatics"},{"code":"HPC","name":"Information Systems and High Performance Computing (International Joint Program)"},{"code":"MASC","name":"Graduate School of Marine Sciences"},{"code":"PHOC","name":"Phys. Oceanography"},{"code":"CHOC","name":"Chemical Oceanography"},{"code":"MGEO","name":"Marine Geology and Geophysics"},{"code":"MBIO","name":"Marine Biology and Fisheries"},{"code":"OCEA","name":"Oceanography"},{"code":"MTED","name":"Mathematics Education"},{"code":"SCED","name":"Science Education"},{"code":"RP","name":"Regional Planning"},{"code":"CP","name":"City Planning"},{"code":"BS","name":"Building Science"},{"code":"UD","name":"Urban Design"},{"code":"CONS","name":"Graduate Program in Conservation of Cultural Heritage"},{"code":"IDDI","name":"Design Research for Interaction (International Joint Program)"},{"code":"ARCD","name":"Computational Design and Fabrication Technologies in Architecture (International Joint Program)"},{"code":"BCH","name":"Biochemistry"},{"code":"BTEC","name":"Biotechnology"},{"code":"PST","name":"Polymer Science and Technology"},{"code":"ARME","name":"Archaeometry"},{"code":"ASTR","name":"Astrophysics"},{"code":"GGIT","name":"Geodetic and Geographical Information Technologies"},{"code":"EM","name":"Engineering Management"},{"code":"SE","name":"Software Engineering"},{"code":"ST","name":"Structural Mechanics"},{"code":"HE","name":"Hydrosystems Engineering"},{"code":"CEME","name":"Cement Engineering"},{"code":"MNT","name":"Micro and Nanotechnology"},{"code":"BME","name":"Biomedical Engineering"},{"code":"EQS","name":"Earthquake Studies"},{"code":"ESS","name":"Earth System Science"},{"code":"MDM","name":"Mechanical Design and Manufacturing"},{"code":"OHS","name":"Occupational Health and Safety"},{"code":"NSNT","name":"Neuroscience and Neurotechnology"},{"code":"OR","name":"Operational Research"},{"code":"ENVM","name":"Environmental Management"},{"code":"ROB","name":"Robotics"},{"code":"DDS","name":"Data and Decision Sciences"},{"code":"AIX","name":"Artificial Intelligence Engineering"},{"code":"ISS","name":"Grad.Institute Social Sciences"},{"code":"AH","name":"History of Architecture"},{"code":"GWS","name":"Gender&Women Studies"},{"code":"UPL","name":"Urban Policy Planning and Local Governments"},{"code":"SA","name":"Settlement Archaeology"},{"code":"ARS","name":"Area Studies"},{"code":"MCS","name":"Media and Cultural Studies"},{"code":"FPSY","name":"Family Psychology"},{"code":"ELT","name":"English Language Teaching"},{"code":"ELIT","name":"English Literature"},{"code":"ESME","name":"Elementary Science and Math. E."},{"code":"COUN","name":"Guidance and Psychological Counseling"},{"code":"EAP","name":"Educational Administration and Planning"},{"code":"CI","name":"Curriculum and Instruction"},{"code":"IPSY","name":"Industrial and Organizational Psychology"},{"code":"STPS","name":"Science and Technology Policy Studies"},{"code":"MES","name":"Middle East Studies"},{"code":"EUS","name":"European Studies"},{"code":"HRDE","name":"Human Resources Development In Education"},{"code":"EAS","name":"Eurasian Studies"},{"code":"AET","name":"Applied Ethics"},{"code":"EMBA","name":"Executive Master of Business Administration"},{"code":"EI","name":"European Integration"},{"code":"SPL","name":"Social Policy"},{"code":"SAN","name":"Social Anthropology"},{"code":"GTSS","name":"Social Sciences (Turkish- German) (International Joint Program)"},{"code":"ASN","name":"Asian Studies"},{"code":"LNA","name":"Latin and North American Studies"},{"code":"PSCL","name":"Clinical Psychology"},{"code":"CNG","name":"Computer Engineering"},{"code":"EEE","name":"Electrical and Electronics Engineering"},{"code":"MAT","name":"Mathematics"},{"code":"PHY","name":"Physics"},{"code":"CHM","name":"Chemistry"},{"code":"STAS","name":"Statistics"},{"code":"CVE","name":"Civil Engineering"},{"code":"MECH","name":"Mechanical Engineering"},{"code":"CHME","name":"Chemical Engineering"},{"code":"BIO","name":"Biology"},{"code":"PNGE","name":"Petroleum and Natural Gas Engineering"},{"code":"ARC","name":"Architecture"},{"code":"ENV","name":"Environmental Engineering"},{"code":"ESC","name":"Engineering Sciences"},{"code":"ASE","name":"Aerospace Engineering"},{"code":"IDS","name":"Industrial Design"},{"code":"OCHS","name":"Occupational Health and Safety"},{"code":"INE","name":"Industrial Engineering"},{"code":"SNG","name":"Software Engineering"},{"code":"CYG","name":"Cybersecurity Engineering"},{"code":"BUSD","name":"Business Administration (International Joint Program)"},{"code":"ECO","name":"Economics"},{"code":"BUS","name":"Business Administration"},{"code":"PSIR","name":"Political Science and International Relations"},{"code":"TUR","name":"Turkish Language"},{"code":"HST","name":"History"},{"code":"EFL","name":"Teaching English as a Foreign Language"},{"code":"EDUS","name":"Educational Sciences"},{"code":"PSYC","name":"Psychology"},{"code":"SOCL","name":"Sociology"},{"code":"ART","name":"Art"},{"code":"CTE","name":"Computer Education and Instructional Technology"},{"code":"PHL","name":"Philosophy"},{"code":"GPC","name":"Guidance and Psychological Counseling"},{"code":"TEA","name":"Fine Arts"},{"code":"ENGL","name":"Modern Languages (English)"},{"code":"GRM","name":"Modern Languages (German)"},{"code":"FRN","name":"Modern Languages (French)"},{"code":"CHIN","name":"Modern Languages (Chinese)"},{"code":"SPN","name":"Modern Languages (Spanish)"},{"code":"ENGP","name":"English Language Preparatory Program"},{"code":"SEES","name":"Sustainable Environment and Energy Systems"},{"code":"ENLT","name":"English Language Teaching"},{"code":"AIN","name":"Artificial Intelligence Engineering"},{"code":"PSYL","name":"Clinical Psychology"}]
+[
+  {
+    "code": "ADM",
+    "name": "Political Science and Public Adm."
+  },
+  {
+    "code": "AEE",
+    "name": "Aerospace Engineering"
+  },
+  {
+    "code": "AET",
+    "name": "Applied Ethics"
+  },
+  {
+    "code": "AH",
+    "name": "History of Architecture"
+  },
+  {
+    "code": "AIN",
+    "name": "Artificial Intelligence Engineering"
+  },
+  {
+    "code": "AIX",
+    "name": "Artificial Intelligence Engineering"
+  },
+  {
+    "code": "ARAB",
+    "name": "Modern Languages (Arabic)"
+  },
+  {
+    "code": "ARC",
+    "name": "Architecture"
+  },
+  {
+    "code": "ARCD",
+    "name": "Computational Design and Fabrication Technologies in Architecture (International Joint Program)"
+  },
+  {
+    "code": "ARCH",
+    "name": "Architecture"
+  },
+  {
+    "code": "ARME",
+    "name": "Archaeometry"
+  },
+  {
+    "code": "ARS",
+    "name": "Area Studies"
+  },
+  {
+    "code": "ART",
+    "name": "Art"
+  },
+  {
+    "code": "ASE",
+    "name": "Aerospace Engineering"
+  },
+  {
+    "code": "ASN",
+    "name": "Asian Studies"
+  },
+  {
+    "code": "ASTR",
+    "name": "Astrophysics"
+  },
+  {
+    "code": "AUTO",
+    "name": "Industrial Automation"
+  },
+  {
+    "code": "BA",
+    "name": "Business Administration"
+  },
+  {
+    "code": "BAS",
+    "name": "Business Administration (International Joint Program)"
+  },
+  {
+    "code": "BASE",
+    "name": "Basic English"
+  },
+  {
+    "code": "BCH",
+    "name": "Biochemistry"
+  },
+  {
+    "code": "BED",
+    "name": "Biology Education"
+  },
+  {
+    "code": "BIN",
+    "name": "Bioinformatics"
+  },
+  {
+    "code": "BIO",
+    "name": "Biology"
+  },
+  {
+    "code": "BIOL",
+    "name": "Biology"
+  },
+  {
+    "code": "BME",
+    "name": "Biomedical Engineering"
+  },
+  {
+    "code": "BS",
+    "name": "Building Science"
+  },
+  {
+    "code": "BTEC",
+    "name": "Biotechnology"
+  },
+  {
+    "code": "BUS",
+    "name": "Business Administration"
+  },
+  {
+    "code": "BUSD",
+    "name": "Business Administration (International Joint Program)"
+  },
+  {
+    "code": "CE",
+    "name": "Civil Engineering"
+  },
+  {
+    "code": "CEIT",
+    "name": "Computer Education and Instructional Technology"
+  },
+  {
+    "code": "CEME",
+    "name": "Cement Engineering"
+  },
+  {
+    "code": "CENG",
+    "name": "Computer Engineering"
+  },
+  {
+    "code": "CHE",
+    "name": "Chemical Engineering"
+  },
+  {
+    "code": "CHED",
+    "name": "Chemistry Education"
+  },
+  {
+    "code": "CHEM",
+    "name": "Chemistry"
+  },
+  {
+    "code": "CHIN",
+    "name": "Modern Languages (Chinese)"
+  },
+  {
+    "code": "CHM",
+    "name": "Chemistry"
+  },
+  {
+    "code": "CHME",
+    "name": "Chemical Engineering"
+  },
+  {
+    "code": "CHN",
+    "name": "Modern Languages (Chinese)"
+  },
+  {
+    "code": "CHOC",
+    "name": "Chemical Oceanography"
+  },
+  {
+    "code": "CI",
+    "name": "Curriculum and Instruction"
+  },
+  {
+    "code": "CNG",
+    "name": "Computer Engineering"
+  },
+  {
+    "code": "CNGB",
+    "name": "Computer Engineering (Türkiye-Azerbaijan University TAU)"
+  },
+  {
+    "code": "COGS",
+    "name": "Cognitive Sciences"
+  },
+  {
+    "code": "CONS",
+    "name": "Graduate Program in Conservation of Cultural Heritage"
+  },
+  {
+    "code": "COUN",
+    "name": "Guidance and Psychological Counseling"
+  },
+  {
+    "code": "CP",
+    "name": "City Planning"
+  },
+  {
+    "code": "CRP",
+    "name": "City and Regional Planning"
+  },
+  {
+    "code": "CRYP",
+    "name": "Cryptography"
+  },
+  {
+    "code": "CSEC",
+    "name": "Cyber Security"
+  },
+  {
+    "code": "CTE",
+    "name": "Computer Education and Instructional Technology"
+  },
+  {
+    "code": "CVE",
+    "name": "Civil Engineering"
+  },
+  {
+    "code": "CYG",
+    "name": "Cybersecurity Engineering"
+  },
+  {
+    "code": "DDS",
+    "name": "Data and Decision Sciences"
+  },
+  {
+    "code": "DI",
+    "name": "Data Informatics"
+  },
+  {
+    "code": "EAP",
+    "name": "Educational Administration and Planning"
+  },
+  {
+    "code": "EAS",
+    "name": "Eurasian Studies"
+  },
+  {
+    "code": "ECE",
+    "name": "Early Childhood Education"
+  },
+  {
+    "code": "ECO",
+    "name": "Economics"
+  },
+  {
+    "code": "ECON",
+    "name": "Economics"
+  },
+  {
+    "code": "EDS",
+    "name": "Educational Sciences"
+  },
+  {
+    "code": "EDUS",
+    "name": "Educational Sciences"
+  },
+  {
+    "code": "EE",
+    "name": "Electrical and Electronics Engineering"
+  },
+  {
+    "code": "EEE",
+    "name": "Electrical and Electronics Engineering"
+  },
+  {
+    "code": "EFL",
+    "name": "Teaching English as a Foreign Language"
+  },
+  {
+    "code": "EI",
+    "name": "European Integration"
+  },
+  {
+    "code": "ELE",
+    "name": "Elementary Education"
+  },
+  {
+    "code": "ELEK",
+    "name": "Elektrik"
+  },
+  {
+    "code": "ELIT",
+    "name": "English Literature"
+  },
+  {
+    "code": "ELT",
+    "name": "English Language Teaching"
+  },
+  {
+    "code": "EM",
+    "name": "Engineering Management"
+  },
+  {
+    "code": "EMBA",
+    "name": "Executive Master of Business Administration"
+  },
+  {
+    "code": "EME",
+    "name": "Elementary Mathematics Educ."
+  },
+  {
+    "code": "ENEL",
+    "name": "Elektronik Teknolojisi"
+  },
+  {
+    "code": "ENG",
+    "name": "Modern Languages (English)"
+  },
+  {
+    "code": "ENGL",
+    "name": "Modern Languages (English)"
+  },
+  {
+    "code": "ENGP",
+    "name": "English Language Preparatory Program"
+  },
+  {
+    "code": "ENLT",
+    "name": "English Language Teaching"
+  },
+  {
+    "code": "ENOT",
+    "name": "Endüstriyel Otomasyon"
+  },
+  {
+    "code": "ENV",
+    "name": "Environmental Engineering"
+  },
+  {
+    "code": "ENVE",
+    "name": "Environmental Engineering"
+  },
+  {
+    "code": "ENVM",
+    "name": "Environmental Management"
+  },
+  {
+    "code": "EQS",
+    "name": "Earthquake Studies"
+  },
+  {
+    "code": "ES",
+    "name": "Engineering Sciences"
+  },
+  {
+    "code": "ESC",
+    "name": "Engineering Sciences"
+  },
+  {
+    "code": "ESE",
+    "name": "Elementary Science Education"
+  },
+  {
+    "code": "ESME",
+    "name": "Elementary Science and Math. E."
+  },
+  {
+    "code": "ESS",
+    "name": "Earth System Science"
+  },
+  {
+    "code": "EUS",
+    "name": "European Studies"
+  },
+  {
+    "code": "FDE",
+    "name": "Food Engineering"
+  },
+  {
+    "code": "FDTE",
+    "name": "Food Technology"
+  },
+  {
+    "code": "FLE",
+    "name": "Foreign Language Education"
+  },
+  {
+    "code": "FM",
+    "name": "Financial Mathematics"
+  },
+  {
+    "code": "FMLI",
+    "name": "Financial Mathematics: Life Insurance Option"
+  },
+  {
+    "code": "FPSY",
+    "name": "Family Psychology"
+  },
+  {
+    "code": "FREN",
+    "name": "Modern Languages (French)"
+  },
+  {
+    "code": "FRN",
+    "name": "Modern Languages (French)"
+  },
+  {
+    "code": "GENE",
+    "name": "Molecular Biology and Genetics"
+  },
+  {
+    "code": "GEOE",
+    "name": "Geological Engineering"
+  },
+  {
+    "code": "GERM",
+    "name": "Modern Languages (German)"
+  },
+  {
+    "code": "GGIT",
+    "name": "Geodetic and Geographical Information Technologies"
+  },
+  {
+    "code": "GIA",
+    "name": "Global and International Affairs (International Joint Program)"
+  },
+  {
+    "code": "GPC",
+    "name": "Guidance and Psychological Counseling"
+  },
+  {
+    "code": "GRE",
+    "name": "Modern Language (Greek)"
+  },
+  {
+    "code": "GRM",
+    "name": "Modern Languages (German)"
+  },
+  {
+    "code": "GTSS",
+    "name": "Social Sciences (Turkish- German) (International Joint Program)"
+  },
+  {
+    "code": "GWS",
+    "name": "Gender&Women Studies"
+  },
+  {
+    "code": "HE",
+    "name": "Hydrosystems Engineering"
+  },
+  {
+    "code": "HEB",
+    "name": "Modern Languages (Hebrew)"
+  },
+  {
+    "code": "HIST",
+    "name": "History"
+  },
+  {
+    "code": "HPC",
+    "name": "Information Systems and High Performance Computing (International Joint Program)"
+  },
+  {
+    "code": "HRDE",
+    "name": "Human Resources Development In Education"
+  },
+  {
+    "code": "HST",
+    "name": "History"
+  },
+  {
+    "code": "IAM",
+    "name": "Institute Of Applied Mathematics"
+  },
+  {
+    "code": "ID",
+    "name": "Industrial Design"
+  },
+  {
+    "code": "IDDI",
+    "name": "Design Research for Interaction (International Joint Program)"
+  },
+  {
+    "code": "IDS",
+    "name": "Industrial Design"
+  },
+  {
+    "code": "IE",
+    "name": "Industrial Engineering"
+  },
+  {
+    "code": "INE",
+    "name": "Industrial Engineering"
+  },
+  {
+    "code": "INST",
+    "name": "Music and Fine Arts"
+  },
+  {
+    "code": "ION",
+    "name": "Informatics Online"
+  },
+  {
+    "code": "IPSY",
+    "name": "Industrial and Organizational Psychology"
+  },
+  {
+    "code": "IR",
+    "name": "International Relations"
+  },
+  {
+    "code": "IS",
+    "name": "Information Systems"
+  },
+  {
+    "code": "ISS",
+    "name": "Grad.Institute Social Sciences"
+  },
+  {
+    "code": "ITAL",
+    "name": "Modern Languages (Italian)"
+  },
+  {
+    "code": "JA",
+    "name": "Modern Languages (Japanese)"
+  },
+  {
+    "code": "KORE",
+    "name": "Modern Languages (Korean)"
+  },
+  {
+    "code": "LNA",
+    "name": "Latin and North American Studies"
+  },
+  {
+    "code": "MASC",
+    "name": "Graduate School of Marine Sciences"
+  },
+  {
+    "code": "MAT",
+    "name": "Mathematics"
+  },
+  {
+    "code": "MATH",
+    "name": "Mathematics"
+  },
+  {
+    "code": "MBIO",
+    "name": "Marine Biology and Fisheries"
+  },
+  {
+    "code": "MCS",
+    "name": "Media and Cultural Studies"
+  },
+  {
+    "code": "MDM",
+    "name": "Mechanical Design and Manufacturing"
+  },
+  {
+    "code": "ME",
+    "name": "Mechanical Engineering"
+  },
+  {
+    "code": "MECH",
+    "name": "Mechanical Engineering"
+  },
+  {
+    "code": "MES",
+    "name": "Middle East Studies"
+  },
+  {
+    "code": "METE",
+    "name": "Metallurgical and Materials Engineering"
+  },
+  {
+    "code": "MGEO",
+    "name": "Marine Geology and Geophysics"
+  },
+  {
+    "code": "MI",
+    "name": "Medical Informatics"
+  },
+  {
+    "code": "MINE",
+    "name": "Mining Engineering"
+  },
+  {
+    "code": "MMI",
+    "name": "Multimedia Informatics"
+  },
+  {
+    "code": "MNT",
+    "name": "Micro and Nanotechnology"
+  },
+  {
+    "code": "MS",
+    "name": "Modelling And Simulation"
+  },
+  {
+    "code": "MSE",
+    "name": "Mathematics and Science Education"
+  },
+  {
+    "code": "MTED",
+    "name": "Mathematics Education"
+  },
+  {
+    "code": "MUS",
+    "name": "Music and Fine Arts"
+  },
+  {
+    "code": "NSNT",
+    "name": "Neuroscience and Neurotechnology"
+  },
+  {
+    "code": "OCEA",
+    "name": "Oceanography"
+  },
+  {
+    "code": "OCHS",
+    "name": "Occupational Health and Safety"
+  },
+  {
+    "code": "OHS",
+    "name": "Occupational Health and Safety"
+  },
+  {
+    "code": "OR",
+    "name": "Operational Research"
+  },
+  {
+    "code": "PERS",
+    "name": "Modern Languages (Persian)"
+  },
+  {
+    "code": "PES",
+    "name": "Physical Education and Sports"
+  },
+  {
+    "code": "PETE",
+    "name": "Petroleum and Natural Gas Engineering"
+  },
+  {
+    "code": "PHED",
+    "name": "Physics Education"
+  },
+  {
+    "code": "PHIL",
+    "name": "Philosophy"
+  },
+  {
+    "code": "PHL",
+    "name": "Philosophy"
+  },
+  {
+    "code": "PHOC",
+    "name": "Phys. Oceanography"
+  },
+  {
+    "code": "PHY",
+    "name": "Physics"
+  },
+  {
+    "code": "PHYS",
+    "name": "Physics"
+  },
+  {
+    "code": "PNGE",
+    "name": "Petroleum and Natural Gas Engineering"
+  },
+  {
+    "code": "PSCL",
+    "name": "Clinical Psychology"
+  },
+  {
+    "code": "PSIR",
+    "name": "Political Science and International Relations"
+  },
+  {
+    "code": "PST",
+    "name": "Polymer Science and Technology"
+  },
+  {
+    "code": "PSY",
+    "name": "Psychology"
+  },
+  {
+    "code": "PSYC",
+    "name": "Psychology"
+  },
+  {
+    "code": "PSYL",
+    "name": "Clinical Psychology"
+  },
+  {
+    "code": "ROB",
+    "name": "Robotics"
+  },
+  {
+    "code": "RP",
+    "name": "Regional Planning"
+  },
+  {
+    "code": "RUS",
+    "name": "Modern Languages (Russian)"
+  },
+  {
+    "code": "SA",
+    "name": "Settlement Archaeology"
+  },
+  {
+    "code": "SAN",
+    "name": "Social Anthropology"
+  },
+  {
+    "code": "SC",
+    "name": "Scientific Computing Program"
+  },
+  {
+    "code": "SCED",
+    "name": "Science Education"
+  },
+  {
+    "code": "SE",
+    "name": "Software Engineering"
+  },
+  {
+    "code": "SEES",
+    "name": "Sustainable Environment and Energy Systems"
+  },
+  {
+    "code": "SLTP",
+    "name": "Music and Fine Arts"
+  },
+  {
+    "code": "SM",
+    "name": "Software Management"
+  },
+  {
+    "code": "SNG",
+    "name": "Software Engineering"
+  },
+  {
+    "code": "SOC",
+    "name": "Sociology"
+  },
+  {
+    "code": "SOCL",
+    "name": "Sociology"
+  },
+  {
+    "code": "SPAN",
+    "name": "Modern Languages (Spanish)"
+  },
+  {
+    "code": "SPL",
+    "name": "Social Policy"
+  },
+  {
+    "code": "SPN",
+    "name": "Modern Languages (Spanish)"
+  },
+  {
+    "code": "SSME",
+    "name": "Secondary Science and Mathematics Educ."
+  },
+  {
+    "code": "ST",
+    "name": "Structural Mechanics"
+  },
+  {
+    "code": "STAS",
+    "name": "Statistics"
+  },
+  {
+    "code": "STAT",
+    "name": "Statistics"
+  },
+  {
+    "code": "STPS",
+    "name": "Science and Technology Policy Studies"
+  },
+  {
+    "code": "TEA",
+    "name": "Fine Arts"
+  },
+  {
+    "code": "TEFL",
+    "name": "English Language Teaching (International Joint Program)"
+  },
+  {
+    "code": "TFL",
+    "name": "Modern Languages (Turkish as a Foreign Languages)"
+  },
+  {
+    "code": "THEA",
+    "name": "Music and Fine Arts"
+  },
+  {
+    "code": "TKPR",
+    "name": "Meslek Yüksekokulu"
+  },
+  {
+    "code": "TPR",
+    "name": "Tech. Voc.School"
+  },
+  {
+    "code": "TUR",
+    "name": "Turkish Language"
+  },
+  {
+    "code": "TURK",
+    "name": "Turkish Language"
+  },
+  {
+    "code": "UD",
+    "name": "Urban Design"
+  },
+  {
+    "code": "UPL",
+    "name": "Urban Policy Planning and Local Governments"
+  },
+  {
+    "code": "WBLS",
+    "name": "Work Based Learning Studies (International Joint Program)"
+  },
+  {
+    "code": "WELD",
+    "name": "Welding Technology"
+  }
+]
