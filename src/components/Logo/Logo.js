@@ -4,7 +4,12 @@ import "./Logo.css";
 
 const Logo = () => (
   <div id="metu-scheduler">
-    <span id="metu-mark" aria-hidden="true">M</span>
+    <img
+  id="metu-mark"
+  src="./icons/favicon.svg"
+  alt=""
+  aria-hidden="true"
+/>
     <span id="scheduler-title">
       METU
       <br />

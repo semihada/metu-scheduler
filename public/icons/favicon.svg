@@ -1,25 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <defs>
-    <linearGradient id="metu-red" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#E31837" /> <!-- Bright Crimson -->
-      <stop offset="100%" stop-color="#9E0A20" /> <!-- Deep Red -->
-    </linearGradient>
-  </defs>
+  <!-- Modern Squircle Arkaplan -->
+  <path d="M 50,0 C 10,0 0,10 0,50 C 0,90 10,100 50,100 C 90,100 100,90 100,50 C 100,10 90,0 50,0 Z" fill="#CE0026" />
   
-  <!-- Smooth Dark Background -->
-  <rect width="100" height="100" rx="24" fill="#18181B" />
-
-  <!-- Timetable Columns (representing scheduled courses) -->
+  <!-- Takvim Ana Gövde (Kalın, yuvarlatılmış köşeler) -->
+  <rect x="20" y="24" width="60" height="60" rx="14" fill="none" stroke="#FFFFFF" stroke-width="8" />
   
-  <!-- Monday -->
-  <rect x="18" y="24" width="16" height="32" rx="6" fill="url(#metu-red)" />
-  <rect x="18" y="62" width="16" height="14" rx="5" fill="#3F3F46" />
-
-  <!-- Wednesday -->
-  <rect x="42" y="24" width="16" height="16" rx="5" fill="#3F3F46" />
-  <rect x="42" y="46" width="16" height="30" rx="6" fill="url(#metu-red)" />
-
-  <!-- Friday -->
-  <rect x="66" y="24" width="16" height="24" rx="6" fill="url(#metu-red)" />
-  <rect x="66" y="54" width="16" height="22" rx="6" fill="#3F3F46" />
+  <!-- Takvim Başlık Çizgisi -->
+  <line x1="20" y1="46" x2="80" y2="46" stroke="#FFFFFF" stroke-width="8" />
+  
+  <!-- Ajanda Spiralleri / Üst Halkalar -->
+  <rect x="32" y="14" width="8" height="18" rx="4" fill="#FFFFFF" />
+  <rect x="60" y="14" width="8" height="18" rx="4" fill="#FFFFFF" />
+  
+  <!-- Ders Programı Blokları (Asimetrik, dinamik görünüm) -->
+  <rect x="32" y="56" width="36" height="8" rx="4" fill="#FFFFFF" />
+  <rect x="32" y="68" width="20" height="8" rx="4" fill="#FFFFFF" />
 </svg>
