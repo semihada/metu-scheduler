@@ -1,0 +1,88 @@
+name: Scrape and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+  schedule:
+    # Run every 2 hours, offset from the top of the hour
+    - cron: '17 */2 * * *'
+
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install Python Dependencies
+        run: python -m pip install -r scraper/requirements.txt
+
+      - name: Install Node Dependencies
+        run: npm ci
+
+      - name: Fetch METU Offerings
+        run: npm run fetch-all
+
+      - name: Commit Updated Course Data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add public/data/offerings/
+
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update course offerings"
+            git pull --rebase origin main
+            git push
+          else
+            echo "No offering changes."
+          fi
+
+      - name: Build Frontend
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
