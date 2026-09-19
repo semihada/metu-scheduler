@@ -1,6 +1,11 @@
 # METU Scheduler
 
-A schedule planner for METU students. Its React scheduling interface is adapted from the MIT-licensed Bilkent Scheduler project; its METU SIS data flow is based on the open-source `robotdegilim.xyz` scraper included under `reference-repos/`.
+[![Official App](https://img.shields.io/badge/Official_App-Launch-CB0000?style=for-the-badge&logo=github&logoColor=white)](https://semihada.github.io/metu-scheduler/)
+
+A schedule planner for METU students. Its React scheduling interface is adapted from the MIT-licensed Bilkent Scheduler project; its METU SIS data flow is based on the open-source `robotdegilim.xyz` scraper.
+Auto-updates course offerings every two hours.
+
+[Open Metu Scheduler](https://semihada.github.io/metu-scheduler/)
 
 ## Run
 
