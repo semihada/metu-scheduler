@@ -6,18 +6,14 @@ on:
       - main
 
   schedule:
-    # Until October 10 (Last day of Add Drop for 2026-1)
-    # 08:17, 10:17, 12:17, ..., 22:17 Türkiye time
-    - cron: '17 5,7,9,11,13,15,17,19 * * *'
+    # Frequent updates through October 10, 2026
+    - cron: '17 0,8,10,12,14,16,18,20,22 * * *'
+      timezone: 'Europe/Istanbul'
 
-    # 00:17 Türkiye time
-    - cron: '17 21 * * *'
+    # Daily update from October 11 onward (after Add-Drop period)
+    - cron: '0 6 * * *'
+      timezone: 'Europe/Istanbul'
 
-    # From October 11 onward:
-    # 06:00 Türkiye time
-    - cron: '0 3 * * *'
-
-  # Allow manual runs from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -30,20 +26,50 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check-schedule:
+    runs-on: ubuntu-latest
+
+    outputs:
+      should_run: ${{ steps.date-logic.outputs.run }}
+
+    steps:
+      - name: Evaluate Date Schedule
+        id: date-logic
+        run: |
+          # Always run for pushes and manual runs
+          if [[ "${{ github.event_name }}" != "schedule" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          CURRENT_DATE=$(TZ=Europe/Istanbul date +"%Y-%m-%d")
+          CUTOFF="2026-10-10"
+          SCHEDULE="${{ github.event.schedule }}"
+
+          echo "Türkiye date: $CURRENT_DATE"
+          echo "Triggered cron: $SCHEDULE"
+
+          if [[ "$SCHEDULE" == "0 6 * * *" ]]; then
+            # Daily 06:00 job only runs starting October 11
+            if [[ "$CURRENT_DATE" > "$CUTOFF" ]]; then
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "Still in Add-Drop period. Skipping daily cron."
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            # Frequent jobs run through October 10 inclusive
+            if [[ "$CURRENT_DATE" > "$CUTOFF" ]]; then
+              echo "Add-Drop period has ended. Skipping frequent cron."
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
   scrape-and-deploy:
-    if: |
-      github.event_name != 'schedule' ||
-      (
-        (
-          github.event.schedule == '17 5,7,9,11,13,15,17,19 * * *' ||
-          github.event.schedule == '17 21 * * *'
-        ) &&
-        github.run_started_at < '2026-10-10T21:00:00Z'
-      ) ||
-      (
-        github.event.schedule == '0 3 * * *' &&
-        github.run_started_at >= '2026-10-10T21:00:00Z'
-      )
+    needs: check-schedule
+    if: needs.check-schedule.outputs.should_run == 'true'
 
     runs-on: ubuntu-latest
 
@@ -91,7 +117,7 @@ jobs:
             git pull --rebase origin main
             git push
           else
-            echo "No offering changes."
+            echo "No offering changes detected."
           fi
 
       - name: Build Frontend
