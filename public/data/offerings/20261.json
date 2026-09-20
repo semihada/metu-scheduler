@@ -57623,18 +57623,6 @@
         }
       }
     },
-    "MATH 496": {
-      "name": "SUPERVISED INDEPENDENT STUDY &RESEARCH",
-      "sections": {
-        "1": {
-          "instructor": "BURAK KAYA",
-          "schedule": {
-            "53": "TBA",
-            "60": "TBA"
-          }
-        }
-      }
-    },
     "MATH 500": {
       "name": "M.S. THESIS",
       "sections": {
@@ -77671,6 +77659,15 @@
     },
     "SNG 480": {
       "name": "FORMAL METHODS IN SPECIFICATION AND DESIGN",
+      "sections": {
+        "1": {
+          "instructor": "STAFF",
+          "schedule": {}
+        }
+      }
+    },
+    "SNG 489": {
+      "name": "SPECIAL TOPICS IN SOFTWARE ENGINEERING: EVOLUTIONARY COMPUTING",
       "sections": {
         "1": {
           "instructor": "STAFF",
