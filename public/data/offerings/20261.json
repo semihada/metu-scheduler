@@ -18462,19 +18462,6 @@
         }
       }
     },
-    "CEIT 358": {
-      "name": "ARTIFICIAL INTELLIGENCE: APPLICATIONS IN EDUCATION",
-      "sections": {
-        "1": {
-          "instructor": "TARKAN GÜRBÜZ",
-          "schedule": {
-            "8": "EFC104",
-            "15": "EFC104",
-            "22": "EFC104"
-          }
-        }
-      }
-    },
     "CEIT 360": {
       "name": "INTRODUC. TO VISUAL DESIGN/BASIC ELEMENTS OF VIS. DES.",
       "sections": {
@@ -53088,6 +53075,10 @@
             "16": "G104",
             "23": "G104"
           }
+        },
+        "2": {
+          "instructor": "MEHMET FATİH TAYFUR",
+          "schedule": {}
         }
       }
     },
@@ -53316,6 +53307,10 @@
             "45": "G202",
             "52": "G202"
           }
+        },
+        "2": {
+          "instructor": "ZERRİN TORUN",
+          "schedule": {}
         }
       }
     },

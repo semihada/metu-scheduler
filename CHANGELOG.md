@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-09-20 21:18 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +0 added, -1 removed, 2 changed
+
+### CEIT
+- Removed (1): CEIT 358
+### IR
+- Changed (2): IR 235, IR 455
+
 ## 2026-09-20 17:47 +0300 - 2026-2027 Fall (20261)
 
 2 departments: +1 added, -1 removed, 0 changed
