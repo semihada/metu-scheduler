@@ -18921,6 +18921,19 @@
         }
       }
     },
+    "CEIT 502": {
+      "name": "THE BUSINESS CASE FOR E-LEARNING",
+      "sections": {
+        "1": {
+          "instructor": "TARKAN GÜRBÜZ",
+          "schedule": {
+            "57": "TBA",
+            "64": "TBA",
+            "71": "TBA"
+          }
+        }
+      }
+    },
     "CEIT 503": {
       "name": "EDUCATIONAL STATISTICS",
       "sections": {
@@ -18953,7 +18966,7 @@
         "1": {
           "instructor": "TARKAN GÜRBÜZ",
           "schedule": {
-            "46": "EFCSEMİNER"
+            "0": "EFCSEMİNER"
           }
         }
       }
@@ -19010,9 +19023,9 @@
         "1": {
           "instructor": "TARKAN GÜRBÜZ",
           "schedule": {
-            "35": "EFCSEMİNER",
             "42": "EFCSEMİNER",
-            "49": "EFCSEMİNER"
+            "49": "EFCSEMİNER",
+            "56": "EFCSEMİNER"
           }
         }
       }
@@ -19023,7 +19036,7 @@
         "1": {
           "instructor": "TARKAN GÜRBÜZ",
           "schedule": {
-            "39": "EFCSEMİNER"
+            "7": "EFCSEMİNER"
           }
         }
       }
@@ -39005,8 +39018,8 @@
         "50": {
           "instructor": "STAFF",
           "schedule": {
+            "21": "MEB204",
             "28": "MEB204",
-            "35": "MEB204",
             "37": "MEB204",
             "44": "MEB204"
           }
@@ -39502,8 +39515,8 @@
           "schedule": {
             "1": "CES1",
             "8": "CES1",
-            "11": "GR236",
-            "18": "GR236"
+            "11": "M08",
+            "18": "M08"
           }
         },
         "106": {
@@ -40228,9 +40241,7 @@
             "4": "M08",
             "7": "F15",
             "10": "M08",
-            "11": "M08",
             "17": "M08",
-            "18": "M08",
             "49": "F15",
             "56": "F15"
           }
@@ -40478,7 +40489,6 @@
             "15": "MEB204",
             "16": "MEB204",
             "17": "MEB204",
-            "21": "MEB204",
             "22": "MEB204",
             "29": "MEB204",
             "32": "MEB204"
@@ -40542,10 +40552,7 @@
             "15": "YP-D103",
             "16": "YP-D103",
             "22": "YP-D103",
-            "29": "YP-D103",
-            "36": "YP-D103",
             "38": "YP-D103",
-            "43": "YP-D103",
             "45": "YP-D103",
             "50": "YP-D103",
             "52": "YP-D103",
@@ -40954,11 +40961,11 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "29": "YP-D103",
+            "36": "YP-D103",
+            "43": "YP-D103"
+          }
         }
       }
     },
@@ -71992,9 +71999,9 @@
         "1": {
           "instructor": "BÜŞRA AKKÖKLER KARATEKELİ",
           "schedule": {
-            "10": "G102",
-            "17": "TBA",
-            "24": "TBA"
+            "10": "FZ17",
+            "17": "FZ17",
+            "24": "FZ17"
           }
         }
       }
@@ -82003,6 +82010,10 @@
           "instructor": "İBRAHİM SEMİH AKÇOMAK",
           "schedule": {}
         },
+        "4": {
+          "instructor": "EBRU VOYVODA",
+          "schedule": {}
+        },
         "5": {
           "instructor": "SYEDA NAZLI WASTİ PAMUKSUZ",
           "schedule": {}
@@ -82120,6 +82131,15 @@
       "sections": {
         "1": {
           "instructor": "SYEDA NAZLI WASTİ PAMUKSUZ",
+          "schedule": {}
+        }
+      }
+    },
+    "STPS 909": {
+      "name": "SPECIAL TOPICS",
+      "sections": {
+        "1": {
+          "instructor": "EBRU VOYVODA",
           "schedule": {}
         }
       }

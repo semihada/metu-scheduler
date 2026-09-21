@@ -1,5 +1,20 @@
 # Course Offerings Changelog
 
+## 2026-09-22 00:09 +0300 - 2026-2027 Fall (20261)
+
+4 departments: +2 added, -0 removed, 8 changed
+
+### CEIT
+- Added (1): CEIT 502
+- Changed (3): CEIT 522, CEIT 620, CEIT 622
+### ENG
+- Changed (3): ENG 101, ENG 215, ENG 312
+### PHIL
+- Changed (1): PHIL 108
+### STPS
+- Added (1): STPS 909
+- Changed (1): STPS 699
+
 ## 2026-09-21 20:09 +0300 - 2026-2027 Fall (20261)
 
 41 departments: +5 added, -14 removed, 169 changed
