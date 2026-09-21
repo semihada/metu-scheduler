@@ -1,5 +1,100 @@
 # Course Offerings Changelog
 
+## 2026-09-21 20:09 +0300 - 2026-2027 Fall (20261)
+
+41 departments: +5 added, -14 removed, 169 changed
+
+### ADM
+- Changed (3): ADM 1323, ADM 9001, ADM 9038
+### AEE
+- Changed (1): AEE 404
+### BA
+- Changed (45): BA 401, BA 1103, BA 1201, BA 1401, BA 2203, BA 2601, BA 2801, BA 2803, BA 3301, BA 3702, BA 4098, BA 4099, BA 4111, BA 4144, BA 4153, BA 4156, BA 4222, BA 4416, BA 4516, BA 4517, BA 4518, BA 4720, BA 4722, BA 4726, BA 4731, BA 4811, BA 4814, BA 4819, BA 4834, BA 4839, BA 4844, BA 5097, BA 5098, BA 5099, BA 8010, BA 8012, BA 8014, BA 8020, BA 9009, BA 9010, BA 9012, BA 9014, BA 9016, BA 9017, BA 9020
+### BCH
+- Changed (2): BCH 591, BCH 691
+### BIN
+- Changed (1): BIN 502
+### CE
+- Removed (1): CE 545
+- Changed (1): CE 241
+### CENG
+- Changed (17): CENG 223, CENG 351, CENG 371, CENG 424, CENG 435, CENG 463, CENG 466, CENG 477, CENG 487, CENG 495, CENG 499, CENG 519, CENG 567, CENG 570, CENG 600, CENG 786, CENG 902
+### CHEM
+- Changed (1): CHEM 106
+### CNG
+- Added (1): CNG 798
+- Removed (4): CNG 230, CNG 495, CNG 501, CNG 1530
+- Changed (7): CNG 213, CNG 223, CNG 300, CNG 351, CNG 353, CNG 400, CNG 409
+### CNGB
+- Changed (1): CNGB 315
+### CRP
+- Changed (3): CRP 478, CRP 490, CRP 814
+### CYG
+- Changed (1): CYG 461
+### DDS
+- Changed (1): DDS 501
+### EAS
+- Changed (1): EAS 509
+### ECON
+- Changed (13): ECON 101, ECON 201, ECON 210, ECON 414, ECON 422, ECON 482, ECON 487, ECON 501, ECON 502, ECON 651, ECON 852, ECON 918, ECON 934
+### EEE
+- Removed (1): EEE 381
+- Changed (6): EEE 201, EEE 281, EEE 300, EEE 400, EEE 413, EEE 806
+### ELIT
+- Removed (1): ELIT 525
+### ELT
+- Removed (2): ELT 603, ELT 605
+### EM
+- Changed (5): EM 505, EM 521, EM 522, EM 533, EM 727
+### ENG
+- Changed (2): ENG 101, ENG 215
+### ESC
+- Removed (1): ESC 412
+### FLE
+- Changed (1): FLE 423
+### GENE
+- Changed (1): GENE 479
+### GEOE
+- Added (1): GEOE 508
+### HIST
+- Changed (1): HIST 111
+### ID
+- Added (1): ID 361
+### IE
+- Changed (22): IE 241, IE 251, IE 265, IE 323, IE 333, IE 347, IE 361, IE 404, IE 407, IE 420, IE 422, IE 451, IE 455, IE 456, IE 464, IE 489, IE 494, IE 515, IE 525, IE 553, IE 561, IE 4908
+### INE
+- Added (1): INE 223
+### IR
+- Changed (1): IR 599
+### JA
+- Changed (3): JA 201, JA 202, JA 203
+### MAT
+- Removed (1): MAT 100
+### MATH
+- Changed (2): MATH 117, MATH 500
+### MECH
+- Removed (1): MECH 442
+- Changed (5): MECH 300, MECH 400, MECH 500, MECH 521, MECH 806
+### METE
+- Changed (2): METE 301, METE 712
+### MSE
+- Changed (2): MSE 599, MSE 699
+### OR
+- Changed (1): OR 520
+### PHIL
+- Changed (1): PHIL 108
+### PHYS
+- Changed (9): PHYS 111, PHYS 400, PHYS 500, PHYS 503, PHYS 586, PHYS 801, PHYS 803, PHYS 815, PHYS 826
+### PSY
+- Removed (1): PSY 5702
+- Changed (1): PSY 9013
+### PSYC
+- Changed (3): PSYC 335, PSYC 385, PSYC 2102
+### SOC
+- Added (1): SOC 208
+- Removed (1): SOC 102
+- Changed (3): SOC 801, SOC 803, SOC 810
+
 ## 2026-09-21 13:49 +0300 - 2026-2027 Fall (20261)
 
 67 departments: +48 added, -20 removed, 371 changed

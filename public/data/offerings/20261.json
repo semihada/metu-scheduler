@@ -77,7 +77,7 @@
           }
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "FİRDEVS EZGİ GÜNOK",
           "schedule": {
             "36": "FZ19",
             "43": "FZ19",
@@ -1599,12 +1599,12 @@
             "8": "TBA",
             "15": "TBA",
             "38": "FZ19",
-            "42": "FZ17",
+            "42": "TBA",
             "45": "FZ19",
-            "49": "FZ17",
+            "49": "TBA",
             "50": "TBA",
             "52": "FZ19",
-            "56": "FZ17",
+            "56": "TBA",
             "57": "TBA",
             "59": "FZ19"
           }
@@ -1897,13 +1897,8 @@
             "11": "FZ17",
             "18": "FZ17",
             "25": "FZ17",
-            "30": "FZ17",
             "32": "FZ17",
-            "37": "FZ17",
-            "44": "FZ17",
-            "51": "FZ17",
             "53": "F16",
-            "58": "FZ17",
             "60": "F16"
           }
         }
@@ -2165,6 +2160,10 @@
         },
         "4": {
           "instructor": "SERKAN ÖZGEN",
+          "schedule": {}
+        },
+        "5": {
+          "instructor": "HALİL ERSİN SÖKEN",
           "schedule": {}
         }
       }
@@ -7172,7 +7171,12 @@
       "sections": {
         "1": {
           "instructor": "TUĞRUL ATASOY",
-          "schedule": {}
+          "schedule": {
+            "29": "G207",
+            "31": "G207",
+            "36": "G207",
+            "38": "G207"
+          }
         }
       }
     },
@@ -7193,8 +7197,11 @@
       "name": "BUSINESS PRACTICE WORKSHOP",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "ONUR CAN CANSU",
+          "schedule": {
+            "57": "G110",
+            "64": "G110"
+          }
         },
         "2": {
           "instructor": "STAFF",
@@ -7215,7 +7222,12 @@
       "sections": {
         "1": {
           "instructor": "MELTEM ÖZGE ÖZCANLI BOZKURT",
-          "schedule": {}
+          "schedule": {
+            "44": "G110",
+            "51": "G110",
+            "58": "G110",
+            "65": "G110"
+          }
         }
       }
     },
@@ -7224,7 +7236,12 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "14": "G110",
+            "16": "G110",
+            "21": "G110",
+            "23": "G110"
+          }
         },
         "2": {
           "instructor": "STAFF",
@@ -7237,7 +7254,12 @@
       "sections": {
         "1": {
           "instructor": "BURÇAK ÖZOĞLU",
-          "schedule": {}
+          "schedule": {
+            "29": "G110",
+            "31": "G110",
+            "36": "G110",
+            "38": "G110"
+          }
         }
       }
     },
@@ -7246,7 +7268,12 @@
       "sections": {
         "1": {
           "instructor": "SYEDA NAZLI WASTİ PAMUKSUZ",
-          "schedule": {}
+          "schedule": {
+            "43": "G110",
+            "45": "G110",
+            "50": "G110",
+            "52": "G110"
+          }
         },
         "2": {
           "instructor": "STAFF",
@@ -7272,7 +7299,12 @@
       "sections": {
         "1": {
           "instructor": "SEZA DANIŞOĞLU",
-          "schedule": {}
+          "schedule": {
+            "0": "G110",
+            "2": "G110",
+            "7": "G110",
+            "9": "G110"
+          }
         }
       }
     },
@@ -7284,11 +7316,7 @@
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "3": {
-          "instructor": "STAFF",
+          "instructor": "SEZA DANIŞOĞLU",
           "schedule": {}
         }
       }
@@ -7298,7 +7326,12 @@
       "sections": {
         "1": {
           "instructor": "LAMİA ZEYNEP ONAY",
-          "schedule": {}
+          "schedule": {
+            "28": "G110",
+            "30": "G110",
+            "35": "G110",
+            "37": "G110"
+          }
         },
         "2": {
           "instructor": "STAFF",
@@ -7311,7 +7344,11 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "38": "G206",
+            "45": "G206",
+            "52": "G206"
+          }
         }
       }
     },
@@ -7371,7 +7408,7 @@
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {}
         },
         "15": {
@@ -7456,7 +7493,7 @@
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {}
         },
         "15": {
@@ -7508,10 +7545,15 @@
       "sections": {
         "1": {
           "instructor": "SYEDA NAZLI WASTİ PAMUKSUZ",
-          "schedule": {}
+          "schedule": {
+            "29": "G208",
+            "31": "G208",
+            "36": "G208",
+            "38": "G208"
+          }
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "SYEDA NAZLI WASTİ PAMUKSUZ",
           "schedule": {}
         }
       }
@@ -7524,7 +7566,7 @@
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "KAZIM YALÇINOĞLU",
           "schedule": {}
         }
       }
@@ -7551,8 +7593,13 @@
       "name": "INTERNATIONAL TRADE AND TRADE POLICY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "MELDA AKOĞLU ŞİŞMAN",
+          "schedule": {
+            "42": "G208",
+            "44": "G208",
+            "49": "G208",
+            "51": "G208"
+          }
         },
         "2": {
           "instructor": "STAFF",
@@ -7565,6 +7612,15 @@
       "sections": {
         "1": {
           "instructor": "YELDA ERDEN TOPAL",
+          "schedule": {
+            "15": "G207",
+            "17": "G207",
+            "22": "G207",
+            "24": "G207"
+          }
+        },
+        "2": {
+          "instructor": "YELDA ERDEN TOPAL",
           "schedule": {}
         }
       }
@@ -7574,7 +7630,12 @@
       "sections": {
         "1": {
           "instructor": "TUĞRUL ATASOY",
-          "schedule": {}
+          "schedule": {
+            "43": "G207",
+            "45": "G207",
+            "50": "G207",
+            "52": "G207"
+          }
         },
         "2": {
           "instructor": "STAFF",
@@ -7605,7 +7666,12 @@
       "sections": {
         "1": {
           "instructor": "SERHAN DURAN",
-          "schedule": {}
+          "schedule": {
+            "2": "G208",
+            "9": "G208",
+            "16": "G208",
+            "23": "G208"
+          }
         }
       }
     },
@@ -7617,7 +7683,7 @@
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "YELDA ERDEN TOPAL",
           "schedule": {}
         }
       }
@@ -7627,7 +7693,12 @@
       "sections": {
         "1": {
           "instructor": "GÜLŞAH KARAKAYA",
-          "schedule": {}
+          "schedule": {
+            "15": "G208",
+            "17": "G208",
+            "22": "G208",
+            "24": "G208"
+          }
         }
       }
     },
@@ -7636,7 +7707,12 @@
       "sections": {
         "1": {
           "instructor": "HATİCE GONCA BULUR",
-          "schedule": {}
+          "schedule": {
+            "43": "G208",
+            "45": "G208",
+            "50": "G208",
+            "52": "G208"
+          }
         }
       }
     },
@@ -7659,7 +7735,12 @@
       "sections": {
         "1": {
           "instructor": "ONUR CAN CANSU",
-          "schedule": {}
+          "schedule": {
+            "42": "G107",
+            "49": "G107",
+            "56": "G107",
+            "63": "G107"
+          }
         }
       }
     },
@@ -7668,7 +7749,12 @@
       "sections": {
         "1": {
           "instructor": "BURCU TARHAN ÇATAROĞLU",
-          "schedule": {}
+          "schedule": {
+            "17": "G209",
+            "24": "G209",
+            "31": "G209",
+            "38": "G209"
+          }
         }
       }
     },
@@ -7677,7 +7763,12 @@
       "sections": {
         "1": {
           "instructor": "EMİNEGÜL KARABABA",
-          "schedule": {}
+          "schedule": {
+            "14": "G207",
+            "16": "G207",
+            "21": "G207",
+            "23": "G207"
+          }
         }
       }
     },
@@ -7685,6 +7776,10 @@
       "name": "SOCIAL ENTREPRENEURSHIP",
       "sections": {
         "1": {
+          "instructor": "STAFF",
+          "schedule": {}
+        },
+        "2": {
           "instructor": "STAFF",
           "schedule": {}
         }
@@ -7695,7 +7790,12 @@
       "sections": {
         "1": {
           "instructor": "ZEHRA NURAY GÜNER",
-          "schedule": {}
+          "schedule": {
+            "1": "G107",
+            "3": "G107",
+            "8": "G107",
+            "10": "G107"
+          }
         }
       }
     },
@@ -7704,7 +7804,12 @@
       "sections": {
         "1": {
           "instructor": "ZEHRA NURAY GÜNER",
-          "schedule": {}
+          "schedule": {
+            "15": "G107",
+            "17": "G107",
+            "22": "G107",
+            "24": "G107"
+          }
         }
       }
     },
@@ -7713,7 +7818,12 @@
       "sections": {
         "1": {
           "instructor": "HANDE AYAYDIN HACIÖMEROĞLU",
-          "schedule": {}
+          "schedule": {
+            "14": "G107",
+            "16": "G107",
+            "21": "G107",
+            "23": "G107"
+          }
         }
       }
     },
@@ -7732,6 +7842,10 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {}
+        },
+        "2": {
+          "instructor": "STAFF",
+          "schedule": {}
         }
       }
     },
@@ -7740,10 +7854,6 @@
       "sections": {
         "1": {
           "instructor": "HANDE AYAYDIN HACIÖMEROĞLU",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -7780,7 +7890,12 @@
       "sections": {
         "1": {
           "instructor": "BERNA NİSA YILMAZ",
-          "schedule": {}
+          "schedule": {
+            "29": "G107",
+            "31": "G107",
+            "36": "G107",
+            "38": "G107"
+          }
         }
       }
     },
@@ -7854,7 +7969,7 @@
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {}
         },
         "15": {
@@ -7939,7 +8054,7 @@
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {}
         },
         "15": {
@@ -8024,7 +8139,7 @@
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {}
         },
         "15": {
@@ -8493,7 +8608,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "LAMİA ZEYNEP ONAY",
+          "instructor": "STAFF",
           "schedule": {}
         },
         "2": {
@@ -8555,54 +8670,28 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "G110",
             "1": "G110",
-            "2": "G110",
             "3": "G110",
             "4": "G110",
-            "7": "G110",
             "8": "G110",
-            "9": "G110",
             "10": "G110",
             "11": "G110",
-            "14": "G110",
             "15": "G110",
-            "16": "G110",
             "17": "G110",
             "18": "G110",
-            "21": "G110",
             "22": "G110",
-            "23": "G110",
             "24": "G110",
             "25": "G110",
-            "28": "G110",
-            "29": "G110",
-            "30": "G110",
-            "31": "G110",
             "32": "G110",
-            "35": "G110",
-            "36": "G110",
-            "37": "G110",
-            "38": "G110",
             "39": "G110",
             "42": "G110",
-            "43": "G110",
-            "44": "G110",
-            "45": "G110",
             "46": "G110",
             "49": "G110",
-            "50": "G110",
-            "51": "G110",
-            "52": "G110",
             "53": "G110",
             "56": "G110",
-            "57": "G110",
-            "58": "G110",
             "59": "G110",
             "60": "G110",
             "63": "G110",
-            "64": "G110",
-            "65": "G110",
             "66": "G110",
             "67": "G110"
           }
@@ -8626,11 +8715,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {}
         }
       }
@@ -8693,18 +8778,6 @@
           "schedule": {
             "1": "G208",
             "8": "G208",
-            "15": "G208",
-            "17": "G208",
-            "22": "G208",
-            "24": "G208",
-            "29": "G208",
-            "31": "G208",
-            "36": "G208",
-            "38": "G208",
-            "43": "G208",
-            "45": "G208",
-            "50": "G208",
-            "52": "G208",
             "57": "G208",
             "63": "G207",
             "64": "G208"
@@ -8846,10 +8919,6 @@
             "3": "G209",
             "8": "G209",
             "10": "G209",
-            "17": "G209",
-            "24": "G209",
-            "31": "G209",
-            "38": "G209",
             "45": "G209",
             "52": "G209"
           }
@@ -8862,29 +8931,10 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "G107",
-            "3": "G107",
-            "8": "G107",
-            "10": "G107",
-            "15": "G107",
-            "17": "G107",
-            "22": "G107",
-            "24": "G107",
-            "29": "G107",
-            "31": "G107",
-            "36": "G107",
-            "38": "G107",
-            "42": "G107",
-            "43": "G107",
             "44": "G107",
-            "49": "G107",
-            "50": "G107",
             "51": "G107",
-            "56": "G107",
             "57": "G107",
-            "63": "G107",
-            "64": "G107",
-            "66": "G107"
+            "64": "G107"
           }
         }
       }
@@ -8961,9 +9011,7 @@
             "32": "G208",
             "35": "G208",
             "39": "G208",
-            "42": "G208",
             "46": "G208",
-            "49": "G208",
             "53": "G208",
             "56": "G208",
             "60": "G208",
@@ -9000,7 +9048,7 @@
       "name": "SPECIAL TOPICS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP ECE TOLUN",
           "schedule": {
             "0": "G109",
             "3": "G109",
@@ -9044,10 +9092,6 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {
-            "2": "G208",
-            "9": "G208",
-            "16": "G208",
-            "23": "G208",
             "58": "G208",
             "65": "G208"
           }
@@ -9064,39 +9108,15 @@
         "2": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "G207",
-            "1": "G207",
-            "2": "G207",
-            "3": "G207",
             "4": "G207",
-            "7": "G207",
-            "8": "G207",
-            "9": "G207",
-            "10": "G207",
-            "14": "G207",
-            "15": "G207",
-            "16": "G207",
-            "17": "G207",
-            "21": "G207",
-            "22": "G207",
-            "23": "G207",
-            "24": "G207",
             "28": "G207",
-            "29": "G207",
             "30": "G207",
-            "31": "G207",
             "35": "G207",
-            "36": "G207",
             "37": "G207",
-            "38": "G207",
             "42": "G207",
-            "43": "G207",
             "44": "G207",
-            "45": "G207",
             "49": "G207",
-            "50": "G207",
             "51": "G207",
-            "52": "G207",
             "56": "G207",
             "57": "G207",
             "58": "G207",
@@ -9109,6 +9129,10 @@
         "3": {
           "instructor": "STAFF",
           "schedule": {
+            "0": "G207",
+            "2": "G207",
+            "7": "G207",
+            "9": "G207",
             "11": "G207",
             "18": "G207",
             "25": "G207",
@@ -9120,6 +9144,15 @@
             "60": "G207",
             "65": "G209",
             "67": "G207"
+          }
+        },
+        "4": {
+          "instructor": "STAFF",
+          "schedule": {
+            "1": "G207",
+            "3": "G207",
+            "8": "G207",
+            "10": "G207"
           }
         }
       }
@@ -9158,21 +9191,13 @@
             "7": "G107",
             "9": "G107",
             "11": "G107",
-            "14": "G107",
-            "16": "G107",
             "18": "G107",
-            "21": "G107",
-            "23": "G107",
             "25": "G107",
             "30": "G208",
             "32": "G107",
             "37": "G208",
             "39": "G107",
-            "44": "G208",
-            "45": "G107",
             "46": "G107",
-            "51": "G208",
-            "52": "G107",
             "53": "G107",
             "59": "G107",
             "60": "G107",
@@ -9183,9 +9208,7 @@
           "instructor": "STAFF",
           "schedule": {
             "28": "G107",
-            "30": "G107",
-            "35": "G107",
-            "37": "G107"
+            "35": "G107"
           }
         }
       }
@@ -10214,7 +10237,7 @@
       "name": "SEMINAR IN BIOCHEMISTRY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "BURAK VELİ KABASAKAL",
           "schedule": {}
         }
       }
@@ -10344,7 +10367,7 @@
       "name": "SEMINAR FOR PH.D. STUDENTS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "BURAK VELİ KABASAKAL",
           "schedule": {}
         }
       }
@@ -11188,9 +11211,9 @@
         "1": {
           "instructor": "SEHER NUR SÜLKÜ",
           "schedule": {
-            "11": "II-04",
-            "18": "II-04",
-            "25": "II-04"
+            "38": "ENF. LAB.",
+            "45": "ENF. LAB.",
+            "52": "ENF. LAB."
           }
         }
       }
@@ -16007,12 +16030,8 @@
           }
         },
         "4": {
-          "instructor": "ÇAĞLA AKGÜL",
-          "schedule": {
-            "3": "DR2",
-            "36": "TH8",
-            "43": "TH8"
-          }
+          "instructor": "STAFF",
+          "schedule": {}
         }
       }
     },
@@ -17251,19 +17270,6 @@
             "9": "K3LB102",
             "16": "K3LB102",
             "23": "K3LB102"
-          }
-        }
-      }
-    },
-    "CE 545": {
-      "name": "CEMENT AND CONCRETE QUALITY",
-      "sections": {
-        "1": {
-          "instructor": "İSMAİL ÖZGÜR YAMAN",
-          "schedule": {
-            "38": "TH3",
-            "45": "TH3",
-            "52": "TH3"
           }
         }
       }
@@ -19257,11 +19263,19 @@
       "sections": {
         "1": {
           "instructor": "FARUK POLAT",
-          "schedule": {}
+          "schedule": {
+            "35": "BMB1",
+            "42": "BMB1",
+            "45": "BMB1"
+          }
         },
         "2": {
           "instructor": "FARUK POLAT",
-          "schedule": {}
+          "schedule": {
+            "14": "BMB1",
+            "21": "BMB1",
+            "31": "BMB1"
+          }
         }
       }
     },
@@ -19778,11 +19792,19 @@
       "sections": {
         "1": {
           "instructor": "İSMAİL SENGÖR ALTINGÖVDE",
-          "schedule": {}
+          "schedule": {
+            "46": "BMB1",
+            "50": "BMB1",
+            "53": "BMB1"
+          }
         },
         "2": {
           "instructor": "PINAR KARAGÖZ",
-          "schedule": {}
+          "schedule": {
+            "10": "BMB4",
+            "36": "BMB4",
+            "43": "BMB4"
+          }
         }
       }
     },
@@ -19791,7 +19813,11 @@
       "sections": {
         "1": {
           "instructor": "MURAT MANGUOĞLU",
-          "schedule": {}
+          "schedule": {
+            "15": "BMB4",
+            "35": "BMB4",
+            "42": "BMB4"
+          }
         }
       }
     },
@@ -19945,7 +19971,11 @@
       "sections": {
         "1": {
           "instructor": "FERDA NUR ALPASLAN",
-          "schedule": {}
+          "schedule": {
+            "16": "BMB3",
+            "50": "BMB3",
+            "57": "BMB3"
+          }
         }
       }
     },
@@ -19954,7 +19984,12 @@
       "sections": {
         "1": {
           "instructor": "ERTAN ONUR",
-          "schedule": {}
+          "schedule": {
+            "31": "BMB4",
+            "46": "BMB4",
+            "53": "BMB4",
+            "60": "BMB4"
+          }
         }
       }
     },
@@ -19985,7 +20020,11 @@
       "sections": {
         "1": {
           "instructor": "ÇAĞRI TORAMAN",
-          "schedule": {}
+          "schedule": {
+            "23": "BMB3",
+            "30": "BMB3",
+            "49": "BMB3"
+          }
         }
       }
     },
@@ -19994,7 +20033,12 @@
       "sections": {
         "1": {
           "instructor": "FATOŞ TUNAY YARMAN VURAL",
-          "schedule": {}
+          "schedule": {
+            "14": "BMB4",
+            "17": "BMB4",
+            "21": "BMB4",
+            "24": "BMB4"
+          }
         }
       }
     },
@@ -20003,11 +20047,19 @@
       "sections": {
         "1": {
           "instructor": "AHMET OĞUZ AKYÜZ",
-          "schedule": {}
+          "schedule": {
+            "1": "BMB1",
+            "3": "BMB1",
+            "10": "BMB1"
+          }
         },
         "2": {
           "instructor": "KADİR CENK ALPAY",
-          "schedule": {}
+          "schedule": {
+            "28": "BMB1",
+            "37": "BMB1",
+            "44": "BMB1"
+          }
         }
       }
     },
@@ -20016,7 +20068,11 @@
       "sections": {
         "1": {
           "instructor": "MURAT MANGUOĞLU",
-          "schedule": {}
+          "schedule": {
+            "7": "BMB4",
+            "38": "BMB4",
+            "45": "BMB4"
+          }
         }
       }
     },
@@ -20118,7 +20174,11 @@
       "sections": {
         "1": {
           "instructor": "CEVAT ŞENER",
-          "schedule": {}
+          "schedule": {
+            "22": "BMB4",
+            "28": "BMB4",
+            "29": "BMB4"
+          }
         }
       }
     },
@@ -20127,7 +20187,11 @@
       "sections": {
         "1": {
           "instructor": "ŞEYDA ERTEKİN BOLELLİ",
-          "schedule": {}
+          "schedule": {
+            "52": "BMB4",
+            "58": "BMB4",
+            "59": "BMB4"
+          }
         }
       }
     },
@@ -20308,7 +20372,11 @@
       "sections": {
         "1": {
           "instructor": "ERTAN ONUR",
-          "schedule": {}
+          "schedule": {
+            "9": "BMB5",
+            "16": "BMB5",
+            "23": "BMB5"
+          }
         }
       }
     },
@@ -20331,9 +20399,9 @@
         "1": {
           "instructor": "FEHİME NİHAN ÇİÇEKLİ",
           "schedule": {
-            "29": "BMB2",
-            "36": "BMB2",
-            "43": "BMB2"
+            "29": "BMB5",
+            "36": "BMB5",
+            "43": "BMB5"
           }
         }
       }
@@ -20343,7 +20411,11 @@
       "sections": {
         "1": {
           "instructor": "HAKAN YILDIZ",
-          "schedule": {}
+          "schedule": {
+            "8": "BMB2",
+            "15": "BMB2",
+            "22": "BMB2"
+          }
         }
       }
     },
@@ -20501,8 +20573,8 @@
           "schedule": {
             "36": "TBA",
             "43": "TBA",
-            "53": "BMB1",
-            "60": "BMB1"
+            "53": "TBA",
+            "60": "TBA"
           }
         },
         "28": {
@@ -20582,7 +20654,12 @@
       "sections": {
         "1": {
           "instructor": "ULUÇ SARANLI",
-          "schedule": {}
+          "schedule": {
+            "16": "BMB A101",
+            "23": "BMB A101",
+            "36": "BMB A101",
+            "43": "BMB A101"
+          }
         }
       }
     },
@@ -21028,10 +21105,10 @@
         "1": {
           "instructor": "AHMET OĞUZ AKYÜZ",
           "schedule": {
-            "3": "TBA",
-            "10": "TBA",
-            "17": "TBA",
-            "24": "TBA"
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
           }
         }
       }
@@ -22886,9 +22963,9 @@
           "instructor": "GÜLSÜN GÖKAĞAÇ ARSLAN",
           "schedule": {
             "44": "K08",
-            "49": "K08",
+            "49": "K15",
             "51": "K08",
-            "56": "K08"
+            "56": "K15"
           }
         }
       }
@@ -25537,7 +25614,7 @@
           }
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "TUĞÇE BALLI",
           "schedule": {
             "9": "TBA",
             "15": "TBA",
@@ -25572,27 +25649,6 @@
             "44": "TBA",
             "51": "TBA"
           }
-        },
-        "4": {
-          "instructor": "NASSER LOTFİ",
-          "schedule": {
-            "37": "TBA",
-            "49": "TBA",
-            "56": "TBA"
-          }
-        }
-      }
-    },
-    "CNG 230": {
-      "name": "INTRODUCTION TO C PROGRAMMING",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -25653,7 +25709,7 @@
       "name": "SUMMER PRACTICE I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "İDİL CANDAN",
           "schedule": {}
         }
       }
@@ -25762,7 +25818,7 @@
           }
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "TUĞÇE BALLI",
           "schedule": {
             "0": "TBA",
             "7": "TBA",
@@ -25775,7 +25831,7 @@
       "name": "SOFTWARE DESIGN PATTERNS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "CEVAT ŞENER",
           "schedule": {
             "11": "TBA",
             "18": "TBA",
@@ -25801,7 +25857,7 @@
       "name": "SUMMER PRACTICE II",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MUHAMMAD TOAHA RAZA KHAN",
           "schedule": {}
         }
       }
@@ -25810,7 +25866,7 @@
       "name": "SPECIAL TOPICS: INTRODUCTION TO MACHINE LEARNING",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "NURBANU AKSOY",
           "schedule": {
             "45": "TBA",
             "52": "TBA",
@@ -25958,15 +26014,6 @@
         }
       }
     },
-    "CNG 495": {
-      "name": "CLOUD COMPUTING",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "CNG 500": {
       "name": "M.SC.THESIS",
       "sections": {
@@ -25996,15 +26043,6 @@
         }
       }
     },
-    "CNG 501": {
-      "name": "DEEP LEARNING",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "CNG 583": {
       "name": "COMPUTATIONAL VISION",
       "sections": {
@@ -26027,6 +26065,15 @@
             "30": "TBA",
             "37": "TBA"
           }
+        }
+      }
+    },
+    "CNG 798": {
+      "name": "SPECIAL TOPICS IN COMPUTER ENGINEERING: QUANTUM COMPUTING",
+      "sections": {
+        "1": {
+          "instructor": "MURAT MANGUOĞLU",
+          "schedule": {}
         }
       }
     },
@@ -26080,15 +26127,6 @@
       "sections": {
         "1": {
           "instructor": "MUHAMMAD TOAHA RAZA KHAN",
-          "schedule": {}
-        }
-      }
-    },
-    "CNG 1530": {
-      "name": "MEDICAL IMAGE ANALYSIS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -26157,7 +26195,7 @@
       "name": "ALGORITHMS",
       "sections": {
         "1": {
-          "instructor": "AHMET COŞAR",
+          "instructor": "OKAN TOPÇU",
           "schedule": {}
         }
       }
@@ -27911,11 +27949,8 @@
           "instructor": "CEMİLE NİL UZUN",
           "schedule": {
             "8": "R89",
-            "10": "R-45",
             "15": "R89",
-            "17": "R-45",
-            "22": "R89",
-            "24": "R-45"
+            "22": "R89"
           }
         }
       }
@@ -27937,7 +27972,7 @@
       "name": "SUMMER PRACTICE:MUNICIPAL,PUBLIC OR PRIVATE PLAN.OFFICE",
       "sections": {
         "1": {
-          "instructor": "EMİNE YETİŞKUL ŞENBİL",
+          "instructor": "CEMİLE NİL UZUN",
           "schedule": {}
         }
       }
@@ -28230,10 +28265,11 @@
           "instructor": "CEMİLE NİL UZUN",
           "schedule": {
             "7": "R44",
+            "10": "R-45",
             "14": "R44",
+            "17": "R-45",
             "21": "R44",
-            "37": "TBA",
-            "44": "TBA"
+            "24": "R-45"
           }
         }
       }
@@ -29118,12 +29154,8 @@
       "name": "INFORMATION SECURITY MANAGEMENT (IS)",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "21": "TBA",
-            "28": "TBA",
-            "45": "TBA"
-          }
+          "instructor": "TUĞÇE BALLI",
+          "schedule": {}
         }
       }
     }
@@ -29166,8 +29198,12 @@
       "name": "INTRODUCTION TO DATA AND DECISION SCIENCES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "BORA YALÇINER",
+          "schedule": {
+            "11": "BMB A101",
+            "18": "BMB A101",
+            "25": "BMB A101"
+          }
         }
       }
     },
@@ -29498,7 +29534,11 @@
       "sections": {
         "1": {
           "instructor": "PINAR KÖKSAL",
-          "schedule": {}
+          "schedule": {
+            "35": "F-108",
+            "42": "F-108",
+            "49": "F-108"
+          }
         }
       }
     },
@@ -30381,6 +30421,7 @@
         "1": {
           "instructor": "EREN GÜRER",
           "schedule": {
+            "17": "FZ16",
             "24": "FZ16",
             "37": "F.AUD",
             "44": "F.AUD"
@@ -30487,9 +30528,9 @@
           "instructor": "MÜRÜVVET İLKNUR BÜYÜKBOYACI HANAY",
           "schedule": {
             "37": "FZ16",
+            "42": "FZ16",
             "44": "FZ16",
-            "49": "FZ16",
-            "56": "FZ16"
+            "49": "FZ16"
           }
         }
       }
@@ -30569,15 +30610,27 @@
       "sections": {
         "1": {
           "instructor": "MÜNİS SEVEN AĞIR YAĞCI",
-          "schedule": {}
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA"
+          }
         },
         "2": {
           "instructor": "ADVİYE HAZAL GÜZEL",
-          "schedule": {}
+          "schedule": {
+            "45": "TBA",
+            "52": "TBA",
+            "59": "TBA"
+          }
         },
         "3": {
           "instructor": "RENGİN MERYEM AYHAN",
-          "schedule": {}
+          "schedule": {
+            "44": "TBA",
+            "51": "TBA",
+            "58": "TBA"
+          }
         }
       }
     },
@@ -30746,9 +30799,9 @@
         "1": {
           "instructor": "ÖMER KAĞAN PARMAKSIZ",
           "schedule": {
-            "9": "FZ15",
-            "16": "FZ15",
-            "23": "FZ15"
+            "25": "FZ14",
+            "32": "FZ14",
+            "39": "FZ14"
           }
         }
       }
@@ -30772,9 +30825,9 @@
         "1": {
           "instructor": "DÜRDANE ŞİRİN SARAÇOĞLU",
           "schedule": {
-            "7": "TBA",
-            "14": "TBA",
-            "21": "TBA"
+            "7": "FZ17",
+            "14": "FZ17",
+            "21": "FZ17"
           }
         }
       }
@@ -30876,9 +30929,9 @@
         "1": {
           "instructor": "İBRAHİM SEMİH AKÇOMAK",
           "schedule": {
-            "32": "FZ14",
-            "39": "FZ14",
-            "46": "FZ14"
+            "32": "FZ09",
+            "39": "FZ09",
+            "46": "FZ09"
           }
         }
       }
@@ -30889,9 +30942,9 @@
         "1": {
           "instructor": "MÜRÜVVET İLKNUR BÜYÜKBOYACI HANAY",
           "schedule": {
-            "43": "FZ15",
-            "50": "FZ15",
-            "57": "FZ15"
+            "22": "FZ09",
+            "29": "FZ09",
+            "36": "FZ09"
           }
         }
       }
@@ -30929,7 +30982,6 @@
           "schedule": {
             "30": "FZ14",
             "37": "FZ14",
-            "44": "FZ14",
             "53": "FZ09",
             "60": "FZ09"
           }
@@ -30942,8 +30994,8 @@
         "1": {
           "instructor": "EBRU VOYVODA",
           "schedule": {
-            "32": "FZ09",
-            "39": "FZ09",
+            "32": "F-104",
+            "39": "F-104",
             "51": "FZ14",
             "58": "FZ14"
           }
@@ -31285,9 +31337,9 @@
         "1": {
           "instructor": "ESMA GAYGISIZ LAJUNEN",
           "schedule": {
-            "43": "FZ14",
-            "50": "FZ14",
-            "57": "FZ14"
+            "43": "F-106",
+            "50": "F-106",
+            "57": "F-106"
           }
         }
       }
@@ -31583,15 +31635,15 @@
         "1": {
           "instructor": "HAKAN ERCAN",
           "schedule": {
-            "1": "F-106",
-            "8": "F-106",
-            "15": "F-106",
-            "22": "F-106",
-            "29": "F-106",
-            "36": "F-106",
-            "43": "F-106",
-            "50": "F-106",
-            "57": "F-106"
+            "1": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA",
+            "29": "TBA",
+            "36": "TBA",
+            "43": "TBA",
+            "50": "TBA",
+            "57": "TBA"
           }
         }
       }
@@ -31792,7 +31844,10 @@
       "sections": {
         "1": {
           "instructor": "NUH AYGÜN DALKIRAN",
-          "schedule": {}
+          "schedule": {
+            "49": "FZ17",
+            "56": "FZ17"
+          }
         }
       }
     },
@@ -31837,7 +31892,9 @@
             "36": "TBA",
             "43": "TBA",
             "50": "TBA",
-            "57": "TBA"
+            "51": "FZ17",
+            "57": "TBA",
+            "58": "FZ17"
           }
         }
       }
@@ -36901,13 +36958,8 @@
       "name": "CIRCUITS THEORY I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "0": "TBA",
-            "7": "TBA",
-            "16": "TBA",
-            "23": "TBA"
-          }
+          "instructor": "SÜLEYMAN MAHİRCAN DEMİR",
+          "schedule": {}
         }
       }
     },
@@ -36941,12 +36993,8 @@
       "name": "ELECTRICAL CIRCUITS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "4": "TBA",
-            "11": "TBA",
-            "58": "TBA"
-          }
+          "instructor": "SÜLEYMAN MAHİRCAN DEMİR",
+          "schedule": {}
         },
         "2": {
           "instructor": "BİLAL AHMAD",
@@ -36962,7 +37010,7 @@
       "name": "SUMMER PRACTICE I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "TAYFUN NESİMOĞLU",
           "schedule": {}
         }
       }
@@ -37045,20 +37093,11 @@
         }
       }
     },
-    "EEE 381": {
-      "name": "SYSTEMS AND CONTROL",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "EEE 400": {
       "name": "SUMMER PRACTICE II",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "TAYFUN NESİMOĞLU",
           "schedule": {}
         }
       }
@@ -37067,12 +37106,8 @@
       "name": "INTRODUCTION TO VLSI DESIGN",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "2": "TBA",
-            "17": "TBA",
-            "24": "TBA"
-          }
+          "instructor": "SÜLEYMAN MAHİRCAN DEMİR",
+          "schedule": {}
         }
       }
     },
@@ -37273,7 +37308,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "SÜLEYMAN MAHİRCAN DEMİR",
           "schedule": {}
         }
       }
@@ -37507,15 +37542,6 @@
             "51": "EFB-21",
             "58": "EFB-21"
           }
-        }
-      }
-    },
-    "ELIT 525": {
-      "name": "RESEARCH METHODS AND ETHICAL CONSIDERATIONS IN LITERARY STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -37926,24 +37952,6 @@
         },
         "22": {
           "instructor": "SEBAHAT YASEMİN TEZGİDEN CAKCAK",
-          "schedule": {}
-        }
-      }
-    },
-    "ELT 603": {
-      "name": "ENG.LANGUAGE TEACHING CURRICULUM",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
-    "ELT 605": {
-      "name": "SOCIOLINGUISTICS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -38390,7 +38398,11 @@
       "sections": {
         "1": {
           "instructor": "ESRA KARASAKAL",
-          "schedule": {}
+          "schedule": {
+            "70": "IE103",
+            "77": "IE103",
+            "84": "IE103"
+          }
         }
       }
     },
@@ -38399,7 +38411,11 @@
       "sections": {
         "1": {
           "instructor": "SİNAN GÜREL",
-          "schedule": {}
+          "schedule": {
+            "72": "IE103",
+            "79": "IE103",
+            "86": "IE103"
+          }
         }
       }
     },
@@ -38408,7 +38424,11 @@
       "sections": {
         "1": {
           "instructor": "MEHMET HAKAN AKYÜZ",
-          "schedule": {}
+          "schedule": {
+            "71": "IE103",
+            "78": "IE103",
+            "85": "IE103"
+          }
         }
       }
     },
@@ -38417,7 +38437,11 @@
       "sections": {
         "1": {
           "instructor": "ŞAKİR KARAKAYA",
-          "schedule": {}
+          "schedule": {
+            "73": "IE103",
+            "80": "IE103",
+            "87": "IE103"
+          }
         }
       }
     },
@@ -38425,7 +38449,7 @@
       "name": "INTRODUCTION TO ENGINEERING MANAGEMENT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "SERHAN DURAN",
           "schedule": {}
         }
       }
@@ -38710,383 +38734,948 @@
         },
         "20": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "35": "YP-D104",
+            "38": "YP-D102",
+            "42": "YP-D104",
+            "45": "YP-D102"
+          }
         },
         "21": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "16": "YP-D104",
+            "18": "CES1",
+            "23": "YP-D104",
+            "25": "CES1"
+          }
         },
         "22": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "30": "YP-D104",
+            "32": "CES1",
+            "37": "YP-D104",
+            "39": "CES1"
+          }
         },
         "23": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "17": "MTE308",
+            "21": "MN123",
+            "24": "MTE308",
+            "28": "MN123"
+          }
         },
         "24": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "45": "YP-D104",
+            "49": "MN123",
+            "52": "YP-D104",
+            "56": "MN123"
+          }
         },
         "25": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "36": "M07",
+            "39": "MN123",
+            "43": "M07",
+            "46": "MN123"
+          }
         },
         "26": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "AE024",
+            "7": "AE024",
+            "51": "K11",
+            "58": "K11"
+          }
         },
         "27": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "4": "MEB204",
+            "11": "MEB204",
+            "36": "M04",
+            "43": "M04"
+          }
         },
         "28": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "18": "MEB204",
+            "25": "MEB204",
+            "37": "K11",
+            "44": "K11"
+          }
         },
         "29": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "M04",
+            "7": "M04",
+            "16": "EFA-14",
+            "23": "EFA-14"
+          }
         },
         "30": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "14": "M04",
+            "21": "M04",
+            "44": "EFA-15",
+            "51": "EFA-15"
+          }
         },
         "31": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "YP-D104",
+            "8": "YP-D104",
+            "39": "YP-D102",
+            "46": "YP-D102"
+          }
         },
         "32": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "GR236",
+            "7": "GR236",
+            "31": "R48",
+            "38": "R48"
+          }
         },
         "33": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "14": "GR236",
+            "21": "GR236",
+            "52": "F15",
+            "59": "F15"
+          }
         },
         "34": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "MEB203",
+            "8": "MEB203",
+            "53": "P6",
+            "60": "P6"
+          }
         },
         "35": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "17": "M05",
+            "21": "IE306",
+            "24": "M05",
+            "28": "IE306"
+          }
         },
         "36": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "31": "M05",
+            "38": "M05",
+            "49": "F19",
+            "56": "F19"
+          }
         },
         "37": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "F19",
+            "8": "F19",
+            "53": "M07",
+            "60": "M07"
+          }
         },
         "38": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "28": "MEB203",
+            "35": "MEB203",
+            "37": "MEB203",
+            "44": "MEB203"
+          }
         },
         "39": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "49": "IE306",
+            "51": "MEB203",
+            "56": "IE306",
+            "58": "MEB203"
+          }
         },
         "40": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "24": "F19",
+            "31": "F19",
+            "36": "M06",
+            "43": "M06"
+          }
         },
         "41": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "36": "CES1",
+            "43": "CES1",
+            "52": "CES1",
+            "59": "CES1"
+          }
+        },
+        "42": {
+          "instructor": "STAFF",
+          "schedule": {
+            "23": "IE301",
+            "25": "GR236",
+            "30": "IE301",
+            "32": "GR236"
+          }
         },
         "43": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "44": "M05",
+            "51": "M05",
+            "53": "MEB204",
+            "60": "MEB204"
+          }
         },
         "44": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "16": "MTE308",
+            "21": "F19",
+            "23": "MTE308",
+            "28": "F19"
+          }
         },
         "45": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "37": "MTE308",
+            "44": "MTE308",
+            "49": "CES1",
+            "56": "CES1"
+          }
         },
         "46": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "YP-D102",
+            "4": "IE301",
+            "8": "YP-D102",
+            "11": "IE301"
+          }
         },
         "47": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "Z16",
+            "14": "Z16",
+            "24": "MEB204",
+            "31": "MEB204"
+          }
         },
         "48": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "4": "YP-D102",
+            "11": "YP-D102",
+            "35": "IE306",
+            "42": "IE306"
+          }
         },
         "49": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "18": "YP-D102",
+            "25": "YP-D102",
+            "43": "MEB203",
+            "50": "MEB203"
+          }
         },
         "50": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "28": "MEB204",
+            "35": "MEB204",
+            "37": "MEB204",
+            "44": "MEB204"
+          }
         },
         "51": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "25": "MEB203",
+            "32": "MEB203",
+            "36": "AE024",
+            "43": "AE024"
+          }
         },
         "52": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "39": "MEB204",
+            "46": "MEB204",
+            "50": "AE024",
+            "57": "AE024"
+          }
         },
         "53": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "MN123",
+            "14": "MN123",
+            "23": "MEB204",
+            "30": "MEB204"
+          }
+        },
+        "54": {
+          "instructor": "STAFF",
+          "schedule": {
+            "17": "M07",
+            "24": "M07",
+            "35": "F19",
+            "42": "F19"
+          }
+        },
+        "55": {
+          "instructor": "STAFF",
+          "schedule": {
+            "1": "IE306",
+            "8": "IE306",
+            "38": "F19",
+            "45": "F19"
+          }
         },
         "56": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "3": "EA306",
+            "10": "EA306",
+            "35": "M05",
+            "42": "M05"
+          }
+        },
+        "57": {
+          "instructor": "STAFF",
+          "schedule": {
+            "31": "YP-D104",
+            "38": "YP-D104",
+            "49": "M05",
+            "56": "M05"
+          }
+        },
+        "58": {
+          "instructor": "STAFF",
+          "schedule": {
+            "4": "K11",
+            "11": "K11",
+            "36": "MN123",
+            "43": "MN123"
+          }
         },
         "59": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "M08",
+            "28": "M08",
+            "31": "PT36",
+            "38": "PT36"
+          }
         },
         "60": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "49": "YP-D103",
+            "52": "PT36",
+            "56": "YP-D103",
+            "59": "PT36"
+          }
         },
         "61": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "32": "F19",
+            "36": "MEB204",
+            "39": "F19",
+            "43": "MEB204"
+          }
         },
         "62": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "M07",
+            "7": "M07",
+            "9": "AE024",
+            "16": "AE024"
+          }
         },
         "63": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "3": "YP-D102",
+            "10": "YP-D102",
+            "21": "M05",
+            "28": "M05"
+          }
         },
         "64": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "K11",
+            "8": "K11",
+            "24": "YP-D102",
+            "31": "YP-D102"
+          }
         },
         "65": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "M06",
+            "24": "M08",
+            "28": "M06",
+            "31": "M08"
+          }
+        },
+        "66": {
+          "instructor": "STAFF",
+          "schedule": {
+            "35": "M06",
+            "42": "M06",
+            "52": "F19",
+            "59": "F19"
+          }
         },
         "67": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "M05",
+            "4": "CES1",
+            "8": "M05",
+            "11": "CES1"
+          }
         },
         "68": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "M05",
+            "7": "M05",
+            "30": "CES1",
+            "37": "CES1"
+          }
         },
         "69": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "K11",
+            "28": "K11",
+            "38": "K11",
+            "45": "K11"
+          }
         },
         "70": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "MTE308",
+            "8": "MTE308",
+            "52": "K11",
+            "59": "K11"
+          }
         },
         "71": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "YP-D104",
+            "28": "YP-D104",
+            "38": "EFA-14",
+            "45": "EFA-14"
+          }
         },
         "72": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "39": "R44",
+            "46": "R44",
+            "49": "YP-D102",
+            "56": "YP-D102"
+          }
         },
         "73": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "36": "M08",
+            "43": "M08",
+            "53": "R44",
+            "60": "R44"
+          }
         },
         "74": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "YP-D102",
+            "28": "YP-D102",
+            "31": "MN123",
+            "38": "MN123"
+          }
         },
         "75": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "4": "MTE308",
+            "11": "MTE308",
+            "49": "R-45",
+            "56": "R-45"
+          }
         },
         "76": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "18": "MTE308",
+            "25": "MTE308",
+            "29": "MEB203",
+            "36": "MEB203"
+          }
         },
         "77": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "K11",
+            "14": "K11",
+            "23": "YP-D103",
+            "30": "YP-D103"
+          }
         },
         "78": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "35": "MN123",
+            "37": "YP-D103",
+            "42": "MN123",
+            "44": "YP-D103"
+          }
         },
         "79": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "MN123",
+            "8": "MN123",
+            "32": "K11",
+            "39": "K11"
+          }
         },
         "80": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "2": "K11",
+            "9": "K11",
+            "28": "EFA-28",
+            "35": "EFA-28"
+          }
         },
         "81": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "3": "R48",
+            "10": "R48",
+            "49": "EFA-15",
+            "56": "EFA-15"
+          }
+        },
+        "82": {
+          "instructor": "STAFF",
+          "schedule": {
+            "1": "EA306",
+            "8": "EA306",
+            "31": "IE301",
+            "38": "IE301"
+          }
         },
         "83": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "F15",
+            "8": "F15",
+            "17": "M04",
+            "24": "M04"
+          }
         },
         "84": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "23": "FD4",
+            "30": "FD4",
+            "39": "IE301",
+            "46": "IE301"
+          }
         },
         "85": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "51": "F19",
+            "53": "IE301",
+            "58": "F19",
+            "60": "IE301"
+          }
         },
         "86": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "30": "M08",
+            "35": "K11",
+            "37": "M08",
+            "42": "K11"
+          }
         },
         "87": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "M06",
+            "8": "M06",
+            "25": "M08",
+            "32": "M08"
+          }
         },
         "88": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "2": "MTE308",
+            "9": "MTE308",
+            "53": "MTE308",
+            "60": "MTE308"
+          }
         },
         "89": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "YP-D103",
+            "14": "YP-D103",
+            "31": "AE024",
+            "38": "AE024"
+          }
         },
         "90": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "YP-D103",
+            "28": "YP-D103",
+            "39": "PT36",
+            "46": "PT36"
+          }
         },
         "91": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "M08",
+            "8": "M08",
+            "53": "PT36",
+            "60": "PT36"
+          }
         },
         "92": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "17": "R48",
+            "24": "R48",
+            "36": "MTE308",
+            "43": "MTE308"
+          }
+        },
+        "93": {
+          "instructor": "STAFF",
+          "schedule": {
+            "4": "YP-D104",
+            "11": "YP-D104",
+            "23": "MN123",
+            "30": "MN123"
+          }
         },
         "94": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "18": "YP-D104",
+            "25": "YP-D104",
+            "37": "MN123",
+            "44": "MN123"
+          }
         },
         "95": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "AE024",
+            "8": "AE024",
+            "17": "MN123",
+            "24": "MN123"
+          }
         },
         "96": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "18": "IE301",
+            "23": "MEB203",
+            "25": "IE301",
+            "30": "MEB203"
+          }
         },
         "97": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "39": "R47",
+            "46": "R47",
+            "51": "MN123",
+            "58": "MN123"
+          }
         },
         "98": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "36": "YP-D102",
+            "38": "CES1",
+            "43": "YP-D102",
+            "45": "CES1"
+          }
         },
         "99": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "23": "YP-D102",
+            "30": "YP-D102",
+            "32": "YP-D104",
+            "39": "YP-D104"
+          }
+        },
+        "100": {
+          "instructor": "STAFF",
+          "schedule": {
+            "37": "YP-D102",
+            "44": "YP-D102",
+            "53": "YP-D102",
+            "60": "YP-D102"
+          }
         },
         "101": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "EFA-15",
+            "8": "EFA-15",
+            "24": "EFA-14",
+            "31": "EFA-14"
+          }
         },
         "102": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "25": "PT36",
+            "32": "PT36",
+            "37": "IE306",
+            "44": "IE306"
+          }
         },
         "103": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "51": "IE306",
+            "53": "EFA-15",
+            "58": "IE306",
+            "60": "EFA-15"
+          }
         },
         "104": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "M06",
+            "14": "M06",
+            "51": "FD4",
+            "58": "FD4"
+          }
         },
         "105": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "CES1",
+            "8": "CES1",
+            "11": "GR236",
+            "18": "GR236"
+          }
         },
         "106": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "37": "FD4",
+            "39": "EFA-15",
+            "44": "FD4",
+            "46": "EFA-15"
+          }
         },
         "107": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "14": "AE024",
+            "21": "AE024",
+            "38": "EFA-15",
+            "45": "EFA-15"
+          }
         },
         "108": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "28": "AE024",
+            "32": "YP-D103",
+            "35": "AE024",
+            "39": "YP-D103"
+          }
         },
         "109": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "MEB204",
+            "8": "MEB204",
+            "53": "YP-D104",
+            "60": "YP-D104"
+          }
         },
         "110": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "R-45",
+            "14": "R-45",
+            "17": "PT36",
+            "24": "PT36"
+          }
         },
         "111": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "4": "MN123",
+            "11": "MN123",
+            "21": "R-45",
+            "28": "R-45"
+          }
         },
         "112": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "18": "MN123",
+            "25": "MN123",
+            "29": "M05",
+            "36": "M05"
+          }
         },
         "113": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "7": "YP-D104",
+            "14": "YP-D104",
+            "24": "MEB203",
+            "31": "MEB203"
+          }
         },
         "114": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "11": "PT36",
+            "18": "PT36",
+            "28": "EFA-14",
+            "35": "EFA-14"
+          }
         },
         "115": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "29": "EFA-14",
+            "32": "EFA-28",
+            "36": "EFA-14",
+            "39": "EFA-28"
+          }
         },
         "116": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "36": "PT36",
+            "38": "D135",
+            "43": "PT36",
+            "45": "D135"
+          }
         },
         "117": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "23": "PT36",
+            "30": "PT36",
+            "39": "AE024",
+            "46": "AE024"
+          }
         },
         "118": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "51": "YP-D103",
+            "53": "AE024",
+            "58": "YP-D103",
+            "60": "AE024"
+          }
         },
         "119": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "D134",
+            "7": "D134",
+            "23": "EFA-28",
+            "30": "EFA-28"
+          }
         },
         "120": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "21": "MTE308",
+            "25": "EFA-15",
+            "28": "MTE308",
+            "32": "EFA-15"
+          }
         },
         "121": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "P6",
+            "8": "P6",
+            "46": "YP-D103",
+            "53": "YP-D103"
+          }
         },
         "122": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "IE301",
+            "8": "IE301",
+            "10": "YP-D103",
+            "17": "YP-D103"
+          }
         },
         "123": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "11": "MEB203",
+            "18": "MEB203",
+            "23": "IE306",
+            "30": "IE306"
+          }
+        },
+        "124": {
+          "instructor": "STAFF",
+          "schedule": {
+            "39": "P6",
+            "46": "P6",
+            "51": "MEB204",
+            "58": "MEB204"
+          }
         },
         "150": {
           "instructor": "STAFF",
@@ -39558,83 +40147,42 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "M04",
-            "7": "M04",
-            "14": "M04",
             "15": "M04",
-            "21": "M04",
             "22": "M04",
             "28": "M04",
             "29": "M04",
-            "36": "M04",
-            "43": "M04",
             "49": "M04",
-            "50": "M04",
             "51": "M04",
+            "53": "MN123",
             "56": "M04",
-            "57": "M04",
-            "58": "M04"
+            "58": "M04",
+            "60": "MN123"
           }
         },
         "2": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "M05",
-            "1": "M05",
-            "7": "M05",
-            "8": "M05",
             "14": "M05",
             "15": "M05",
-            "17": "M04",
-            "21": "M05",
             "22": "M05",
-            "24": "M04",
-            "28": "M05",
-            "29": "M05",
             "30": "M05",
-            "35": "M05",
-            "36": "M05",
             "37": "M05",
-            "42": "M05",
-            "44": "M05",
-            "49": "M05",
-            "51": "M05",
-            "56": "M05",
-            "58": "M05"
+            "50": "M04",
+            "57": "M04"
           }
         },
         "3": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "M06",
-            "1": "M06",
-            "7": "M06",
-            "8": "M06",
-            "14": "M06",
             "15": "M06",
-            "17": "M05",
-            "21": "M06",
             "22": "M06",
-            "24": "M05",
-            "28": "M06",
             "29": "M06",
-            "30": "M08",
-            "31": "M05",
-            "35": "M06",
-            "36": "M06",
-            "37": "M08",
-            "38": "M05",
             "39": "F15",
-            "42": "M06",
-            "43": "M06",
             "44": "M08",
-            "45": "M05",
             "46": "F15",
-            "49": "M06",
             "50": "M06",
             "51": "M08",
             "53": "F15",
-            "56": "M06",
             "57": "M06",
             "58": "M08",
             "60": "F15"
@@ -39643,14 +40191,10 @@
         "4": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "M07",
-            "7": "M07",
+            "0": "K11",
             "17": "M06",
             "24": "M06",
-            "29": "M07",
             "31": "M06",
-            "36": "M07",
-            "43": "M07",
             "49": "M07",
             "50": "M07",
             "51": "M07",
@@ -39663,46 +40207,30 @@
           "instructor": "STAFF",
           "schedule": {
             "0": "M08",
-            "1": "M08",
             "7": "M08",
-            "8": "M08",
             "14": "M08",
             "15": "M08",
-            "17": "M07",
-            "21": "M08",
             "22": "M08",
-            "24": "M07",
-            "28": "M08",
             "29": "M08",
-            "36": "M08",
             "38": "M07",
-            "43": "M08",
             "45": "M07",
-            "50": "M08",
+            "49": "M06",
             "52": "M07",
-            "53": "M07",
-            "59": "M07",
-            "60": "M07"
+            "56": "M06",
+            "59": "M07"
           }
         },
         "6": {
           "instructor": "STAFF",
           "schedule": {
             "0": "F15",
-            "1": "F19",
             "3": "M08",
             "4": "M08",
             "7": "F15",
-            "8": "F19",
             "10": "M08",
             "11": "M08",
             "17": "M08",
             "18": "M08",
-            "24": "M08",
-            "25": "M08",
-            "31": "M08",
-            "32": "M08",
-            "39": "M08",
             "49": "F15",
             "56": "F15"
           }
@@ -39710,16 +40238,15 @@
         "7": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "F15",
-            "8": "F15",
             "31": "F15",
             "38": "F15",
+            "42": "MEB203",
             "43": "F15",
             "45": "F15",
+            "49": "MEB203",
             "51": "F15",
-            "52": "F15",
-            "58": "F15",
-            "59": "F15"
+            "56": "MEB203",
+            "58": "F15"
           }
         },
         "8": {
@@ -39731,53 +40258,40 @@
             "10": "F19",
             "14": "F19",
             "17": "F19",
-            "21": "F19",
-            "24": "F19",
-            "28": "F19",
             "30": "F19",
-            "31": "F19",
-            "32": "F19",
-            "35": "F19",
             "37": "F19",
-            "38": "F19",
-            "39": "F19",
-            "42": "F19",
             "44": "F19",
-            "45": "F19",
             "46": "F19",
-            "49": "F19",
-            "51": "F19",
-            "52": "F19",
             "53": "F19",
-            "56": "F19",
-            "58": "F19",
-            "59": "F19",
             "60": "F19"
           }
         },
         "9": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "P6",
             "3": "YP-D103",
             "4": "EFA-14",
-            "8": "P6",
-            "10": "YP-D103",
             "11": "EFA-14",
             "15": "P6",
-            "17": "YP-D103",
             "18": "EFA-14",
             "22": "P6",
             "25": "EFA-14",
             "29": "P6",
+            "30": "EFA-14",
             "32": "EFA-14",
             "36": "P6",
+            "37": "EFA-14",
             "39": "EFA-14",
             "43": "P6",
+            "44": "EFA-14",
             "46": "EFA-14",
             "50": "P6",
+            "51": "EFA-14",
+            "52": "YP-D102",
             "53": "EFA-14",
             "57": "P6",
+            "58": "EFA-14",
+            "59": "YP-D102",
             "60": "EFA-14"
           }
         },
@@ -39791,41 +40305,22 @@
             "9": "EFA-14",
             "10": "EFA-14",
             "14": "EFA-14",
-            "16": "EFA-14",
             "17": "EFA-14",
             "21": "EFA-14",
-            "23": "EFA-14",
-            "24": "EFA-14",
-            "28": "EFA-14",
-            "29": "EFA-14",
-            "30": "EFA-14",
-            "31": "EFA-14",
-            "35": "EFA-14",
-            "36": "EFA-14",
-            "37": "EFA-14",
-            "38": "EFA-14",
             "42": "EFA-14",
             "43": "EFA-14",
-            "44": "EFA-14",
-            "45": "EFA-14",
             "49": "EFA-14",
             "50": "EFA-14",
-            "51": "EFA-14",
-            "52": "EFA-14",
             "56": "EFA-14",
-            "57": "EFA-14",
-            "58": "EFA-14",
-            "59": "EFA-14"
+            "57": "EFA-14"
           }
         },
         "11": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "EFA-15",
             "2": "EFA-15",
             "3": "EFA-15",
             "4": "EFA-15",
-            "8": "EFA-15",
             "9": "EFA-15",
             "10": "EFA-15",
             "11": "EFA-15",
@@ -39836,42 +40331,32 @@
             "22": "EFA-15",
             "23": "EFA-15",
             "24": "EFA-15",
-            "25": "EFA-15",
             "28": "EFA-15",
             "29": "EFA-15",
             "30": "EFA-15",
             "31": "EFA-15",
-            "32": "EFA-15",
             "35": "EFA-15",
             "36": "EFA-15",
             "37": "EFA-15",
-            "38": "EFA-15",
-            "39": "EFA-15",
             "42": "EFA-15",
             "43": "EFA-15",
-            "44": "EFA-15",
-            "45": "EFA-15",
-            "46": "EFA-15",
-            "49": "EFA-15",
             "50": "EFA-15",
-            "51": "EFA-15",
-            "52": "EFA-15",
-            "53": "EFA-15",
-            "56": "EFA-15",
-            "57": "EFA-15",
-            "58": "EFA-15",
-            "59": "EFA-15",
-            "60": "EFA-15"
+            "57": "EFA-15"
           }
         },
         "12": {
           "instructor": "STAFF",
           "schedule": {
+            "42": "EFA-28",
+            "49": "EFA-28",
             "50": "P3",
             "51": "PT36",
+            "52": "EFA-14",
             "53": "P3",
+            "56": "EFA-28",
             "57": "P3",
             "58": "PT36",
+            "59": "EFA-14",
             "60": "P3"
           }
         },
@@ -39879,24 +40364,20 @@
           "instructor": "STAFF",
           "schedule": {
             "32": "P6",
-            "39": "P6",
-            "46": "P6",
-            "49": "YP-D103",
-            "53": "P6",
-            "56": "YP-D103",
-            "60": "P6"
+            "51": "YP-D102",
+            "52": "EFA-15",
+            "58": "YP-D102",
+            "59": "EFA-15"
           }
         },
         "14": {
           "instructor": "STAFF",
           "schedule": {
             "0": "IE306",
-            "1": "IE306",
             "2": "IE306",
             "3": "IE306",
             "4": "IE306",
             "7": "IE306",
-            "8": "IE306",
             "9": "IE306",
             "10": "IE306",
             "11": "IE306",
@@ -39905,34 +40386,22 @@
             "16": "IE306",
             "17": "IE306",
             "18": "IE306",
-            "21": "IE306",
             "22": "IE306",
-            "23": "IE306",
             "24": "IE306",
             "25": "IE306",
-            "28": "IE306",
             "29": "IE306",
-            "30": "IE306",
             "31": "IE306",
             "32": "IE306",
-            "35": "IE306",
             "36": "IE306",
-            "37": "IE306",
             "38": "IE306",
             "39": "IE306",
-            "42": "IE306",
             "43": "IE306",
-            "44": "IE306",
             "45": "IE306",
             "46": "IE306",
-            "49": "IE306",
             "50": "IE306",
-            "51": "IE306",
             "52": "IE306",
             "53": "IE306",
-            "56": "IE306",
             "57": "IE306",
-            "58": "IE306",
             "59": "IE306",
             "60": "IE306"
           }
@@ -39941,323 +40410,146 @@
           "instructor": "STAFF",
           "schedule": {
             "0": "MTE308",
-            "1": "MTE308",
             "2": "FD4",
-            "4": "MTE308",
             "7": "MTE308",
-            "8": "MTE308",
             "9": "FD4",
-            "11": "MTE308",
             "14": "MTE308",
             "15": "MTE308",
             "16": "FD4",
-            "18": "MTE308",
-            "21": "MTE308",
             "22": "MTE308",
-            "23": "FD4",
-            "25": "MTE308",
-            "28": "MTE308",
             "29": "MTE308",
-            "30": "FD4",
-            "32": "MTE308",
-            "36": "MTE308",
-            "37": "FD4",
-            "43": "MTE308",
-            "44": "FD4",
             "50": "MTE308",
-            "51": "FD4",
-            "57": "MTE308",
-            "58": "FD4"
+            "57": "MTE308"
           }
         },
         "16": {
           "instructor": "STAFF",
           "schedule": {
             "0": "CES1",
-            "1": "CES1",
             "3": "CES1",
-            "4": "CES1",
             "7": "CES1",
-            "8": "CES1",
             "10": "CES1",
-            "11": "CES1",
             "14": "CES1",
             "15": "CES1",
             "17": "CES1",
-            "18": "CES1",
             "21": "CES1",
             "22": "CES1",
             "24": "CES1",
-            "25": "CES1",
             "28": "CES1",
             "29": "CES1",
-            "30": "CES1",
             "31": "CES1",
-            "32": "CES1",
             "35": "CES1",
-            "36": "CES1",
-            "37": "CES1",
-            "38": "CES1",
-            "39": "CES1",
             "42": "CES1",
-            "43": "CES1",
             "44": "CES1",
-            "45": "CES1",
-            "46": "CES1",
-            "49": "CES1",
-            "50": "CES1",
             "51": "CES1",
-            "52": "CES1",
-            "53": "CES1",
-            "56": "CES1",
-            "57": "CES1",
-            "58": "CES1",
-            "59": "CES1",
-            "60": "CES1"
+            "58": "CES1"
           }
         },
         "17": {
           "instructor": "STAFF",
           "schedule": {
             "0": "MEB203",
-            "1": "MEB203",
             "2": "MEB203",
             "3": "MEB203",
-            "4": "MEB203",
             "7": "MEB203",
-            "8": "MEB203",
             "9": "MEB203",
             "10": "MEB203",
-            "11": "MEB203",
             "14": "MEB203",
             "15": "MEB203",
             "16": "MEB203",
             "17": "MEB203",
-            "18": "MEB203",
             "21": "MEB203",
             "22": "MEB203",
-            "23": "MEB203",
-            "24": "MEB203",
-            "25": "MEB203",
-            "28": "MEB203",
-            "29": "MEB203",
-            "30": "MEB203",
-            "31": "MEB203",
-            "32": "MEB203",
-            "35": "MEB203",
-            "36": "MEB203",
-            "37": "MEB203",
-            "38": "MEB203",
-            "39": "MEB203",
-            "42": "MEB203",
-            "43": "MEB203",
-            "44": "MEB203",
-            "45": "MEB203",
-            "46": "MEB203",
-            "49": "MEB203",
-            "50": "MEB203",
-            "51": "MEB203",
-            "52": "MEB203",
-            "53": "MEB203",
-            "56": "MEB203",
-            "57": "MEB203",
-            "58": "MEB203",
-            "59": "MEB203",
-            "60": "MEB203"
+            "42": "MEB204",
+            "49": "MEB204",
+            "56": "MEB204"
           }
         },
         "18": {
           "instructor": "STAFF",
           "schedule": {
             "0": "MEB204",
-            "1": "MEB204",
             "2": "MEB204",
             "3": "MEB204",
-            "4": "MEB204",
             "7": "MEB204",
-            "8": "MEB204",
             "9": "MEB204",
             "10": "MEB204",
-            "11": "MEB204",
             "14": "MEB204",
             "15": "MEB204",
             "16": "MEB204",
             "17": "MEB204",
-            "18": "MEB204",
             "21": "MEB204",
             "22": "MEB204",
-            "23": "MEB204",
-            "24": "MEB204",
-            "25": "MEB204",
-            "28": "MEB204",
             "29": "MEB204",
-            "30": "MEB204",
-            "31": "MEB204",
-            "32": "MEB204",
-            "35": "MEB204",
-            "36": "MEB204",
-            "37": "MEB204",
-            "39": "MEB204",
-            "42": "MEB204",
-            "43": "MEB204",
-            "44": "MEB204",
-            "46": "MEB204",
-            "49": "MEB204",
-            "50": "MEB204",
-            "51": "MEB204",
-            "53": "MEB204",
-            "56": "MEB204",
-            "57": "MEB204",
-            "58": "MEB204",
-            "60": "MEB204"
+            "32": "MEB204"
           }
         },
         "19": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "MN123",
-            "1": "MN123",
             "2": "MN123",
             "3": "MN123",
-            "4": "MN123",
-            "7": "MN123",
-            "8": "MN123",
             "9": "MN123",
             "10": "MN123",
-            "11": "MN123",
-            "14": "MN123",
             "15": "MN123",
             "16": "MN123",
-            "17": "MN123",
-            "18": "MN123",
-            "21": "MN123",
             "22": "MN123",
-            "23": "MN123",
-            "24": "MN123",
-            "25": "MN123",
-            "28": "MN123",
             "29": "MN123",
-            "30": "MN123",
-            "31": "MN123",
             "32": "MN123",
-            "35": "MN123",
-            "36": "MN123",
-            "37": "MN123",
-            "38": "MN123",
-            "39": "MN123",
-            "42": "MN123",
-            "43": "MN123",
-            "44": "MN123",
-            "45": "MN123",
-            "46": "MN123",
-            "49": "MN123",
             "50": "MN123",
-            "51": "MN123",
-            "52": "MN123",
-            "53": "MN123",
-            "56": "MN123",
-            "57": "MN123",
-            "58": "MN123",
-            "59": "MN123",
-            "60": "MN123"
+            "57": "MN123"
           }
         },
         "20": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "GR236",
-            "4": "GR236",
-            "7": "GR236",
-            "11": "GR236",
-            "14": "GR236",
-            "18": "GR236",
-            "21": "GR236",
-            "25": "GR236",
-            "32": "GR236",
             "38": "GR236",
             "45": "GR236",
+            "46": "CES1",
+            "49": "YP-D104",
+            "50": "CES1",
             "52": "GR236",
-            "59": "GR236"
+            "53": "CES1",
+            "56": "YP-D104",
+            "57": "CES1",
+            "59": "GR236",
+            "60": "CES1"
           }
         },
         "21": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "YP-D102",
             "2": "YP-D102",
-            "3": "YP-D102",
-            "4": "YP-D102",
-            "8": "YP-D102",
             "9": "YP-D102",
-            "10": "YP-D102",
-            "11": "YP-D102",
             "15": "YP-D102",
             "16": "YP-D102",
-            "17": "YP-D102",
-            "18": "YP-D102",
-            "21": "YP-D102",
             "22": "YP-D102",
-            "23": "YP-D102",
-            "24": "YP-D102",
-            "25": "YP-D102",
-            "28": "YP-D102",
             "29": "YP-D102",
-            "30": "YP-D102",
-            "31": "YP-D102",
-            "32": "YP-D102",
             "35": "YP-D102",
-            "36": "YP-D102",
-            "37": "YP-D102",
-            "38": "YP-D102",
-            "39": "YP-D102",
             "42": "YP-D102",
-            "43": "YP-D102",
-            "44": "YP-D102",
-            "45": "YP-D102",
-            "46": "YP-D102",
-            "49": "YP-D102",
+            "45": "MN123",
             "50": "YP-D102",
-            "51": "YP-D102",
-            "52": "YP-D102",
-            "53": "YP-D102",
-            "56": "YP-D102",
+            "52": "MN123",
             "57": "YP-D102",
-            "58": "YP-D102",
-            "59": "YP-D102",
-            "60": "YP-D102"
+            "59": "MN123"
           }
         },
         "22": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "YP-D103",
             "2": "YP-D103",
-            "7": "YP-D103",
             "9": "YP-D103",
-            "14": "YP-D103",
             "15": "YP-D103",
             "16": "YP-D103",
-            "21": "YP-D103",
             "22": "YP-D103",
-            "23": "YP-D103",
-            "28": "YP-D103",
             "29": "YP-D103",
-            "30": "YP-D103",
-            "32": "YP-D103",
             "36": "YP-D103",
-            "37": "YP-D103",
             "38": "YP-D103",
-            "39": "YP-D103",
             "43": "YP-D103",
-            "44": "YP-D103",
             "45": "YP-D103",
-            "46": "YP-D103",
             "50": "YP-D103",
-            "51": "YP-D103",
             "52": "YP-D103",
-            "53": "YP-D103",
             "57": "YP-D103",
-            "58": "YP-D103",
             "59": "YP-D103",
             "60": "YP-D103"
           }
@@ -40265,45 +40557,16 @@
         "23": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "YP-D104",
-            "1": "YP-D104",
             "3": "YP-D104",
-            "4": "YP-D104",
-            "7": "YP-D104",
-            "8": "YP-D104",
             "10": "YP-D104",
-            "11": "YP-D104",
-            "14": "YP-D104",
             "15": "YP-D104",
-            "16": "YP-D104",
             "17": "YP-D104",
-            "18": "YP-D104",
-            "21": "YP-D104",
             "22": "YP-D104",
-            "23": "YP-D104",
             "24": "YP-D104",
-            "25": "YP-D104",
-            "28": "YP-D104",
             "29": "YP-D104",
-            "30": "YP-D104",
-            "31": "YP-D104",
-            "32": "YP-D104",
-            "35": "YP-D104",
-            "37": "YP-D104",
-            "38": "YP-D104",
-            "39": "YP-D104",
-            "42": "YP-D104",
             "44": "YP-D104",
-            "45": "YP-D104",
-            "46": "YP-D104",
-            "49": "YP-D104",
             "51": "YP-D104",
-            "52": "YP-D104",
-            "53": "YP-D104",
-            "56": "YP-D104",
-            "58": "YP-D104",
-            "59": "YP-D104",
-            "60": "YP-D104"
+            "58": "YP-D104"
           }
         },
         "24": {
@@ -40315,17 +40578,8 @@
             "10": "EFA-28",
             "14": "EFA-28",
             "21": "EFA-28",
-            "23": "EFA-28",
-            "28": "EFA-28",
-            "30": "EFA-28",
-            "32": "EFA-28",
-            "35": "EFA-28",
-            "39": "EFA-28",
-            "42": "EFA-28",
             "46": "EFA-28",
-            "49": "EFA-28",
             "53": "EFA-28",
-            "56": "EFA-28",
             "60": "EFA-28"
           }
         },
@@ -40334,78 +40588,35 @@
           "schedule": {
             "1": "PT36",
             "2": "PT36",
-            "4": "PT36",
             "8": "PT36",
             "9": "PT36",
-            "11": "PT36",
             "15": "PT36",
             "16": "PT36",
-            "17": "PT36",
-            "18": "PT36",
             "22": "PT36",
-            "23": "PT36",
-            "24": "PT36",
-            "25": "PT36",
             "29": "PT36",
-            "30": "PT36",
-            "31": "PT36",
-            "32": "PT36",
             "35": "PT36",
-            "36": "PT36",
-            "38": "PT36",
-            "39": "PT36",
             "42": "PT36",
-            "43": "PT36",
-            "45": "PT36",
-            "46": "PT36",
             "49": "PT36",
             "50": "PT36",
-            "52": "PT36",
-            "53": "PT36",
             "56": "PT36",
-            "57": "PT36",
-            "59": "PT36",
-            "60": "PT36"
+            "57": "PT36"
           }
         },
         "26": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "K11",
-            "1": "K11",
-            "2": "K11",
-            "4": "K11",
-            "7": "K11",
-            "8": "K11",
-            "9": "K11",
-            "11": "K11",
-            "14": "K11",
             "15": "K11",
             "16": "K11",
             "18": "K11",
-            "21": "K11",
             "22": "K11",
             "23": "K11",
             "25": "K11",
-            "28": "K11",
             "29": "K11",
             "30": "K11",
-            "32": "K11",
-            "35": "K11",
-            "37": "K11",
-            "38": "K11",
-            "39": "K11",
-            "42": "K11",
-            "44": "K11",
-            "45": "K11",
             "46": "K11",
             "49": "K11",
-            "51": "K11",
-            "52": "K11",
             "53": "K11",
             "56": "K11",
-            "58": "K11",
-            "59": "K11",
             "60": "K11"
           }
         },
@@ -40413,61 +40624,33 @@
           "instructor": "STAFF",
           "schedule": {
             "0": "IE301",
-            "1": "IE301",
             "2": "IE301",
             "3": "IE301",
-            "4": "IE301",
             "7": "IE301",
-            "8": "IE301",
             "9": "IE301",
             "10": "IE301",
-            "11": "IE301",
             "14": "IE301",
             "15": "IE301",
             "16": "IE301",
-            "18": "IE301",
             "21": "IE301",
             "22": "IE301",
-            "23": "IE301",
-            "25": "IE301",
             "28": "IE301",
             "29": "IE301",
-            "30": "IE301",
-            "32": "IE301",
             "35": "IE301",
-            "39": "IE301",
             "42": "IE301",
-            "46": "IE301",
             "49": "IE301",
-            "53": "IE301",
-            "56": "IE301",
-            "60": "IE301"
+            "56": "IE301"
           }
         },
         "28": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "R-45",
-            "3": "R48",
-            "7": "R-45",
-            "10": "R48",
-            "14": "R-45",
-            "17": "R48",
-            "21": "R-45",
-            "24": "R48",
-            "28": "R-45",
-            "31": "R48",
             "35": "R-45",
-            "38": "R48",
-            "39": "R47",
             "42": "R-45",
             "45": "R48",
-            "46": "R47",
-            "49": "R-45",
             "50": "IE301",
             "52": "R48",
             "53": "R47",
-            "56": "R-45",
             "57": "IE301",
             "59": "R48",
             "60": "R47"
@@ -40476,39 +40659,21 @@
         "29": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "Z16",
-            "1": "EA306",
-            "3": "EA306",
-            "7": "Z16",
-            "8": "EA306",
-            "10": "EA306",
-            "14": "Z16",
             "21": "Z16",
             "28": "Z16",
             "35": "Z16",
-            "39": "R44",
             "42": "Z16",
-            "46": "R44",
             "49": "Z16",
-            "53": "R44",
+            "50": "MEB204",
             "56": "Z16",
-            "60": "R44"
+            "57": "MEB204"
           }
         },
         "30": {
           "instructor": "STAFF",
           "schedule": {
-            "2": "MTE308",
             "3": "MTE308",
-            "9": "MTE308",
             "10": "MTE308",
-            "16": "MTE308",
-            "17": "MTE308",
-            "23": "MTE308",
-            "24": "MTE308",
-            "31": "MTE308",
-            "37": "MTE308",
-            "44": "MTE308",
             "51": "MTE308",
             "52": "MTE308",
             "58": "MTE308",
@@ -40518,58 +40683,29 @@
         "31": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "D134",
-            "7": "D134",
             "35": "EA306",
-            "38": "D135",
-            "42": "EA306",
-            "45": "D135",
-            "53": "MTE308",
-            "60": "MTE308"
+            "42": "EA306"
           }
         },
         "32": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "AE024",
-            "1": "AE024",
-            "2": "AE024",
-            "7": "AE024",
-            "8": "AE024",
-            "9": "AE024",
-            "14": "AE024",
             "15": "AE024",
-            "16": "AE024",
-            "21": "AE024",
             "22": "AE024",
-            "28": "AE024",
             "29": "AE024",
-            "31": "AE024",
             "32": "AE024",
-            "35": "AE024",
-            "36": "AE024",
-            "38": "AE024",
-            "39": "AE024",
             "42": "AE024",
-            "43": "AE024",
             "45": "AE024",
-            "46": "AE024",
             "49": "AE024",
-            "50": "AE024",
             "52": "AE024",
-            "53": "AE024",
             "56": "AE024",
-            "57": "AE024",
-            "59": "AE024",
-            "60": "AE024"
+            "59": "AE024"
           }
         },
         "33": {
           "instructor": "STAFF",
           "schedule": {
-            "31": "IE301",
             "32": "DR2",
-            "38": "IE301",
             "39": "DR2",
             "45": "IE301",
             "46": "DR2",
@@ -40588,14 +40724,18 @@
             "25": "TH2",
             "32": "TH2",
             "37": "AE024",
+            "38": "MEB203",
             "39": "TH2",
             "44": "AE024",
+            "45": "MEB203",
             "46": "TH2",
             "50": "YP-D104",
             "51": "AE024",
+            "52": "MEB203",
             "53": "TH2",
             "57": "YP-D104",
             "58": "AE024",
+            "59": "MEB203",
             "60": "TH2"
           }
         },
@@ -40634,15 +40774,19 @@
             "35": "G-268",
             "37": "G102",
             "38": "G-268",
+            "39": "MEB203",
             "42": "G-268",
             "44": "G102",
             "45": "G-268",
+            "46": "MEB203",
             "49": "G-268",
             "51": "G102",
             "52": "G-268",
+            "53": "MEB203",
             "56": "G-268",
             "58": "G102",
-            "59": "G-268"
+            "59": "G-268",
+            "60": "MEB203"
           }
         },
         "37": {
@@ -40678,6 +40822,34 @@
             "44": "G202",
             "51": "G202",
             "58": "G202"
+          }
+        },
+        "39": {
+          "instructor": "STAFF",
+          "schedule": {
+            "2": "BIO 213",
+            "3": "BIO 213",
+            "4": "BIO 213",
+            "9": "BIO 213",
+            "10": "BIO 213",
+            "11": "BIO 213",
+            "16": "BIO 213",
+            "17": "BIO 213",
+            "18": "BIO 213",
+            "23": "BIO 213",
+            "24": "BIO 213",
+            "25": "BIO 213",
+            "30": "BIO 213",
+            "31": "BIO 213",
+            "32": "BIO 213",
+            "36": "BIO 213",
+            "39": "BIO 213",
+            "43": "BIO 213",
+            "46": "BIO 213",
+            "50": "BIO 213",
+            "53": "BIO 213",
+            "57": "BIO 213",
+            "60": "BIO 213"
           }
         }
       }
@@ -42756,15 +42928,6 @@
             "44": "TBA",
             "51": "TBA"
           }
-        }
-      }
-    },
-    "ESC 412": {
-      "name": "SPECIAL TOPICS: NANOSCIENCE AND NANOTECHNOLOGY",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -45682,9 +45845,9 @@
         "3": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "EFB-18A",
-            "7": "EFB-18A",
-            "14": "EFB-18A"
+            "44": "EFB-18",
+            "51": "EFB-18",
+            "58": "EFB-18"
           }
         }
       }
@@ -46058,7 +46221,8 @@
         "1": {
           "instructor": "URARTU ÖZGÜR ŞAFAK ŞEKER",
           "schedule": {
-            "32": "G111"
+            "32": "G111",
+            "39": "G111"
           }
         }
       }
@@ -47460,6 +47624,19 @@
         "28": {
           "instructor": "ULAŞ AVŞAR",
           "schedule": {}
+        }
+      }
+    },
+    "GEOE 508": {
+      "name": "GEOCHEMISTRY OF MINERAL DEPOSITS",
+      "sections": {
+        "1": {
+          "instructor": "ALİ İMER",
+          "schedule": {
+            "0": "GR301",
+            "7": "GR301",
+            "14": "GR301"
+          }
         }
       }
     },
@@ -49571,7 +49748,7 @@
       "name": "HISTORY OF TURKS I",
       "sections": {
         "1": {
-          "instructor": "MUSA ŞAMİL YÜKSEL",
+          "instructor": "STAFF",
           "schedule": {
             "10": "YP-B202",
             "17": "YP-B202",
@@ -51869,6 +52046,20 @@
         }
       }
     },
+    "ID 361": {
+      "name": "SENSE OF FORM",
+      "sections": {
+        "1": {
+          "instructor": "MEHTAP ÖZTÜRK ŞENGÜL",
+          "schedule": {
+            "39": "MİMAtölye",
+            "46": "MİMAtölye",
+            "53": "MİMAtölye",
+            "60": "MİMAtölye"
+          }
+        }
+      }
+    },
     "ID 390": {
       "name": "SUMMER PRACTICE IN A PRODUCTION ESTABLISHMENT",
       "sections": {
@@ -52896,11 +53087,19 @@
       "sections": {
         "1": {
           "instructor": "İSMAİL SERDAR BAKAL",
-          "schedule": {}
+          "schedule": {
+            "23": "IE102",
+            "38": "IE102",
+            "45": "IE102"
+          }
         },
         "2": {
           "instructor": "İSMAİL SERDAR BAKAL",
-          "schedule": {}
+          "schedule": {
+            "16": "IE102",
+            "17": "IE102",
+            "24": "IE102"
+          }
         }
       }
     },
@@ -52909,11 +53108,19 @@
       "sections": {
         "1": {
           "instructor": "MERAL AZİZOĞLU",
-          "schedule": {}
+          "schedule": {
+            "15": "IE102",
+            "17": "IE301",
+            "24": "IE301"
+          }
         },
         "2": {
           "instructor": "MERAL AZİZOĞLU",
-          "schedule": {}
+          "schedule": {
+            "1": "IE102",
+            "8": "IE102",
+            "31": "IE102"
+          }
         }
       }
     },
@@ -52922,11 +53129,19 @@
       "sections": {
         "1": {
           "instructor": "SAKİNE BATUN",
-          "schedule": {}
+          "schedule": {
+            "16": "IE04",
+            "35": "IE03",
+            "42": "IE03"
+          }
         },
         "2": {
           "instructor": "SAKİNE BATUN",
-          "schedule": {}
+          "schedule": {
+            "7": "IE03",
+            "14": "IE03",
+            "23": "IE04"
+          }
         }
       }
     },
@@ -52944,11 +53159,19 @@
       "sections": {
         "1": {
           "instructor": "ÖZGEN KARAER",
-          "schedule": {}
+          "schedule": {
+            "10": "IE03",
+            "36": "IE102",
+            "43": "IE102"
+          }
         },
         "2": {
           "instructor": "ÖZGEN KARAER",
-          "schedule": {}
+          "schedule": {
+            "17": "IE03",
+            "24": "IE03",
+            "50": "IE102"
+          }
         }
       }
     },
@@ -52957,11 +53180,19 @@
       "sections": {
         "1": {
           "instructor": "ŞAKİR KARAKAYA",
-          "schedule": {}
+          "schedule": {
+            "7": "IE103",
+            "14": "IE103",
+            "16": "IE103"
+          }
         },
         "2": {
           "instructor": "FATMA SEDEF MERAL",
-          "schedule": {}
+          "schedule": {
+            "23": "IE103",
+            "35": "IE103",
+            "42": "IE103"
+          }
         }
       }
     },
@@ -52970,11 +53201,19 @@
       "sections": {
         "1": {
           "instructor": "SİNAN GÜREL",
-          "schedule": {}
+          "schedule": {
+            "1": "IE03",
+            "8": "IE03",
+            "23": "IE03"
+          }
         },
         "2": {
           "instructor": "SİNAN GÜREL",
-          "schedule": {}
+          "schedule": {
+            "9": "IE03",
+            "15": "IE03",
+            "16": "IE03"
+          }
         }
       }
     },
@@ -52983,11 +53222,19 @@
       "sections": {
         "1": {
           "instructor": "ZEYNEP PELİN BAYINDIR",
-          "schedule": {}
+          "schedule": {
+            "17": "IE103",
+            "24": "IE103",
+            "50": "IE103"
+          }
         },
         "2": {
           "instructor": "ZEYNEP PELİN BAYINDIR",
-          "schedule": {}
+          "schedule": {
+            "10": "IE103",
+            "36": "IE103",
+            "43": "IE103"
+          }
         }
       }
     },
@@ -53005,7 +53252,11 @@
       "sections": {
         "1": {
           "instructor": "MEHMET İZZET ÖZAYDIN",
-          "schedule": {}
+          "schedule": {
+            "42": "IE102",
+            "49": "IE102",
+            "56": "IE102"
+          }
         }
       }
     },
@@ -53014,7 +53265,11 @@
       "sections": {
         "1": {
           "instructor": "MEHMET HAKAN AKYÜZ",
-          "schedule": {}
+          "schedule": {
+            "37": "IE103",
+            "44": "IE103",
+            "51": "IE103"
+          }
         }
       }
     },
@@ -53023,7 +53278,11 @@
       "sections": {
         "1": {
           "instructor": "EMRAH UYAR",
-          "schedule": {}
+          "schedule": {
+            "8": "IE103",
+            "15": "IE103",
+            "22": "IE103"
+          }
         }
       }
     },
@@ -53032,7 +53291,10 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "51": "IE03",
+            "58": "IE03"
+          }
         }
       }
     },
@@ -53041,7 +53303,11 @@
       "sections": {
         "1": {
           "instructor": "ESRA KARASAKAL",
-          "schedule": {}
+          "schedule": {
+            "9": "IE105",
+            "16": "IE105",
+            "23": "IE105"
+          }
         }
       }
     },
@@ -53050,7 +53316,11 @@
       "sections": {
         "1": {
           "instructor": "MUSTAFA KEMAL TURAL",
-          "schedule": {}
+          "schedule": {
+            "36": "IE105",
+            "43": "IE105",
+            "50": "IE105"
+          }
         }
       }
     },
@@ -53059,7 +53329,11 @@
       "sections": {
         "1": {
           "instructor": "MUSTAFA KEMAL TURAL",
-          "schedule": {}
+          "schedule": {
+            "30": "IE105",
+            "37": "IE105",
+            "44": "IE105"
+          }
         }
       }
     },
@@ -53068,7 +53342,11 @@
       "sections": {
         "1": {
           "instructor": "ZEYNEP MÜGE AVŞAR",
-          "schedule": {}
+          "schedule": {
+            "15": "IE105",
+            "22": "IE105",
+            "29": "IE105"
+          }
         }
       }
     },
@@ -53077,11 +53355,19 @@
       "sections": {
         "1": {
           "instructor": "SEÇİL SAVAŞANERİL TÜFEKCİ",
-          "schedule": {}
+          "schedule": {
+            "7": "IE04",
+            "14": "IE04",
+            "38": "IE103"
+          }
         },
         "2": {
           "instructor": "SEÇİL SAVAŞANERİL TÜFEKCİ",
-          "schedule": {}
+          "schedule": {
+            "21": "IE04",
+            "28": "IE04",
+            "45": "IE103"
+          }
         }
       }
     },
@@ -53089,8 +53375,12 @@
       "name": "SPECIAL TOPICS IN INDUSTRY ANALYSIS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "MEHMET ERCAN ERKUL",
+          "schedule": {
+            "30": "IE03",
+            "37": "IE03",
+            "44": "IE03"
+          }
         }
       }
     },
@@ -53257,7 +53547,11 @@
       "sections": {
         "1": {
           "instructor": "YUSUF KENAN PAKYARDIM",
-          "schedule": {}
+          "schedule": {
+            "37": "IE102",
+            "44": "IE102",
+            "51": "IE102"
+          }
         }
       }
     },
@@ -53266,7 +53560,11 @@
       "sections": {
         "1": {
           "instructor": "MEHMET HAKAN AKYÜZ",
-          "schedule": {}
+          "schedule": {
+            "36": "IE227",
+            "43": "IE227",
+            "50": "IE227"
+          }
         }
       }
     },
@@ -53275,7 +53573,11 @@
       "sections": {
         "1": {
           "instructor": "NADER GHAFFARINASAB",
-          "schedule": {}
+          "schedule": {
+            "7": "IE105",
+            "14": "IE105",
+            "21": "IE105"
+          }
         }
       }
     },
@@ -53284,7 +53586,11 @@
       "sections": {
         "1": {
           "instructor": "YAŞAR YASEMİN SERİN",
-          "schedule": {}
+          "schedule": {
+            "35": "IE105",
+            "42": "IE105",
+            "49": "IE105"
+          }
         }
       }
     },
@@ -53680,12 +53986,25 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "10": "IE105",
+            "17": "IE105",
+            "24": "IE105"
+          }
         }
       }
     }
   },
   "INE": {
+    "INE 223": {
+      "name": "DISCRETE COMPUTATIONAL STRUCTURES",
+      "sections": {
+        "1": {
+          "instructor": "NASSER LOTFİ",
+          "schedule": {}
+        }
+      }
+    },
     "INE 241": {
       "name": "FINANCIAL AND MANAGERIAL ACCOUNTING FOR ENGINEERS",
       "sections": {
@@ -54917,25 +55236,16 @@
         "8": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "G206",
             "4": "G206",
-            "7": "G206",
             "11": "G206",
-            "14": "G206",
             "18": "G206",
-            "21": "G206",
             "25": "G206",
-            "28": "G206",
-            "31": "G206",
             "32": "G206",
             "35": "G206",
-            "38": "G206",
             "39": "G206",
             "42": "G206",
-            "45": "G206",
             "46": "G206",
             "49": "G206",
-            "52": "G206",
             "53": "G206",
             "56": "G206",
             "58": "G206",
@@ -56685,19 +56995,19 @@
         "1": {
           "instructor": "BERNA SÖKEN",
           "schedule": {
-            "4": "TBA",
-            "11": "TBA",
-            "29": "TBA",
-            "36": "TBA"
+            "4": "AE025",
+            "11": "AE025",
+            "29": "AE025",
+            "36": "AE025"
           }
         },
         "2": {
           "instructor": "BERNA SÖKEN",
           "schedule": {
-            "18": "TBA",
-            "25": "TBA",
-            "50": "TBA",
-            "57": "TBA"
+            "18": "AE025",
+            "25": "AE025",
+            "50": "AE025",
+            "57": "AE025"
           }
         }
       }
@@ -56708,8 +57018,8 @@
         "1": {
           "instructor": "BERNA SÖKEN",
           "schedule": {
-            "28": "TBA",
-            "35": "TBA",
+            "28": "AE025",
+            "35": "AE025",
             "51": "MM308",
             "58": "MM308"
           }
@@ -56722,8 +57032,8 @@
         "1": {
           "instructor": "BERNA SÖKEN",
           "schedule": {
-            "30": "TBA",
-            "37": "TBA",
+            "30": "AE025",
+            "37": "AE025",
             "49": "MM309",
             "56": "MM309"
           }
@@ -57507,27 +57817,6 @@
     }
   },
   "MAT": {
-    "MAT 100": {
-      "name": "PRECALCULUS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "3": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "4": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "MAT 101": {
       "name": "MATHEMATICS FOR SOCIAL SCIENCES",
       "sections": {
@@ -57949,12 +58238,12 @@
         "4": {
           "instructor": "STAFF",
           "schedule": {
-            "31": "M103",
-            "38": "M103",
-            "43": "M102",
-            "44": "M103",
-            "50": "M102",
-            "51": "M103"
+            "30": "G107",
+            "37": "G107",
+            "43": "G107",
+            "45": "G107",
+            "50": "G107",
+            "52": "G107"
           }
         },
         "11": {
@@ -59150,7 +59439,10 @@
         },
         "4": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "39": "M105",
+            "46": "M105"
+          }
         },
         "5": {
           "instructor": "STAFF",
@@ -63331,7 +63623,7 @@
       "name": "SUMMER PRACTICE I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT SÖNMEZ",
           "schedule": {}
         }
       }
@@ -63405,7 +63697,7 @@
       "name": "SUMMER PRACTICE II",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT SÖNMEZ",
           "schedule": {}
         }
       }
@@ -63462,15 +63754,6 @@
         }
       }
     },
-    "MECH 442": {
-      "name": "DESIGN OF CONTROL SYSTEMS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "MECH 458": {
       "name": "GRADUATION DESIGN PROJECT",
       "sections": {
@@ -63484,23 +63767,27 @@
       "name": "M.SC.THESIS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "EŞREF EŞKİNAT",
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "KEMAL MAŞERA",
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "ALİ ATASHBAR ORANG",
           "schedule": {}
         },
         "4": {
-          "instructor": "STAFF",
+          "instructor": "BARIŞ GÜNGÖRDÜ",
           "schedule": {}
         },
         "5": {
-          "instructor": "STAFF",
+          "instructor": "FARHAD JAVİDRAD",
+          "schedule": {}
+        },
+        "6": {
+          "instructor": "YİĞİT TAŞÇIOĞLU",
           "schedule": {}
         }
       }
@@ -63548,12 +63835,8 @@
       "name": "ANALYTICAL METHODS IN ENGINEERING I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA"
-          }
+          "instructor": "IŞIK HAKAN TARMAN",
+          "schedule": {}
         }
       }
     },
@@ -63631,7 +63914,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "ADNAN MAQSOOD",
+          "instructor": "YİĞİT TAŞÇIOĞLU",
           "schedule": {}
         }
       }
@@ -63913,7 +64196,7 @@
           "schedule": {
             "0": "MTE110",
             "7": "MTE110",
-            "9": "MTE04"
+            "10": "MTB308"
           }
         },
         "2": {
@@ -64491,9 +64774,9 @@
         "1": {
           "instructor": "TAYFUR ÖZTÜRK",
           "schedule": {
-            "10": "MTB308",
-            "17": "MTB308",
-            "24": "MTB308"
+            "37": "MTB308",
+            "44": "MTB308",
+            "51": "MTB308"
           }
         }
       }
@@ -68622,7 +68905,10 @@
       "sections": {
         "1": {
           "instructor": "ELVAN ŞAHİN",
-          "schedule": {}
+          "schedule": {
+            "14": "EFA-10",
+            "21": "EFA-10"
+          }
         },
         "2": {
           "instructor": "BÜLENT ÇETİNKAYA",
@@ -68763,7 +69049,10 @@
       "sections": {
         "1": {
           "instructor": "ÖMER FARUK ÖZDEMİR",
-          "schedule": {}
+          "schedule": {
+            "35": "EFA-35",
+            "42": "EFA-35"
+          }
         }
       }
     },
@@ -70313,7 +70602,11 @@
       "sections": {
         "1": {
           "instructor": "ZEYNEP MÜGE AVŞAR",
-          "schedule": {}
+          "schedule": {
+            "31": "IE105",
+            "38": "IE105",
+            "45": "IE105"
+          }
         }
       }
     },
@@ -71699,7 +71992,7 @@
         "1": {
           "instructor": "BÜŞRA AKKÖKLER KARATEKELİ",
           "schedule": {
-            "10": "TBA",
+            "10": "G102",
             "17": "TBA",
             "24": "TBA"
           }
@@ -72983,7 +73276,7 @@
           }
         },
         "2": {
-          "instructor": "KHALİL DADASHİ",
+          "instructor": "ÜMMÜGÜL ERÖZBEK GÜNGÖR",
           "schedule": {
             "1": "U1",
             "8": "U1",
@@ -73010,7 +73303,7 @@
           }
         },
         "5": {
-          "instructor": "ÜMMÜGÜL ERÖZBEK GÜNGÖR",
+          "instructor": "AHMET BİNGÜL",
           "schedule": {
             "18": "U2",
             "25": "U2",
@@ -73270,7 +73563,7 @@
         "1": {
           "instructor": "MUHAMMED MİRAÇ SERİM",
           "schedule": {
-            "64": "C.ERG.SEM."
+            "29": "C.ERG.SEM."
           }
         },
         "11": {
@@ -73612,6 +73905,11 @@
         "8": {
           "instructor": "STAFF",
           "schedule": {
+            "0": "G206",
+            "7": "G206",
+            "14": "G206",
+            "21": "G206",
+            "28": "G206",
             "38": "YP-D003",
             "45": "YP-D003",
             "52": "YP-D003",
@@ -73826,7 +74124,6 @@
         "39": {
           "instructor": "STAFF",
           "schedule": {
-            "39": "G111",
             "46": "G111",
             "53": "G111",
             "60": "G111"
@@ -74025,9 +74322,9 @@
         "1": {
           "instructor": "SEÇKİN KÜRKCÜOĞLU",
           "schedule": {
-            "9": "P-436",
-            "16": "P-436",
-            "23": "P-436"
+            "8": "P-421",
+            "15": "P-421",
+            "22": "P-421"
           }
         }
       }
@@ -74147,7 +74444,11 @@
       "sections": {
         "1": {
           "instructor": "ALPAN BEK",
-          "schedule": {}
+          "schedule": {
+            "37": "AKıLLı S.",
+            "44": "AKıLLı S.",
+            "51": "AKıLLı S."
+          }
         }
       }
     },
@@ -74245,8 +74546,23 @@
         "1": {
           "instructor": "YUSUF İPEKOĞLU",
           "schedule": {
+            "0": "P-422",
+            "1": "P-422",
+            "7": "P-422",
+            "8": "P-422",
+            "14": "P-422",
+            "15": "P-422",
+            "21": "P-422",
+            "22": "P-422",
+            "28": "P-422",
+            "35": "P-422",
+            "38": "P-421",
+            "42": "P-422",
+            "45": "P-421",
             "51": "LAB1",
-            "58": "LAB1"
+            "52": "P-421",
+            "58": "LAB1",
+            "59": "P-421"
           }
         }
       }
@@ -74265,7 +74581,19 @@
       "sections": {
         "1": {
           "instructor": "BAYRAM TEKİN",
-          "schedule": {}
+          "schedule": {
+            "2": "P-422",
+            "3": "P-436",
+            "4": "P-422",
+            "9": "P-422",
+            "10": "P-436",
+            "11": "P-422",
+            "16": "P-422",
+            "17": "P-436",
+            "23": "P-422",
+            "24": "P-436",
+            "30": "P-422"
+          }
         }
       }
     },
@@ -74332,8 +74660,26 @@
         "1": {
           "instructor": "MEHMET TEVFİK ZEYREK",
           "schedule": {
+            "0": "P-421",
+            "4": "P-436",
+            "7": "P-421",
+            "11": "P-436",
+            "14": "P-421",
+            "18": "P-436",
+            "21": "P-421",
+            "25": "P-436",
+            "28": "P-421",
+            "32": "P-436",
+            "35": "P-421",
             "38": "P1",
-            "45": "P1"
+            "39": "P-436",
+            "42": "P-421",
+            "45": "P1",
+            "46": "P-436",
+            "49": "P-421",
+            "53": "P-436",
+            "56": "P-421",
+            "60": "P-436"
           }
         }
       }
@@ -74390,8 +74736,23 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {
+            "0": "P-436",
+            "2": "P-436",
+            "7": "P-436",
+            "9": "P-436",
+            "14": "P-436",
+            "16": "P-436",
             "17": "P7",
-            "24": "P7"
+            "21": "P-436",
+            "23": "P-436",
+            "24": "P7",
+            "28": "P-436",
+            "30": "P-436",
+            "35": "P-436",
+            "37": "P-436",
+            "42": "P-436",
+            "49": "P-436",
+            "56": "P-436"
           }
         }
       }
@@ -76950,19 +77311,6 @@
         }
       }
     },
-    "PSY 5702": {
-      "name": "INTRODUCTION TO TRAFFIC AND TRANSPORTATION PSYCHOLOGY",
-      "sections": {
-        "1": {
-          "instructor": "BAHAR ÖZ",
-          "schedule": {
-            "8": "B205-A",
-            "15": "B205-A",
-            "22": "B205-A"
-          }
-        }
-      }
-    },
     "PSY 5704": {
       "name": "HUMAN FACTORS AND PERFORMANCE",
       "sections": {
@@ -77554,9 +77902,9 @@
         "1": {
           "instructor": "BAŞAK ŞAHİN ACAR",
           "schedule": {
-            "42": "TBA",
-            "49": "TBA",
-            "56": "TBA"
+            "8": "B205-A",
+            "15": "B205-A",
+            "22": "B205-A"
           }
         }
       }
@@ -77754,12 +78102,8 @@
       "name": "INDUSTRIAL PSYCHOLOGY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "28": "TBA",
-            "35": "TBA",
-            "42": "TBA"
-          }
+          "instructor": "ARTEM VLADIMIROVICH PLATONOV",
+          "schedule": {}
         }
       }
     },
@@ -77794,12 +78138,8 @@
       "name": "INTRODUCTION TO COGNITIVE SCIENCE",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "2": "TBA",
-            "50": "TBA",
-            "57": "TBA"
-          }
+          "instructor": "ARTEM VLADIMIROVICH PLATONOV",
+          "schedule": {}
         }
       }
     },
@@ -77878,12 +78218,8 @@
       "name": "STATISTICS FOR PSYCHOLOGY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {
-            "9": "TBA",
-            "16": "TBA",
-            "23": "TBA"
-          }
+          "instructor": "ARTEM VLADIMIROVICH PLATONOV",
+          "schedule": {}
         }
       }
     }
@@ -79600,19 +79936,6 @@
         }
       }
     },
-    "SOC 102": {
-      "name": "INTRODUCTION TO SOCIOLOGY",
-      "sections": {
-        "1": {
-          "instructor": "ARSEV UMUR AYDINOĞLU",
-          "schedule": {
-            "37": "G204",
-            "44": "G204",
-            "51": "G204"
-          }
-        }
-      }
-    },
     "SOC 104": {
       "name": "INTRODUCTION TO SOCIOLOGY",
       "sections": {
@@ -79676,6 +79999,19 @@
             "8": "G204",
             "38": "B14",
             "45": "B14"
+          }
+        }
+      }
+    },
+    "SOC 208": {
+      "name": "ECONOMICS AND SOCIETY",
+      "sections": {
+        "1": {
+          "instructor": "ARSEV UMUR AYDINOĞLU",
+          "schedule": {
+            "37": "G204",
+            "44": "G204",
+            "51": "G204"
           }
         }
       }
@@ -80128,11 +80464,15 @@
         "1": {
           "instructor": "ÇAĞATAY TOPAL",
           "schedule": {
-            "29": "B106",
-            "36": "B106",
-            "43": "B106",
-            "50": "B106",
-            "57": "B106"
+            "3": "B106",
+            "10": "B106",
+            "17": "B106",
+            "24": "B106",
+            "31": "B106",
+            "38": "B106",
+            "45": "B106",
+            "52": "B106",
+            "59": "B106"
           }
         }
       }
@@ -80154,17 +80494,7 @@
       "sections": {
         "1": {
           "instructor": "AYŞE İDİL AYBARS",
-          "schedule": {
-            "4": "B106",
-            "11": "B106",
-            "18": "B106",
-            "25": "B106",
-            "32": "B106",
-            "39": "B106",
-            "46": "B106",
-            "53": "B106",
-            "60": "B106"
-          }
+          "schedule": {}
         }
       }
     },
@@ -80213,7 +80543,12 @@
             "1": "B106",
             "8": "B106",
             "15": "B106",
-            "22": "B106"
+            "22": "B106",
+            "29": "B106",
+            "36": "B106",
+            "43": "B106",
+            "50": "B106",
+            "57": "B106"
           }
         }
       }
