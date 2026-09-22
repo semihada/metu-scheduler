@@ -1,5 +1,78 @@
 # Course Offerings Changelog
 
+## 2026-09-22 18:37 +0300 - 2026-2027 Fall (20261)
+
+29 departments: +15 added, -8 removed, 122 changed
+
+### ADM
+- Changed (1): ADM 8010
+### ARCH
+- Changed (2): ARCH 500, ARCH 513
+### ARME
+- Added (1): ARME 531
+- Changed (2): ARME 541, ARME 563
+### ASN
+- Changed (2): ASN 509, ASN 513
+### BA
+- Changed (34): BA 1101, BA 1103, BA 2701, BA 3702, BA 4103, BA 4144, BA 4226, BA 4229, BA 4516, BA 4731, BA 4829, BA 4834, BA 4839, BA 4840, BA 4841, BA 4842, BA 5201, BA 5509, BA 5602, BA 5702, BA 5802, BA 8003, BA 8011, BA 8012, BA 8020, BA 9005, BA 9009, BA 9010, BA 9011, BA 9012, BA 9014, BA 9016, BA 9017, BA 9020
+### BAS
+- Added (1): BAS 312
+### BIOL
+- Changed (1): BIOL 107
+### CE
+- Changed (3): CE 353, CE 363, CE 383
+### CEIT
+- Changed (1): CEIT 321
+### CENG
+- Changed (1): CENG 591
+### CHE
+- Changed (1): CHE 407
+### CHEM
+- Changed (2): CHEM 221, CHEM 254
+### ECO
+- Changed (3): ECO 205, ECO 312, ECO 498
+### EE
+- Changed (5): EE 281, EE 303, EE 441, EE 500, EE 577
+### EM
+- Added (2): EM 599, EM 891
+### ENG
+- Added (3): ENG 219, ENG 301, ENG 302
+- Changed (5): ENG 101, ENG 102, ENG 211, ENG 215, ENG 311
+### ENVE
+- Changed (5): ENVE 503, ENVE 505, ENVE 531, ENVE 539, ENVE 573
+### FDE
+- Changed (2): FDE 101, FDE 313
+### GEOE
+- Changed (6): GEOE 104, GEOE 209, GEOE 304, GEOE 309, GEOE 409, GEOE 524
+### GIA
+- Changed (6): GIA 100, GIA 105, GIA 109, GIA 301, GIA 313, GIA 323
+### GTSS
+- Changed (1): GTSS 551
+### ID
+- Removed (1): ID 438
+- Changed (3): ID 111, ID 403, ID 717
+### INE
+- Removed (1): INE 422
+- Changed (5): INE 300, INE 400, INE 425, INE 426, INE 454
+### IR
+- Added (1): IR 801
+- Removed (1): IR 676
+- Changed (2): IR 247, IR 599
+### MECH
+- Added (2): MECH 807, MECH 808
+- Changed (7): MECH 500, MECH 801, MECH 802, MECH 803, MECH 804, MECH 805, MECH 806
+### PHYS
+- Added (2): PHYS 305, PHYS 819
+- Changed (11): PHYS 283, PHYS 417, PHYS 500, PHYS 726, PHYS 801, PHYS 807, PHYS 814, PHYS 817, PHYS 826, PHYS 917, PHYS 919
+### SA
+- Added (3): SA 560, SA 561, SA 565
+- Removed (5): SA 502, SA 506, SA 509, SA 598, SA 600
+- Changed (2): SA 501, SA 503
+### SPL
+- Changed (2): SPL 501, SPL 511
+### TURK
+- Changed (7): TURK 101, TURK 103, TURK 105, TURK 201, TURK 303, TURK 304, TURK 305
+
 ## 2026-09-22 13:03 +0300 - 2026-2027 Fall (20261)
 
 28 departments: +4 added, -13 removed, 59 changed
