@@ -1,5 +1,37 @@
 # Course Offerings Changelog
 
+## 2026-09-22 23:17 +0300 - 2026-2027 Fall (20261)
+
+13 departments: +0 added, -3 removed, 30 changed
+
+### ARAB
+- Changed (3): ARAB 201, ARAB 202, ARAB 203
+### CHN
+- Changed (1): CHN 202
+### ENG
+- Removed (3): ENG 216, ENG 310, ENG 314
+- Changed (3): ENG 211, ENG 215, ENG 311
+### FLE
+- Changed (1): FLE 137
+### FREN
+- Changed (4): FREN 202, FREN 203, FREN 204, FREN 205
+### GERM
+- Changed (5): GERM 201, GERM 202, GERM 203, GERM 204, GERM 205
+### ID
+- Changed (1): ID 405
+### ITAL
+- Changed (4): ITAL 201, ITAL 202, ITAL 203, ITAL 205
+### MECH
+- Changed (1): MECH 401
+### PERS
+- Changed (1): PERS 201
+### PSY
+- Changed (1): PSY 1410
+### ROB
+- Changed (3): ROB 501, ROB 590, ROB 690
+### SPAN
+- Changed (2): SPAN 201, SPAN 203
+
 ## 2026-09-22 18:37 +0300 - 2026-2027 Fall (20261)
 
 29 departments: +15 added, -8 removed, 122 changed
