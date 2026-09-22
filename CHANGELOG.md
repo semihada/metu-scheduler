@@ -1,5 +1,70 @@
 # Course Offerings Changelog
 
+## 2026-09-22 13:03 +0300 - 2026-2027 Fall (20261)
+
+28 departments: +4 added, -13 removed, 59 changed
+
+### ARCH
+- Changed (2): ARCH 535, ARCH 615
+### BA
+- Changed (1): BA 100
+### CE
+- Changed (6): CE 224, CE 353, CE 374, CE 410, CE 581, CE 745
+### CEIT
+- Changed (2): CEIT 111, CEIT 313
+### CENG
+- Changed (3): CENG 331, CENG 460, CENG 491
+### ECO
+- Removed (6): ECO 201, ECO 275, ECO 311, ECO 315, ECO 446, ECO 455
+### ECON
+- Changed (1): ECON 400
+### EE
+- Changed (3): EE 381, EE 427, EE 500
+### ELT
+- Changed (1): ELT 933
+### ENG
+- Changed (2): ENG 101, ENG 215
+### FLE
+- Changed (1): FLE 238
+### GIA
+- Added (3): GIA 301, GIA 313, GIA 322
+- Removed (3): GIA 303, GIA 317, GIA 324
+- Changed (6): GIA 100, GIA 103, GIA 105, GIA 107, GIA 109, GIA 323
+### HIST
+- Changed (3): HIST 544, HIST 809, HIST 2201
+### ID
+- Changed (3): ID 319, ID 426, ID 455
+### IE
+- Changed (2): IE 265, IE 404
+### IR
+- Changed (1): IR 550
+### MASC
+- Removed (1): MASC 597
+### MES
+- Changed (1): MES 501
+### METE
+- Changed (5): METE 230, METE 301, METE 580, METE 581, METE 600
+### MSE
+- Added (1): MSE 926
+- Changed (1): MSE 600
+### PES
+- Changed (2): PES 1701, PES 3400
+### PETE
+- Changed (3): PETE 220, PETE 411, PETE 490
+### PHYS
+- Changed (5): PHYS 221, PHYS 430, PHYS 500, PHYS 801, PHYS 815
+### PST
+- Removed (1): PST 501
+### PSY
+- Changed (1): PSY 6582
+### SOC
+- Changed (2): SOC 109, SOC 131
+### SOCL
+- Removed (1): SOCL 100
+### STAT
+- Removed (1): STAT 471
+- Changed (2): STAT 457, STAT 467
+
 ## 2026-09-22 00:09 +0300 - 2026-2027 Fall (20261)
 
 4 departments: +2 added, -0 removed, 8 changed
