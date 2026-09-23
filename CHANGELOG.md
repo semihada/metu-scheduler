@@ -1,5 +1,92 @@
 # Course Offerings Changelog
 
+## 2026-09-23 13:05 +0300 - 2026-2027 Fall (20261)
+
+36 departments: +13 added, -10 removed, 57 changed
+
+### ADM
+- Changed (1): ADM 4204
+### AEE
+- Changed (2): AEE 202, AEE 341
+### ARCH
+- Changed (2): ARCH 434, ARCH 571
+### ART
+- Changed (1): ART 113
+### ASE
+- Removed (1): ASE 476
+### BA
+- Changed (1): BA 5516
+### BAS
+- Changed (1): BAS 371
+### CE
+- Changed (2): CE 224, CE 4002
+### CHEM
+- Changed (1): CHEM 111
+### CHIN
+- Changed (1): CHIN 201
+### ECO
+- Changed (3): ECO 210, ECO 303, ECO 480
+### EDUS
+- Added (2): EDUS 213, EDUS 312
+- Removed (2): EDUS 230, EDUS 358
+### EFL
+- Changed (1): EFL 319
+### ENG
+- Added (1): ENG 207
+- Changed (2): ENG 211, ENG 215
+### FDE
+- Changed (2): FDE 500, FDE 600
+### GPC
+- Removed (5): GPC 316, GPC 410, GPC 411, GPC 415, GPC 437
+### HIST
+- Added (2): HIST 320, HIST 526
+- Removed (1): HIST 420
+- Changed (1): HIST 600
+### IE
+- Changed (1): IE 600
+### INE
+- Added (1): INE 456
+### MASC
+- Added (1): MASC 504
+- Changed (9): MASC 508, MASC 510, MASC 530, MASC 563, MASC 564, MASC 605, MASC 607, MASC 806, MASC 906
+### ME
+- Changed (3): ME 117, ME 870, ME 919
+### METE
+- Removed (1): METE 442
+- Changed (2): METE 203, METE 230
+### MSE
+- Changed (1): MSE 532
+### OHS
+- Changed (2): OHS 101, OHS 301
+### PETE
+- Changed (1): PETE 310
+### PHYS
+- Changed (6): PHYS 300, PHYS 533, PHYS 704, PHYS 803, PHYS 815, PHYS 826
+### PSIR
+- Added (1): PSIR 381
+- Changed (1): PSIR 237
+### PST
+- Added (1): PST 501
+- Changed (2): PST 506, PST 508
+### PSY
+- Added (1): PSY 3602
+- Changed (3): PSY 1010, PSY 4650, PSY 8004
+### SPAN
+- Changed (1): SPAN 202
+### STAT
+- Changed (1): STAT 411
+### STPS
+- Changed (1): STPS 599
+### TEFL
+- Added (1): TEFL 173
+### TKPR
+- Changed (1): TKPR 224
+### TURK
+- Added (1): TURK 107
+- Changed (1): TURK 201
+### UPL
+- Added (1): UPL 602
+
 ## 2026-09-22 23:17 +0300 - 2026-2027 Fall (20261)
 
 13 departments: +0 added, -3 removed, 30 changed
