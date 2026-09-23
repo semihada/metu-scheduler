@@ -1,5 +1,86 @@
 # Course Offerings Changelog
 
+## 2026-09-23 18:33 +0300 - 2026-2027 Fall (20261)
+
+34 departments: +13 added, -8 removed, 63 changed
+
+### AEE
+- Changed (1): AEE 404
+### ARME
+- Removed (5): ARME 501, ARME 591, ARME 592, ARME 601, ARME 602
+- Changed (2): ARME 590, ARME 708
+### ARS
+- Added (1): ARS 902
+- Changed (2): ARS 611, ARS 699
+### ART
+- Changed (2): ART 111, ART 113
+### BA
+- Changed (1): BA 1103
+### BASE
+- Changed (5): BASE 101, BASE 201, BASE 301, BASE 401, BASE 501
+### CE
+- Changed (2): CE 241, CE 587
+### CHE
+- Changed (1): CHE 500
+### CHEM
+- Changed (3): CHEM 111, CHEM 500, CHEM 841
+### CTE
+- Changed (1): CTE 319
+### DDS
+- Added (3): DDS 808, DDS 809, DDS 810
+- Changed (1): DDS 500
+### ECON
+- Changed (1): ECON 400
+### EDUS
+- Changed (2): EDUS 213, EDUS 312
+### EFL
+- Added (1): EFL 361
+- Changed (5): EFL 130, EFL 211, EFL 311, EFL 319, EFL 413
+### ELT
+- Changed (1): ELT 554
+### ENG
+- Changed (1): ENG 211
+### EUS
+- Added (2): EUS 503, EUS 523
+### FDE
+- Changed (2): FDE 416, FDE 490
+### FLE
+- Changed (1): FLE 134
+### HIST
+- Added (1): HIST 902
+- Removed (2): HIST 111, HIST 450
+- Changed (5): HIST 217, HIST 320, HIST 411, HIST 526, HIST 570
+### IAM
+- Added (1): IAM 823
+- Changed (1): IAM 500
+### IE
+- Added (2): IE 949, IE 950
+- Changed (1): IE 746
+### IR
+- Changed (1): IR 422
+### IS
+- Changed (1): IS 721
+### LNA
+- Changed (1): LNA 501
+### MCS
+- Changed (2): MCS 500, MCS 509
+### ME
+- Changed (2): ME 305, ME 431
+### PES
+- Changed (1): PES 809
+### PHYS
+- Changed (10): PHYS 424, PHYS 430, PHYS 500, PHYS 569, PHYS 815, PHYS 817, PHYS 825, PHYS 826, PHYS 912, PHYS 917
+### PNGE
+- Added (1): PNGE 352
+### PSY
+- Removed (1): PSY 4650
+### SEES
+- Changed (2): SEES 500, SEES 825
+### SOCL
+- Changed (2): SOCL 109, SOCL 134
+### STPS
+- Added (1): STPS 807
+
 ## 2026-09-23 13:05 +0300 - 2026-2027 Fall (20261)
 
 36 departments: +13 added, -10 removed, 57 changed
