@@ -1,5 +1,18 @@
 # Course Offerings Changelog
 
+## 2026-09-23 23:27 +0300 - 2026-2027 Fall (20261)
+
+4 departments: +2 added, -0 removed, 3 changed
+
+### INE
+- Changed (2): INE 265, INE 456
+### MECH
+- Changed (1): MECH 208
+### STPS
+- Added (1): STPS 910
+### TKPR
+- Added (1): TKPR 229
+
 ## 2026-09-23 18:33 +0300 - 2026-2027 Fall (20261)
 
 34 departments: +13 added, -8 removed, 63 changed
