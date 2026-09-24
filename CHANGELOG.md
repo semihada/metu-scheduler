@@ -1,5 +1,28 @@
 # Course Offerings Changelog
 
+## 2026-09-24 13:07 +0300 - 2026-2027 Fall (20261)
+
+9 departments: +0 added, -0 removed, 17 changed
+
+### ADM
+- Changed (1): ADM 1323
+### CE
+- Changed (6): CE 410, CE 526, CE 528, CE 529, CE 581, CE 735
+### EDUS
+- Changed (1): EDUS 213
+### EE
+- Changed (1): EE 303
+### EFL
+- Changed (2): EFL 321, EFL 417
+### IR
+- Changed (3): IR 345, IR 407, IR 599
+### PHYS
+- Changed (1): PHYS 500
+### PSIR
+- Changed (1): PSIR 3204
+### TKPR
+- Changed (1): TKPR 227
+
 ## 2026-09-24 11:32 +0300 - 2026-2027 Fall (20261)
 
 26 departments: +3 added, -0 removed, 46 changed
