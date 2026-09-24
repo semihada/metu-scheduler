@@ -1,5 +1,65 @@
 # Course Offerings Changelog
 
+## 2026-09-24 11:32 +0300 - 2026-2027 Fall (20261)
+
+26 departments: +3 added, -0 removed, 46 changed
+
+### AEE
+- Changed (1): AEE 404
+### AIX
+- Added (1): AIX 809
+- Changed (1): AIX 500
+### ARS
+- Added (1): ARS 600
+- Changed (2): ARS 601, ARS 611
+### ASTR
+- Changed (1): ASTR 515
+### BASE
+- Changed (3): BASE 101, BASE 201, BASE 301
+### BIO
+- Changed (1): BIO 106
+### BTEC
+- Changed (2): BTEC 707, BTEC 709
+### CE
+- Changed (1): CE 539
+### CENG
+- Changed (1): CENG 501
+### CSEC
+- Changed (1): CSEC 590
+### CTE
+- Changed (1): CTE 319
+### ECO
+- Changed (2): ECO 400, ECO 480
+### EFL
+- Changed (4): EFL 123, EFL 313, EFL 361, EFL 409
+### ELT
+- Changed (1): ELT 506
+### ENG
+- Changed (1): ENG 215
+### FDE
+- Changed (2): FDE 591, FDE 691
+### FREN
+- Changed (2): FREN 201, FREN 203
+### GERM
+- Changed (2): GERM 201, GERM 203
+### HIST
+- Changed (1): HIST 2201
+### HST
+- Changed (3): HST 201, HST 202, HST 205
+### MATH
+- Changed (6): MATH 117, MATH 129, MATH 500, MATH 503, MATH 600, MATH 695
+### PHL
+- Changed (1): PHL 291
+### PHYS
+- Changed (1): PHYS 500
+### PSIR
+- Added (1): PSIR 3204
+- Changed (2): PSIR 237, PSIR 381
+### SPAN
+- Changed (1): SPAN 202
+### TKPR
+- Changed (2): TKPR 219, TKPR 229
+
 ## 2026-09-23 23:27 +0300 - 2026-2027 Fall (20261)
 
 4 departments: +2 added, -0 removed, 3 changed

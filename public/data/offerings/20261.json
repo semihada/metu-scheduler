@@ -2160,19 +2160,43 @@
         },
         "2": {
           "instructor": "NİLAY SEZER UZOL",
-          "schedule": {}
+          "schedule": {
+            "35": "AE026",
+            "42": "AE026",
+            "49": "AE026",
+            "56": "AE026",
+            "57": "AE026"
+          }
         },
         "3": {
           "instructor": "TUNCAY YALÇINKAYA",
-          "schedule": {}
+          "schedule": {
+            "11": "AE026",
+            "18": "AE026",
+            "25": "AE026",
+            "39": "AE026",
+            "46": "AE026"
+          }
         },
         "4": {
           "instructor": "SERKAN ÖZGEN",
-          "schedule": {}
+          "schedule": {
+            "37": "AE026",
+            "44": "AE026",
+            "51": "AE026",
+            "53": "AE026",
+            "58": "AE026"
+          }
         },
         "5": {
           "instructor": "HALİL ERSİN SÖKEN",
-          "schedule": {}
+          "schedule": {
+            "38": "AE026",
+            "45": "AE026",
+            "52": "AE026",
+            "59": "AE026",
+            "60": "AE026"
+          }
         },
         "6": {
           "instructor": "ALTAN KAYRAN",
@@ -3563,6 +3587,10 @@
         "8": {
           "instructor": "SİNAN KALKAN",
           "schedule": {}
+        },
+        "9": {
+          "instructor": "EMRE AKBAŞ",
+          "schedule": {}
         }
       }
     },
@@ -3634,6 +3662,15 @@
       "sections": {
         "1": {
           "instructor": "SİNAN KALKAN",
+          "schedule": {}
+        }
+      }
+    },
+    "AIX 809": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "EMRE AKBAŞ",
           "schedule": {}
         }
       }
@@ -6469,15 +6506,26 @@
     }
   },
   "ARS": {
+    "ARS 600": {
+      "name": "DOCTORAL SEMINAR IN AREA STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "DERYA GÖÇER",
+          "schedule": {
+            "29": "TBA"
+          }
+        }
+      }
+    },
     "ARS 601": {
       "name": "AREA STUDIES",
       "sections": {
         "1": {
           "instructor": "DERYA GÖÇER",
           "schedule": {
-            "9": "MM412",
-            "16": "MM412",
-            "23": "MM412"
+            "7": "MM412",
+            "14": "MM412",
+            "21": "MM412"
           }
         }
       }
@@ -6488,9 +6536,9 @@
         "1": {
           "instructor": "KERİM SERT",
           "schedule": {
-            "7": "MM412",
-            "14": "MM412",
-            "21": "MM412"
+            "10": "MM412",
+            "17": "MM412",
+            "24": "MM412"
           }
         }
       }
@@ -6986,9 +7034,9 @@
         "1": {
           "instructor": "ALTAN BAYKAL",
           "schedule": {
-            "8": "YP-D003",
-            "15": "YP-D003",
-            "22": "YP-D003"
+            "42": "YP-D106",
+            "49": "YP-D106",
+            "56": "YP-D106"
           }
         }
       }
@@ -9354,7 +9402,7 @@
           "schedule": {}
         },
         "11": {
-          "instructor": "ZEYNEP ÜNLÜER ÖZER",
+          "instructor": "KERİMAN KIRKICI ÜNER",
           "schedule": {}
         },
         "12": {
@@ -9451,7 +9499,7 @@
           "schedule": {}
         },
         "12": {
-          "instructor": "KERİMAN KIRKICI ÜNER",
+          "instructor": "ZEYNEP ÜNLÜER ÖZER",
           "schedule": {}
         },
         "13": {
@@ -9501,10 +9549,6 @@
         "24": {
           "instructor": "ARZU GANİOĞLU",
           "schedule": {}
-        },
-        "25": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -9544,139 +9588,107 @@
           "schedule": {}
         },
         "9": {
-          "instructor": "STAFF",
+          "instructor": "GÜLŞEN TUNÇ",
           "schedule": {}
         },
         "10": {
-          "instructor": "STAFF",
+          "instructor": "YANKI ÇENDİK",
           "schedule": {}
         },
         "11": {
-          "instructor": "STAFF",
+          "instructor": "EDA ÇALIŞKAN",
           "schedule": {}
         },
         "12": {
-          "instructor": "STAFF",
+          "instructor": "DENİZ YILDIZOĞLU",
           "schedule": {}
         },
         "13": {
-          "instructor": "STAFF",
+          "instructor": "DEFNE AKINCI MİDAS",
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "FEYZA SEVİLMİŞ",
           "schedule": {}
         },
         "15": {
-          "instructor": "STAFF",
+          "instructor": "UMUT UFKU YAMAN",
           "schedule": {}
         },
         "16": {
-          "instructor": "STAFF",
+          "instructor": "MEHTAP YALÇIN",
           "schedule": {}
         },
         "17": {
-          "instructor": "STAFF",
+          "instructor": "ENGİN YAŞAR",
           "schedule": {}
         },
         "18": {
-          "instructor": "STAFF",
+          "instructor": "ECE SEDA ZABUNOĞLU",
           "schedule": {}
         },
         "19": {
-          "instructor": "STAFF",
+          "instructor": "GÜLDEN ÖZTEKİN",
           "schedule": {}
         },
         "20": {
-          "instructor": "STAFF",
+          "instructor": "MELEK TÜRKMEN DAĞLI",
           "schedule": {}
         },
         "21": {
-          "instructor": "STAFF",
+          "instructor": "SENEM AHISKAL",
           "schedule": {}
         },
         "22": {
-          "instructor": "STAFF",
+          "instructor": "LALE TÜRKKAN",
           "schedule": {}
         },
         "23": {
-          "instructor": "STAFF",
+          "instructor": "HİLAL SEVİNÇ",
           "schedule": {}
         },
         "24": {
-          "instructor": "STAFF",
+          "instructor": "HAZAN FUNDA ÖZBAŞOĞLU KUTLU",
           "schedule": {}
         },
         "25": {
-          "instructor": "STAFF",
+          "instructor": "EMİNE YETGİN",
           "schedule": {}
         },
         "26": {
-          "instructor": "STAFF",
+          "instructor": "İLKNUR KUNTASAL",
           "schedule": {}
         },
         "27": {
-          "instructor": "STAFF",
+          "instructor": "NEGAH HANDAN UÇAR",
           "schedule": {}
         },
         "28": {
-          "instructor": "STAFF",
+          "instructor": "BAHAR OĞUZ",
           "schedule": {}
         },
         "29": {
-          "instructor": "STAFF",
+          "instructor": "ECE SELVA KÜÇÜKOĞLU",
           "schedule": {}
         },
         "30": {
-          "instructor": "STAFF",
+          "instructor": "GÖKÇEN BAŞKAN GÜLŞEN",
           "schedule": {}
         },
         "31": {
-          "instructor": "STAFF",
+          "instructor": "PINAR BÖKE",
           "schedule": {}
         },
         "32": {
-          "instructor": "STAFF",
+          "instructor": "MÜGE NİMET GÖKÇE",
           "schedule": {}
         },
         "33": {
-          "instructor": "STAFF",
+          "instructor": "ZÜHRE ELİF ER",
           "schedule": {}
         },
         "34": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "35": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "36": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "37": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "38": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "39": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "40": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "41": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "42": {
-          "instructor": "STAFF",
+          "instructor": "DERYA ILGIN YAŞAR",
           "schedule": {}
         }
       }
@@ -11463,11 +11475,11 @@
       "name": "GENERAL BIOLOGY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "NAZ MENGİ ÇAMUR",
           "schedule": {
-            "46": "TBA",
             "53": "TBA",
-            "60": "TBA"
+            "60": "TBA",
+            "67": "TBA"
           }
         }
       }
@@ -14614,18 +14626,6 @@
             "37": "YP-D001",
             "44": "YP-D001"
           }
-        },
-        "2": {
-          "instructor": "CAN ÖZEN",
-          "schedule": {}
-        },
-        "3": {
-          "instructor": "CAN ÖZEN",
-          "schedule": {}
-        },
-        "4": {
-          "instructor": "CAN ÖZEN",
-          "schedule": {}
         }
       }
     },
@@ -14639,18 +14639,6 @@
             "14": "B205-A",
             "21": "B205-A"
           }
-        },
-        "2": {
-          "instructor": "CAN ÖZEN",
-          "schedule": {}
-        },
-        "3": {
-          "instructor": "CAN ÖZEN",
-          "schedule": {}
-        },
-        "4": {
-          "instructor": "CAN ÖZEN",
-          "schedule": {}
         }
       }
     },
@@ -17293,9 +17281,9 @@
         "1": {
           "instructor": "İSMAİL AYDIN",
           "schedule": {
-            "9": "K3LB102",
-            "16": "K3LB102",
-            "23": "K3LB102"
+            "10": "K3LB102",
+            "17": "K3LB102",
+            "24": "K3LB102"
           }
         }
       }
@@ -20424,7 +20412,11 @@
       "sections": {
         "1": {
           "instructor": "EMRE AKBAŞ",
-          "schedule": {}
+          "schedule": {
+            "8": "BMB5",
+            "15": "BMB5",
+            "22": "BMB5"
+          }
         }
       }
     },
@@ -28782,7 +28774,7 @@
         "1": {
           "instructor": "CİHANGİR TEZCAN",
           "schedule": {
-            "28": "II-03"
+            "28": "TBA"
           }
         }
       }
@@ -28884,7 +28876,7 @@
       "name": "INSTR.TECH.& MATERIALS DEVELOPMENT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÖMER DELİALİOĞLU",
           "schedule": {
             "46": "TBA",
             "53": "TBA",
@@ -30434,7 +30426,7 @@
       "name": "GRADUATION PROJECT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "EMRE ÖZÇELİK",
           "schedule": {}
         }
       }
@@ -30444,7 +30436,12 @@
       "sections": {
         "1": {
           "instructor": "İLHAN CAN ÖZEN",
-          "schedule": {}
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA",
+            "67": "TBA"
+          }
         }
       }
     },
@@ -37399,7 +37396,7 @@
       "name": "LISTENING & PRONUNCIATION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "NURDAN GÜRBÜZ",
           "schedule": {
             "45": "TBA",
             "52": "TBA",
@@ -37503,11 +37500,11 @@
       "name": "LANGUAGE ACQUISITION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÇİĞDEM SAĞIN ŞİMŞEK",
           "schedule": {
-            "46": "TBA",
-            "53": "TBA",
-            "60": "TBA"
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
           }
         }
       }
@@ -37542,8 +37539,12 @@
       "name": "INTRODUCTION TO COMPUTER ASSISTED LANGUAGE LEARNING TOOLS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "TARKAN GÜRBÜZ",
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA",
+            "52": "TBA"
+          }
         }
       }
     },
@@ -37551,11 +37552,11 @@
       "name": "CURRENT ISSUES IN LINGUISTICS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "NURDAN GÜRBÜZ",
           "schedule": {
-            "17": "TBA",
             "24": "TBA",
-            "31": "TBA"
+            "31": "TBA",
+            "38": "TBA"
           }
         }
       }
@@ -37869,9 +37870,9 @@
         "1": {
           "instructor": "ELVAN EDA IŞIK",
           "schedule": {
-            "1": "EFB-22",
-            "8": "EFB-22",
-            "15": "EFB-22"
+            "1": "EFB-23",
+            "8": "EFB-23",
+            "15": "EFB-23"
           }
         }
       }
@@ -40745,11 +40746,7 @@
         },
         "10": {
           "instructor": "STAFF",
-          "schedule": {
-            "43": "EFA-14",
-            "50": "EFA-14",
-            "57": "EFA-14"
-          }
+          "schedule": {}
         },
         "11": {
           "instructor": "STAFF",
@@ -40864,12 +40861,7 @@
         "26": {
           "instructor": "STAFF",
           "schedule": {
-            "15": "K11",
-            "22": "K11",
-            "29": "K11",
-            "30": "K11",
-            "49": "K11",
-            "56": "K11"
+            "30": "K11"
           }
         },
         "27": {
@@ -41009,9 +41001,7 @@
           "schedule": {
             "0": "EFA-10",
             "7": "EFA-10",
-            "31": "EFA-10",
             "32": "EFA-10",
-            "38": "EFA-10",
             "39": "EFA-10",
             "46": "EFA-10",
             "51": "EFA-10",
@@ -41043,10 +41033,7 @@
           "schedule": {
             "4": "EFA-30",
             "11": "EFA-30",
-            "31": "EFA-30",
-            "38": "EFA-30",
             "39": "EFA-30",
-            "45": "EFA-30",
             "46": "EFA-30",
             "51": "EFA-30",
             "53": "EFA-30",
@@ -45575,7 +45562,9 @@
       "sections": {
         "1": {
           "instructor": "ÖNAY BURAK DOĞAN",
-          "schedule": {}
+          "schedule": {
+            "50": "FD1"
+          }
         }
       }
     },
@@ -45592,8 +45581,10 @@
       "name": "SEMINAR FOR PH.D. STUDENTS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "ÖNAY BURAK DOĞAN",
+          "schedule": {
+            "57": "FD1"
+          }
         }
       }
     },
@@ -46385,17 +46376,17 @@
           "instructor": "FİLİZ NİLÜFER HENDEN",
           "schedule": {
             "29": "TBA",
-            "31": "TBA",
+            "31": "EFA-10",
             "36": "TBA",
-            "38": "TBA"
+            "38": "EFA-10"
           }
         },
         "3": {
           "instructor": "FİLİZ NİLÜFER HENDEN",
           "schedule": {
-            "43": "TBA",
+            "43": "EFA-14",
             "45": "MM308",
-            "50": "TBA",
+            "50": "EFA-14",
             "52": "MM308"
           }
         }
@@ -46439,9 +46430,9 @@
         "2": {
           "instructor": "ÇELEBİ AKDAŞ",
           "schedule": {
-            "15": "TBA",
+            "15": "AE025",
             "18": "G-268",
-            "22": "TBA",
+            "22": "AE025",
             "25": "G-268"
           }
         }
@@ -48639,9 +48630,9 @@
         "3": {
           "instructor": "STAFF",
           "schedule": {
-            "49": "TBA",
+            "49": "K11",
             "52": "MM309",
-            "56": "TBA",
+            "56": "K11",
             "59": "MM309"
           }
         },
@@ -48713,9 +48704,9 @@
           "instructor": "MUKADDES YILDIRIM",
           "schedule": {
             "36": "TBA",
-            "38": "TBA",
+            "38": "EFA-30",
             "43": "TBA",
-            "45": "TBA"
+            "45": "EFA-30"
           }
         },
         "2": {
@@ -51023,15 +51014,15 @@
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "4": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "5": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "6": {
@@ -51043,7 +51034,7 @@
           "schedule": {}
         },
         "8": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "9": {
@@ -51051,11 +51042,11 @@
           "schedule": {}
         },
         "10": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "11": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {
             "15": "G206",
             "22": "G206"
@@ -51066,7 +51057,7 @@
           "schedule": {}
         },
         "13": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "14": {
@@ -51074,11 +51065,11 @@
           "schedule": {}
         },
         "15": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "16": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "17": {
@@ -51100,7 +51091,7 @@
           }
         },
         "20": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "21": {
@@ -51108,18 +51099,18 @@
           "schedule": {}
         },
         "22": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "23": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {
             "1": "TBA",
             "8": "TBA"
           }
         },
         "24": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "25": {
@@ -51127,7 +51118,7 @@
           "schedule": {}
         },
         "26": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "27": {
@@ -51138,7 +51129,7 @@
           }
         },
         "28": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {}
         },
         "29": {
@@ -51146,7 +51137,7 @@
           "schedule": {}
         },
         "30": {
-          "instructor": "STAFF",
+          "instructor": "İRFAN ERTAN",
           "schedule": {
             "1": "YP-D001",
             "8": "YP-D001"
@@ -51183,18 +51174,18 @@
           "schedule": {}
         },
         "37": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "38": {
-          "instructor": "STAFF",
+          "instructor": "GÜRER KARAGEDİKLİ",
           "schedule": {
             "1": "G101",
             "8": "G101"
           }
         },
         "39": {
-          "instructor": "STAFF",
+          "instructor": "GÜRER KARAGEDİKLİ",
           "schedule": {
             "15": "G101",
             "22": "G101"
@@ -51215,21 +51206,21 @@
           }
         },
         "42": {
-          "instructor": "STAFF",
+          "instructor": "NESİM ŞEKER",
           "schedule": {
             "1": "B05",
             "8": "B05"
           }
         },
         "43": {
-          "instructor": "STAFF",
+          "instructor": "NESİM ŞEKER",
           "schedule": {
             "14": "B05",
             "21": "B05"
           }
         },
         "44": {
-          "instructor": "STAFF",
+          "instructor": "TANER ZORBAY",
           "schedule": {}
         },
         "45": {
@@ -51337,8 +51328,11 @@
       "name": "PRINCIPLES OF KEMAL ATATÜRK I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "NESİM ŞEKER",
+          "schedule": {
+            "67": "TBA",
+            "74": "TBA"
+          }
         }
       }
     },
@@ -51346,8 +51340,11 @@
       "name": "PRINCIPLES OF KEMAL ATATÜRK II",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "ŞEFİKA AKİLE ZORLU DURUKAN",
+          "schedule": {
+            "19": "TBA",
+            "26": "TBA"
+          }
         }
       }
     },
@@ -51355,8 +51352,11 @@
       "name": "HISTORY OF THE TURKISH REVOLUTION I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "ŞEFİKA AKİLE ZORLU DURUKAN",
+          "schedule": {
+            "67": "TBA",
+            "74": "TBA"
+          }
         }
       }
     }
@@ -58705,8 +58705,8 @@
           "schedule": {
             "0": "U1",
             "7": "U1",
-            "16": "U2",
-            "23": "U2"
+            "16": "TBA",
+            "23": "TBA"
           }
         },
         "4": {
@@ -59455,8 +59455,8 @@
           "schedule": {
             "0": "YP-A3",
             "7": "YP-A3",
-            "16": "P2",
-            "23": "P2"
+            "16": "U2",
+            "23": "U2"
           }
         },
         "11": {
@@ -60005,7 +60005,6 @@
         "26": {
           "instructor": "DİLBER KOÇAK BENLİ",
           "schedule": {
-            "2": "M104",
             "15": "M13",
             "22": "M13",
             "29": "M105",
@@ -60148,7 +60147,12 @@
       "sections": {
         "1": {
           "instructor": "DİLBER KOÇAK BENLİ",
-          "schedule": {}
+          "schedule": {
+            "2": "M102",
+            "9": "M102",
+            "14": "M103",
+            "21": "M103"
+          }
         }
       }
     },
@@ -60307,10 +60311,7 @@
         },
         "5": {
           "instructor": "STAFF",
-          "schedule": {
-            "7": "M103",
-            "14": "M103"
-          }
+          "schedule": {}
         },
         "6": {
           "instructor": "MÜNEVVER TEZER",
@@ -60524,7 +60525,7 @@
       "name": "GRADUATE SEMINAR IN MATHEMATICS I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "DİLBER KOÇAK BENLİ",
           "schedule": {}
         }
       }
@@ -73455,8 +73456,12 @@
       "name": "HISTORY OF SCIENCE I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "ŞEREF HALİL TURAN",
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA"
+          }
         }
       }
     }
@@ -74573,10 +74578,7 @@
         },
         "35": {
           "instructor": "STAFF",
-          "schedule": {
-            "2": "P4",
-            "9": "P4"
-          }
+          "schedule": {}
         },
         "36": {
           "instructor": "STAFF",
@@ -74678,11 +74680,7 @@
           "schedule": {
             "0": "YP-D003",
             "7": "YP-D003",
-            "35": "YP-D106",
-            "42": "YP-D106",
-            "49": "YP-D106",
             "51": "YP-D001",
-            "56": "YP-D106",
             "58": "YP-D001"
           }
         },
@@ -76103,7 +76101,11 @@
       "sections": {
         "1": {
           "instructor": "ARZU İZ",
-          "schedule": {}
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA",
+            "52": "TBA"
+          }
         }
       }
     },
@@ -76151,7 +76153,11 @@
       "sections": {
         "1": {
           "instructor": "AYLİN TOPAL YILMAZ",
-          "schedule": {}
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA"
+          }
         }
       }
     },
@@ -76177,6 +76183,19 @@
             "8": "TBA",
             "15": "TBA",
             "22": "TBA"
+          }
+        }
+      }
+    },
+    "PSIR 3204": {
+      "name": "PUBLIC POLICY",
+      "sections": {
+        "1": {
+          "instructor": "STAFF",
+          "schedule": {
+            "60": "TBA",
+            "67": "TBA",
+            "74": "TBA"
           }
         }
       }
@@ -81432,9 +81451,9 @@
           "instructor": "ASLI ODABAŞI KUŞGÖZ",
           "schedule": {
             "3": "YP-D205",
-            "8": "YP-D203",
             "10": "YP-D205",
-            "15": "YP-D203"
+            "15": "YP-D203",
+            "22": "YP-D203"
           }
         }
       }
@@ -83254,10 +83273,10 @@
         "2": {
           "instructor": "UĞUR GÖĞÜŞ",
           "schedule": {
-            "2": "M102",
-            "9": "M102",
-            "16": "M104",
-            "23": "M104"
+            "2": "P4",
+            "9": "P4",
+            "16": "P2",
+            "23": "P2"
           }
         }
       }
@@ -83403,10 +83422,10 @@
         "1": {
           "instructor": "ÖMER FURKAN KESİKBAŞ",
           "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA",
-            "56": "TBA"
+            "35": "YP-D203",
+            "42": "YP-D203",
+            "49": "YP-D203",
+            "56": "YP-D203"
           }
         }
       }
