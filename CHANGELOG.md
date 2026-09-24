@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-09-24 23:37 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 1 changed
+
+### PSY
+- Changed (1): PSY 3201
+
 ## 2026-09-24 18:55 +0300 - 2026-2027 Fall (20261)
 
 27 departments: +4 added, -0 removed, 44 changed
