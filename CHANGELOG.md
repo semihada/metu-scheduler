@@ -1,5 +1,64 @@
 # Course Offerings Changelog
 
+## 2026-09-24 18:55 +0300 - 2026-2027 Fall (20261)
+
+27 departments: +4 added, -0 removed, 44 changed
+
+### ADM
+- Added (1): ADM 6194
+### ARAB
+- Changed (1): ARAB 202
+### ARCH
+- Changed (6): ARCH 101, ARCH 301, ARCH 303, ARCH 325, ARCH 401, ARCH 493
+### ASE
+- Changed (1): ASE 451
+### BA
+- Changed (1): BA 2701
+### BASE
+- Changed (1): BASE 201
+### BIOL
+- Added (1): BIOL 576
+### BME
+- Changed (3): BME 500, BME 827, BME 831
+### BS
+- Changed (1): BS 583
+### CENG
+- Changed (2): CENG 600, CENG 903
+### CHME
+- Changed (5): CHME 300, CHME 305, CHME 325, CHME 400, CHME 401
+### CHN
+- Changed (3): CHN 201, CHN 202, CHN 203
+### COGS
+- Changed (2): COGS 699, COGS 909
+### CP
+- Changed (1): CP 551
+### CRP
+- Changed (2): CRP 478, CRP 495
+### EFL
+- Changed (1): EFL 259
+### ENG
+- Changed (2): ENG 211, ENG 311
+### FDE
+- Changed (1): FDE 519
+### FREN
+- Changed (1): FREN 201
+### GERM
+- Changed (2): GERM 201, GERM 203
+### HIST
+- Changed (3): HIST 474, HIST 2201, HIST 2202
+### LNA
+- Changed (1): LNA 501
+### PHYS
+- Changed (1): PHYS 500
+### SA
+- Changed (1): SA 501
+### SOC
+- Added (2): SOC 811, SOC 911
+### SPAN
+- Changed (1): SPAN 201
+### TURK
+- Changed (1): TURK 201
+
 ## 2026-09-24 13:07 +0300 - 2026-2027 Fall (20261)
 
 9 departments: +0 added, -0 removed, 17 changed
