@@ -1,5 +1,62 @@
 # Course Offerings Changelog
 
+## 2026-09-25 18:55 +0300 - 2026-2027 Fall (20261)
+
+25 departments: +4 added, -1 removed, 65 changed
+
+### AIX
+- Added (1): AIX 591
+### BA
+- Changed (7): BA 100, BA 401, BA 2601, BA 2701, BA 5111, BA 5156, BA 5834
+### BIOL
+- Changed (1): BIOL 433
+### BME
+- Changed (2): BME 500, BME 832
+### BTEC
+- Added (2): BTEC 811, BTEC 911
+- Changed (1): BTEC 500
+### CE
+- Changed (1): CE 378
+### CENG
+- Changed (2): CENG 600, CENG 931
+### CHN
+- Changed (1): CHN 202
+### ECON
+- Changed (1): ECON 211
+### EDS
+- Added (1): EDS 547
+- Removed (1): EDS 658
+### EE
+- Changed (3): EE 419, EE 500, EE 585
+### ENG
+- Changed (5): ENG 101, ENG 102, ENG 211, ENG 219, ENG 311
+### ENGL
+- Changed (4): ENGL 101, ENGL 102, ENGL 211, ENGL 311
+### FLE
+- Changed (4): FLE 373, FLE 374, FLE 375, FLE 376
+### FREN
+- Changed (1): FREN 202
+### GEOE
+- Changed (5): GEOE 300, GEOE 400, GEOE 431, GEOE 524, GEOE 725
+### GERM
+- Changed (2): GERM 202, GERM 204
+### HIST
+- Changed (1): HIST 411
+### IS
+- Changed (2): IS 699, IS 909
+### MATH
+- Changed (1): MATH 129
+### MES
+- Changed (1): MES 599
+### PHYS
+- Changed (6): PHYS 283, PHYS 500, PHYS 803, PHYS 817, PHYS 914, PHYS 917
+### STAT
+- Changed (9): STAT 411, STAT 497, STAT 510, STAT 563, STAT 565, STAT 566, STAT 572, STAT 635, STAT 647
+### STPS
+- Changed (4): STPS 802, STPS 803, STPS 902, STPS 916
+### TKPR
+- Changed (1): TKPR 219
+
 ## 2026-09-25 13:18 +0300 - 2026-2027 Fall (20261)
 
 19 departments: +0 added, -0 removed, 34 changed
