@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-09-26 18:04 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -1 removed, 0 changed
+
+### ASE
+- Removed (1): ASE 445
+
 ## 2026-09-25 18:55 +0300 - 2026-2027 Fall (20261)
 
 25 departments: +4 added, -1 removed, 65 changed
