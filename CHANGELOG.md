@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-09-27 18:46 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 1 changed
+
+### ECO
+- Changed (1): ECO 312
+
 ## 2026-09-27 01:03 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed

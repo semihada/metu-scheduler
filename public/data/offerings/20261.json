@@ -30523,7 +30523,11 @@
       "sections": {
         "1": {
           "instructor": "HATİCE SİNEM AYHAN ÖZDEN",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "42": "TBA",
+            "49": "TBA"
+          }
         }
       }
     },
