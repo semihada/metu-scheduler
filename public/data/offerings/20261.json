@@ -7481,7 +7481,7 @@
       "name": "INTRODUCTION TO MARKETING",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "UTKU AY",
           "schedule": {
             "4": "G208",
             "11": "G208",
@@ -7879,7 +7879,7 @@
       "name": "PROMOTION MANAGEMENT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÖZGE SARIOĞLU AKDAMAR",
           "schedule": {
             "43": "TBA",
             "45": "TBA",
@@ -7935,7 +7935,7 @@
       "name": "SOCIAL ENTREPRENEURSHIP",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "DUYGU VATAN",
           "schedule": {
             "42": "G108",
             "49": "G108",
@@ -7944,7 +7944,7 @@
           }
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "DUYGU VATAN",
           "schedule": {}
         }
       }
@@ -8507,7 +8507,7 @@
       "name": "PROMOTION MANAGEMENT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÖZGE SARIOĞLU AKDAMAR",
           "schedule": {}
         }
       }
@@ -8543,7 +8543,7 @@
       "name": "SOCIAL ENTREPRENEURSHIP",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "DUYGU VATAN",
           "schedule": {}
         }
       }
@@ -11848,9 +11848,10 @@
         "1": {
           "instructor": "MEHMET SOMEL",
           "schedule": {
-            "44": "BIO Z-04",
-            "51": "BIO Z-04",
-            "58": "BIO Z-04"
+            "44": "P1",
+            "51": "P2",
+            "58": "P2",
+            "65": "P2"
           }
         }
       }
@@ -18730,7 +18731,7 @@
       "name": "USE OF OPERATING SYSTEMS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ERSİN KARA",
           "schedule": {
             "37": "EFC-109",
             "44": "EFC-109",
@@ -18909,10 +18910,10 @@
         "1": {
           "instructor": "ORHAN ASLAN",
           "schedule": {
-            "1": "EFD-204",
-            "8": "EFD-204",
-            "15": "EFD-204",
-            "22": "EFD-206"
+            "1": "EFC104",
+            "8": "EFC104",
+            "15": "EFC104",
+            "22": "EFC104"
           }
         }
       }
@@ -18921,7 +18922,7 @@
       "name": "WEB DESIGN",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ŞENOL BAKAY",
           "schedule": {
             "37": "EFC-111",
             "44": "EFC-111",
@@ -21730,6 +21731,15 @@
             "22": "Z120",
             "24": "Z120"
           }
+        },
+        "4": {
+          "instructor": "HALİL KALIPÇILAR",
+          "schedule": {
+            "15": "Z121",
+            "17": "Z16",
+            "22": "Z121",
+            "24": "Z16"
+          }
         }
       }
     },
@@ -21917,6 +21927,15 @@
             "10": "Z119",
             "14": "Z119",
             "21": "Z119"
+          }
+        },
+        "3": {
+          "instructor": "GÖKHAN ÇELİK",
+          "schedule": {
+            "3": "Z120",
+            "10": "Z120",
+            "14": "Z120",
+            "21": "Z120"
           }
         }
       }
@@ -22116,6 +22135,19 @@
             "57": "TBA",
             "59": "TBA"
           }
+        },
+        "7": {
+          "instructor": "ÇERAĞ DİLEK HACIHABİBOĞLU",
+          "schedule": {
+            "36": "TBA",
+            "38": "TBA",
+            "43": "TBA",
+            "45": "TBA",
+            "50": "TBA",
+            "52": "TBA",
+            "57": "TBA",
+            "59": "TBA"
+          }
         }
       }
     },
@@ -22227,7 +22259,7 @@
       "name": "TOPICS IN CHEMICAL ENGINEERING II",
       "sections": {
         "1": {
-          "instructor": "PINAR ZEYNEP ÇULFAZ EMECEN",
+          "instructor": "HARUN KOKU",
           "schedule": {}
         }
       }
@@ -22397,8 +22429,8 @@
         "1": {
           "instructor": "GÖKHAN ÇELİK",
           "schedule": {
+            "0": "Z121",
             "7": "Z121",
-            "14": "Z121",
             "24": "Z121"
           }
         }
@@ -23310,7 +23342,7 @@
       "name": "ANALYTICAL CHEMISTRY LABORATORY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "GÜLAY ERTAŞ",
           "schedule": {
             "35": "TBA",
             "36": "TBA",
@@ -23440,8 +23472,8 @@
           "schedule": {
             "2": "K05",
             "9": "K05",
-            "14": "K05",
-            "21": "K05"
+            "14": "K15",
+            "21": "K15"
           }
         }
       }
@@ -23498,10 +23530,10 @@
         "2": {
           "instructor": "EMRULLAH GÖRKEM GÜNBAŞ",
           "schedule": {
-            "3": "K15",
-            "10": "K15",
-            "15": "K15",
-            "22": "K15"
+            "3": "YP-D202",
+            "10": "YP-D202",
+            "15": "YP-A3",
+            "22": "YP-A3"
           }
         }
       }
@@ -24031,7 +24063,7 @@
           "schedule": {
             "0": "K05",
             "7": "K05",
-            "14": "K15"
+            "14": "K05"
           }
         }
       }
@@ -24489,7 +24521,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "GÜLAY ERTAŞ",
+          "instructor": "STAFF",
           "schedule": {
             "36": "TBA",
             "43": "TBA",
@@ -32591,9 +32623,9 @@
         "1": {
           "instructor": "PERVİN OYA TANERİ",
           "schedule": {
-            "37": "EFA-24",
-            "44": "EFA-24",
-            "51": "EFA-24"
+            "37": "EFD-203",
+            "44": "EFD-203",
+            "51": "EFD-203"
           }
         }
       }
@@ -38628,24 +38660,11 @@
         }
       }
     },
-    "EM 533": {
-      "name": "QUALITY ENGINEERING",
-      "sections": {
-        "1": {
-          "instructor": "ŞAKİR KARAKAYA",
-          "schedule": {
-            "73": "IE103",
-            "80": "IE103",
-            "87": "IE103"
-          }
-        }
-      }
-    },
     "EM 599": {
       "name": "TERM PROJECT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ŞAKİR KARAKAYA",
           "schedule": {}
         }
       }
@@ -38654,7 +38673,7 @@
       "name": "INTRODUCTION TO ENGINEERING MANAGEMENT",
       "sections": {
         "1": {
-          "instructor": "SERHAN DURAN",
+          "instructor": "ŞAKİR KARAKAYA",
           "schedule": {}
         }
       }
@@ -38663,7 +38682,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ŞAKİR KARAKAYA",
           "schedule": {}
         }
       }
@@ -38866,7 +38885,7 @@
           }
         },
         "11": {
-          "instructor": "STAFF",
+          "instructor": "NAZAN KORKMAZ",
           "schedule": {
             "24": "K11",
             "31": "K11",
@@ -38875,7 +38894,7 @@
           }
         },
         "12": {
-          "instructor": "STAFF",
+          "instructor": "NAZAN KORKMAZ",
           "schedule": {
             "2": "F15",
             "4": "YP-D103",
@@ -38884,7 +38903,7 @@
           }
         },
         "13": {
-          "instructor": "STAFF",
+          "instructor": "NAZAN KORKMAZ",
           "schedule": {
             "18": "YP-D103",
             "25": "YP-D103",
@@ -39786,8 +39805,8 @@
         "113": {
           "instructor": "ELİF ÖZGÜVENÇ",
           "schedule": {
-            "7": "YP-D104",
-            "14": "YP-D104",
+            "7": "BIO Z-04",
+            "14": "BIO Z-04",
             "24": "F19",
             "31": "F19"
           }
@@ -39795,19 +39814,19 @@
         "114": {
           "instructor": "ELİF ÖZGÜVENÇ",
           "schedule": {
-            "11": "PT36",
-            "18": "PT36",
-            "28": "EFA-14",
-            "35": "EFA-14"
+            "11": "BIO Z-06",
+            "18": "BIO Z-06",
+            "28": "M106",
+            "35": "M106"
           }
         },
         "115": {
           "instructor": "ELİF ÖZGÜVENÇ",
           "schedule": {
-            "29": "EFA-14",
-            "32": "EFA-28",
-            "36": "EFA-14",
-            "39": "EFA-28"
+            "29": "BIO Z-05",
+            "32": "BIO Z-05",
+            "36": "BIO Z-05",
+            "39": "BIO Z-05"
           }
         },
         "116": {
@@ -40162,7 +40181,7 @@
       "name": "CRITICAL STUDIES IN SCIENCE FICTION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "BENGÜ TAŞKESEN",
           "schedule": {
             "39": "EFA-38",
             "46": "EFA-38",
@@ -40209,9 +40228,9 @@
         "5": {
           "instructor": "ÖZLEM POLAT",
           "schedule": {
-            "42": "TBA",
-            "49": "TBA",
-            "56": "TBA"
+            "42": "HZ-D105",
+            "49": "HZ-D105",
+            "56": "HZ-D105"
           }
         },
         "6": {
@@ -41238,13 +41257,13 @@
         "1": {
           "instructor": "GÖKBANU SEZİ COŞKUNER",
           "schedule": {
-            "29": "PT13",
-            "36": "PT13",
-            "43": "PT13"
+            "29": "HZ-D102",
+            "36": "HZ-D102",
+            "43": "HZ-D102"
           }
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "BUKET ESRA TARAKÇIOĞLU",
           "schedule": {
             "38": "EFA-32",
             "45": "EFA-32",
@@ -41257,7 +41276,7 @@
       "name": "PHILOSOPHY, INDIVIDUALISM, AND MODERN MYTH IN PROGRESSIVE ROCK THROUGH THE LYRICS OF RUSH",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT AYDIN",
           "schedule": {
             "29": "EFA-30",
             "36": "EFA-30",
@@ -41270,7 +41289,7 @@
       "name": "THE ENNEAGRAM FOR CAREER READINESS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "YELİZ AKEL",
           "schedule": {
             "7": "EFA-30",
             "14": "EFA-30",
@@ -41448,7 +41467,7 @@
       "name": "CONVERSATIONAL ENGLISH",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÖZGÜR KÖSE",
           "schedule": {
             "29": "YP-D103",
             "36": "YP-D103",
@@ -45100,6 +45119,10 @@
         "9": {
           "instructor": "ŞERİF ONUR BAHÇECİK",
           "schedule": {}
+        },
+        "10": {
+          "instructor": "AYŞE İDİL AYBARS",
+          "schedule": {}
         }
       }
     },
@@ -45491,7 +45514,7 @@
       "name": "FOOD ENGINEERING DESIGN",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "HALUK HAMAMCI",
           "schedule": {
             "39": "FOOD.AUD",
             "46": "FOOD.AUD",
@@ -50376,9 +50399,9 @@
         "1": {
           "instructor": "İRFAN ERTAN",
           "schedule": {
-            "36": "TBA",
-            "43": "TBA",
-            "50": "TBA"
+            "36": "B05",
+            "43": "B05",
+            "50": "B05"
           }
         }
       }
@@ -50657,9 +50680,9 @@
         "1": {
           "instructor": "GÜRER KARAGEDİKLİ",
           "schedule": {
-            "43": "B05",
-            "50": "B05",
-            "57": "B05"
+            "43": "B205-B",
+            "50": "B205-B",
+            "57": "B205-B"
           }
         }
       }
@@ -50730,6 +50753,7 @@
         "1": {
           "instructor": "GÜÇLÜ TÜLÜVELİ",
           "schedule": {
+            "14": "TBA",
             "21": "TBA",
             "28": "TBA"
           }
@@ -50920,9 +50944,9 @@
         "1": {
           "instructor": "NESİM ŞEKER",
           "schedule": {
-            "29": "B205-B",
-            "36": "B205-B",
-            "43": "B205-B"
+            "29": "TBA",
+            "36": "TBA",
+            "43": "TBA"
           }
         }
       }
@@ -51388,8 +51412,8 @@
         "1": {
           "instructor": "ÖMÜR ŞANS YILDIRIM",
           "schedule": {
-            "17": "G204",
-            "24": "G204"
+            "37": "G201",
+            "44": "G201"
           }
         }
       }
@@ -57905,7 +57929,12 @@
       "sections": {
         "1": {
           "instructor": "ZAHİT UYSAL",
-          "schedule": {}
+          "schedule": {
+            "1": "C209",
+            "8": "C209",
+            "15": "C209",
+            "22": "C209"
+          }
         }
       }
     },
@@ -59588,15 +59617,15 @@
           "schedule": {
             "0": "YP-A3",
             "7": "YP-A3",
-            "16": "P2",
-            "23": "P2"
+            "16": "YP-A1",
+            "23": "YP-A1"
           }
         },
         "11": {
           "instructor": "STAFF",
           "schedule": {
-            "3": "P1",
-            "10": "P1"
+            "3": "YP-A3",
+            "10": "YP-A3"
           }
         },
         "12": {
@@ -65038,7 +65067,7 @@
       "name": "SURFACE PROCESSING OF MATERIALS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "BAYBARS ORAL",
           "schedule": {
             "42": "MTB108",
             "49": "MTB108",
@@ -73746,9 +73775,9 @@
         "9": {
           "instructor": "TALİP SERKAN KASIRGA",
           "schedule": {
-            "3": "YP-A3",
-            "10": "YP-A3",
-            "16": "YP-A1"
+            "3": "P1",
+            "10": "P1",
+            "16": "P2"
           }
         },
         "10": {
@@ -73836,7 +73865,7 @@
           "schedule": {
             "15": "P4",
             "22": "P4",
-            "23": "YP-A1"
+            "23": "P2"
           }
         },
         "21": {
@@ -74514,8 +74543,6 @@
         "6": {
           "instructor": "STAFF",
           "schedule": {
-            "15": "YP-A3",
-            "22": "YP-A3",
             "29": "YP-A3",
             "42": "YP-A3",
             "45": "YP-A3",
@@ -74609,9 +74636,7 @@
           "instructor": "STAFF",
           "schedule": {
             "2": "TBA",
-            "9": "TBA",
-            "51": "P2",
-            "58": "P2"
+            "9": "TBA"
           }
         },
         "19": {

@@ -1,5 +1,41 @@
 # Course Offerings Changelog
 
+## 2026-09-28 13:34 +0300 - 2026-2027 Fall (20261)
+
+15 departments: +0 added, -1 removed, 42 changed
+
+### BA
+- Changed (5): BA 3702, BA 4713, BA 4731, BA 5713, BA 5731
+### BIOL
+- Changed (1): BIOL 404
+### CEIT
+- Changed (3): CEIT 313, CEIT 415, CEIT 419
+### CHE
+- Changed (5): CHE 203, CHE 327, CHE 410, CHE 499, CHE 511
+### CHEM
+- Changed (5): CHEM 223, CHEM 252, CHEM 301, CHEM 591, CHEM 817
+### EDS
+- Changed (1): EDS 540
+### EM
+- Removed (1): EM 533
+- Changed (3): EM 599, EM 727, EM 891
+### ENG
+- Changed (7): ENG 101, ENG 207, ENG 211, ENG 219, ENG 301, ENG 302, ENG 312
+### EUS
+- Changed (1): EUS 589
+### FDE
+- Changed (1): FDE 425
+### HIST
+- Changed (5): HIST 230, HIST 544, HIST 570, HIST 812, HIST 2206
+### MASC
+- Changed (1): MASC 577
+### MATH
+- Changed (1): MATH 129
+### METE
+- Changed (1): METE 456
+### PHYS
+- Changed (2): PHYS 105, PHYS 500
+
 ## 2026-09-27 18:46 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed
