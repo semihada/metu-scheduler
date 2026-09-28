@@ -8,6 +8,7 @@ import {
   Icon,
   IconButton,
   Box,
+  Snackbar,
 } from "@material-ui/core";
 import { GitHub as GitHubIcon } from "@material-ui/icons";
 
@@ -27,10 +28,14 @@ import {
 } from "./schedule";
 
 import { DEFAULT_SETTINGS } from "./constants/settings";
+import { toSavedCourses, restoreCourses } from "./selection";
 
 import displayUserGuide from "./guide";
 
 import "./App.css";
+
+const pluralize = (count, noun) =>
+  `${count} ${noun}${count === 1 ? "" : "s"}`;
 
 const App = () => {
   const [semesters, setSemesters] = useState([]);
@@ -51,6 +56,8 @@ const App = () => {
   );
 
   const [isSettingsOpened, setIsSettingsOpened] = useState(false);
+  const [message, setMessage] = useState("");
+  const [savedCourses, setSavedCourses] = useLocalStorage("savedCourses", []);
   const [storedSettings, setStoredSettings] = useLocalStorage(
     "settings",
     DEFAULT_SETTINGS
@@ -79,6 +86,38 @@ const App = () => {
       ...selectedCourses.slice(0, courseIndex),
       ...selectedCourses.slice(courseIndex + 1),
     ]);
+  };
+
+  const saveCourses = () => {
+    const coursesToSave = toSavedCourses(selectedCourses);
+
+    setSavedCourses(coursesToSave);
+    setMessage(`Saved ${pluralize(coursesToSave.length, "course")}.`);
+  };
+
+  const loadCourses = () => {
+    const {
+      courses: restoredCourses,
+      missing,
+      resetInstructors,
+    } = restoreCourses(savedCourses, offerings);
+
+    setSelectedCourses(restoredCourses);
+
+    const notes = [];
+    if (missing.length) {
+      notes.push(`${missing.join(", ")} no longer offered`);
+    }
+    if (resetInstructors.length) {
+      notes.push(`instructor filter reset for ${resetInstructors.join(", ")}`);
+    }
+    const suffix = notes.length ? ` (${notes.join("; ")})` : "";
+
+    setMessage(
+      restoredCourses.length
+        ? `Loaded ${pluralize(restoredCourses.length, "course")}${suffix}.`
+        : `Nothing could be loaded${suffix}.`
+    );
   };
 
   const resetStates = () => {
@@ -210,7 +249,7 @@ const App = () => {
                   onCourseRemove: removeCourse,
                 }}
               />
-              <Box display="flex">
+              <Box display="flex" flexWrap="wrap">
                 <IconButton
                   href="https://github.com/semihada/metu-scheduler"
                   data-html2canvas-ignore
@@ -225,16 +264,28 @@ const App = () => {
                   <Icon>settings</Icon>
                 </IconButton>
                 <IconButton
-                  href="mailto:"
-                  data-html2canvas-ignore
-                >
-                  <Icon>email</Icon>
-                </IconButton>
-                <IconButton
                   onClick={() => setIsUserGuideOpened(true)}
                   data-html2canvas-ignore
                 >
                   <Icon>help</Icon>
+                </IconButton>
+                <IconButton
+                  id="save-button"
+                  color="primary"
+                  disabled={!selectedCourses.length}
+                  onClick={saveCourses}
+                  data-html2canvas-ignore
+                >
+                  <Icon>save</Icon>
+                </IconButton>
+                <IconButton
+                  id="load-button"
+                  color="primary"
+                  disabled={!savedCourses.length || !offerings.length}
+                  onClick={loadCourses}
+                  data-html2canvas-ignore
+                >
+                  <Icon>folder_open</Icon>
                 </IconButton>
                 <IconButton
                   id="capture-button"
@@ -274,6 +325,19 @@ const App = () => {
           courses={selectedCourses}
           onApply={setSelectedCourses}
           onClose={() => setIsInstructorSelectorOpened(false)}
+        />
+
+        <Snackbar
+          open={!!message}
+          message={message}
+          autoHideDuration={4000}
+          onClose={(event, reason) => {
+            // Ignore clickaway: clicking Save then Load would otherwise dismiss
+            // the second toast before it is seen.
+            if (reason !== "clickaway") {
+              setMessage("");
+            }
+          }}
         />
 
         <Settings

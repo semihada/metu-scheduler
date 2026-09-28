@@ -24,6 +24,12 @@ const init = () => [
     position: "right",
   },
   {
+    element: "#save-button",
+    intro:
+      "Save your course list here, and load it back anytime with the button beside it!",
+    position: "right",
+  },
+  {
     element: "#settings-button",
     intro:
       "Click here to change your settings, such as whether courses are allowed to collide!",
