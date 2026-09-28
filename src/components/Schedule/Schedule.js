@@ -18,38 +18,14 @@ const Schedule = ({
   onCellClick,
   ...props
 }) => {
-  const getCourseIndex = (timeslotIndex) => {
-    if (timeslots[timeslotIndex] === undefined) {
-      return undefined;
-    }
+  const getEntries = (timeslotIndex) => timeslots[timeslotIndex] || [];
 
-    return timeslots[timeslotIndex].course;
-  };
+  const getCellEntries = (timeslotIndex) =>
+    getEntries(timeslotIndex).map(({ course, classroom }) => {
+      const { courseCode } = courses[course] || {};
 
-  const isTimeslotEmpty = (timeslotIndex) => {
-    const courseIndex = getCourseIndex(timeslotIndex);
-
-    return courseIndex === undefined;
-  };
-
-  const getCourseCode = (timeslotIndex) => {
-    const courseIndex = getCourseIndex(timeslotIndex);
-    const course = courses[courseIndex] || {};
-
-    return course.courseCode;
-  };
-
-  const getClassroom = (timeslotIndex) => {
-    const timeslot = timeslots[timeslotIndex] || {};
-
-    return timeslot.classroom;
-  };
-
-  const getColorStyle = (timeslotIndex) => {
-    const courseIndex = getCourseIndex(timeslotIndex);
-
-    return { style: { color: colors[courseIndex] } };
-  };
+      return { courseCode, classroom, color: colors[course] };
+    });
 
   return (
     <table id="schedule" {...props}>
@@ -68,11 +44,8 @@ const Schedule = ({
               <th>{hour}</th>
               {days.map((day, dIndex) => (
                 <TableCell
-                  colorStyle={getColorStyle(hIndex * TOTAL_DAYS + dIndex)}
-                  courseCode={getCourseCode(hIndex * TOTAL_DAYS + dIndex)}
-                  classroom={getClassroom(hIndex * TOTAL_DAYS + dIndex)}
+                  entries={getCellEntries(hIndex * TOTAL_DAYS + dIndex)}
                   isExcluded={excludedTimeslots[hIndex * TOTAL_DAYS + dIndex]}
-                  isEmpty={isTimeslotEmpty(hIndex * TOTAL_DAYS + dIndex)}
                   onClick={() => onCellClick(hIndex * TOTAL_DAYS + dIndex)}
                   key={`${hour}-${day}`}
                 />

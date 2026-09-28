@@ -1,0 +1,20 @@
+#settings {
+  min-width: 300px;
+  max-width: 380px;
+}
+
+#settings .setting {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0;
+}
+
+#settings .setting + .setting {
+  border-top: #e0e0e0 solid thin;
+}
+
+#settings .setting small {
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 1.4;
+  padding-left: 12px;
+}

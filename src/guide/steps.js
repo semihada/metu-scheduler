@@ -14,13 +14,19 @@ const init = () => [
     position: "left",
   },
   {
-    element: "#content",
+    element: "#main",
     intro: "Abracadabra and tada! Your schedules are ready. Let's get to work!",
     position: "top",
   },
   {
     element: "#filter",
     intro: "Filter prepared schedules by instructors as you wish",
+    position: "right",
+  },
+  {
+    element: "#settings-button",
+    intro:
+      "Click here to change your settings, such as whether courses are allowed to collide!",
     position: "right",
   },
   {

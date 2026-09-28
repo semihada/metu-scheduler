@@ -20,6 +20,7 @@ const status = {
 
 const Courses = ({
   courses,
+  timeslots,
   isFailed,
   onCourseEdit,
   onCourseRemove,
@@ -28,6 +29,13 @@ const Courses = ({
   const getColorStyle = (colorIndex) => {
     return { style: { color: colors[colorIndex] } };
   };
+
+  // A course can be selected while SIS publishes no day/hour for it yet, which
+  // leaves the grid empty. Say so instead of looking broken.
+  const hasScheduledHours = (courseIndex) =>
+    Object.values(timeslots).some((entries) =>
+      entries.some(({ course }) => course === courseIndex)
+    );
 
   return (
     <table id="courses" {...props}>
@@ -69,6 +77,11 @@ const Courses = ({
                     <small className="course-name">{course.courseName}</small>
                   )}
                   <small className="instructor-name">{course.instructor}</small>
+                  {!hasScheduledHours(index) && (
+                    <small className="no-hours">
+                      No scheduled hours in SIS
+                    </small>
+                  )}
                 </div>
               </td>
               <td>
@@ -104,10 +117,12 @@ const Courses = ({
 
 Courses.defaultProps = {
   courses: [],
+  timeslots: {},
 };
 
 Courses.propTypes = {
   courses: PropTypes.arrayOf(PropTypes.object),
+  timeslots: PropTypes.shape({}),
   isFailed: PropTypes.bool.isRequired,
   onCourseEdit: PropTypes.func.isRequired,
   onCourseRemove: PropTypes.func.isRequired,

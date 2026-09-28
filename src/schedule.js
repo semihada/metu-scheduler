@@ -1,5 +1,12 @@
 import html2canvas from "html2canvas";
 
+// Schedule generation is a cartesian product of the selected courses' sections.
+// Pruning overlapping combinations keeps that product small, but allowing
+// collisions removes that pruning, so the product can reach millions for a
+// normal course load (e.g. 5 courses ~ 300k combinations). Cap the number of
+// generated schedules to keep the page responsive.
+const MAX_COLLIDED_SCHEDULES = 500;
+
 const reduceOfferings = (offerings, [departmentCode, departmentOfferings]) => {
   const courses = Object.entries(departmentOfferings).map(
     ([courseCode, course]) => ({
@@ -24,18 +31,29 @@ const areTimeslotsOverlapping = (...timeslots) => {
   return mergedTimeslots.size !== totalTimeslots;
 };
 
-const getNotOverlappingSections = (
+const getSectionsOf = (schedule) => Object.keys(schedule.timeslots);
+
+const buildSchedule = (
   excludedTimeslots,
   courseSection,
-  schedule = { timeslots: [], courses: [] }
+  schedule,
+  allowCollisions
 ) => {
-  if (
-    areTimeslotsOverlapping(
-      Object.keys(excludedTimeslots),
-      Object.keys(courseSection.schedule),
-      Object.keys(schedule.timeslots)
-    )
-  ) {
+  const isTimeslotExcluded = areTimeslotsOverlapping(
+    Object.keys(excludedTimeslots),
+    Object.keys(courseSection.schedule)
+  );
+
+  if (isTimeslotExcluded) {
+    return null;
+  }
+
+  const isTimeslotTaken = areTimeslotsOverlapping(
+    Object.keys(courseSection.schedule),
+    getSectionsOf(schedule)
+  );
+
+  if (isTimeslotTaken && !allowCollisions) {
     return null;
   }
 
@@ -45,22 +63,32 @@ const getNotOverlappingSections = (
     instructor: courseSection.instructor,
   };
 
-  const courseTimeslots = { ...courseSection.schedule };
+  // Every timeslot holds a list of entries: one for a free slot, more than one
+  // when the course collides with a course already placed on that timeslot.
+  const timeslots = { ...schedule.timeslots };
 
-  for (const key of Object.keys(courseTimeslots)) {
-    courseTimeslots[key] = {
+  for (const key of Object.keys(courseSection.schedule)) {
+    const entry = {
       classroom: courseSection.schedule[key],
       course: schedule.courses.length,
     };
+
+    timeslots[key] = [...(timeslots[key] || []), entry];
   }
 
   return {
     courses: [...schedule.courses, course],
-    timeslots: { ...schedule.timeslots, ...courseTimeslots },
+    timeslots,
   };
 };
 
-const prepareSchedules = (excludedTimeslots, selectedCourses) => {
+const prepareSchedules = (
+  excludedTimeslots,
+  selectedCourses,
+  { allowCollisions = false } = {}
+) => {
+  const maxSchedules = allowCollisions ? MAX_COLLIDED_SCHEDULES : Infinity;
+
   let schedules = [];
 
   for (const selectedCourse of selectedCourses) {
@@ -76,27 +104,25 @@ const prepareSchedules = (excludedTimeslots, selectedCourses) => {
     }
 
     for (const [sectionCode, courseSection] of sections) {
-      let i = 0;
-
       courseSection.courseCode = `${selectedCourse.courseCode}-${sectionCode}`;
       courseSection.courseName = selectedCourse.name;
 
-      do {
-        const newSchedule = getNotOverlappingSections(
+      // The first course starts from a single empty schedule to extend.
+      for (const schedule of schedules.length ? schedules : [undefined]) {
+        const newSchedule = buildSchedule(
           excludedTimeslots,
           courseSection,
-          schedules[i]
+          schedule || { timeslots: {}, courses: [] },
+          allowCollisions
         );
 
         if (newSchedule) {
           newSchedules.push(newSchedule);
         }
-
-        i += 1;
-      } while (i < schedules.length);
+      }
     }
 
-    schedules = newSchedules;
+    schedules = newSchedules.slice(0, maxSchedules);
   }
 
   return schedules;
@@ -114,9 +140,10 @@ const exportScheduleAsPNG = async () => {
 };
 
 export {
+  MAX_COLLIDED_SCHEDULES,
   reduceOfferings,
   areTimeslotsOverlapping,
-  getNotOverlappingSections,
+  buildSchedule,
   prepareSchedules,
   exportScheduleAsPNG,
 };

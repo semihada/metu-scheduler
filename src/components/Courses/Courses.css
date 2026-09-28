@@ -54,3 +54,9 @@
 .instructor .instructor-name {
   margin-top: 3px;
 }
+
+.instructor .no-hours {
+  color: #ff8a65;
+  opacity: 1;
+  font-style: italic;
+}

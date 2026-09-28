@@ -18,12 +18,15 @@ import InstructorSelector from "./components/InstructorSelector";
 import Schedule from "./components/Schedule";
 import Pagination from "./components/Pagination";
 import Logo from "./components/Logo";
+import Settings from "./components/Settings";
 
 import {
   reduceOfferings,
   prepareSchedules,
   exportScheduleAsPNG,
 } from "./schedule";
+
+import { DEFAULT_SETTINGS } from "./constants/settings";
 
 import displayUserGuide from "./guide";
 
@@ -47,7 +50,16 @@ const App = () => {
     false
   );
 
+  const [isSettingsOpened, setIsSettingsOpened] = useState(false);
+  const [storedSettings, setStoredSettings] = useLocalStorage(
+    "settings",
+    DEFAULT_SETTINGS
+  );
+
   const previousStates = useRef();
+
+  // Settings added in a later release are missing from the stored object.
+  const settings = { ...DEFAULT_SETTINGS, ...storedSettings };
 
   const { courses, timeslots } = schedules[selectedSchedule] || {};
   const isThereAnyExcludedTimeSlot = !!Object.values(excludedTimeslots).length;
@@ -124,12 +136,13 @@ const App = () => {
     if (offerings) {
       const preparedSchedules = prepareSchedules(
         excludedTimeslots,
-        selectedCourses
+        selectedCourses,
+        { allowCollisions: settings.allowCollisions }
       );
       setSchedules(preparedSchedules);
       setSelectedSchedule(0);
     }
-  }, [offerings, excludedTimeslots, selectedCourses]);
+  }, [offerings, excludedTimeslots, selectedCourses, settings.allowCollisions]);
 
   useEffectOnce(() => {
     fetchSemesters();
@@ -205,6 +218,13 @@ const App = () => {
                   <GitHubIcon />
                 </IconButton>
                 <IconButton
+                  id="settings-button"
+                  onClick={() => setIsSettingsOpened(true)}
+                  data-html2canvas-ignore
+                >
+                  <Icon>settings</Icon>
+                </IconButton>
+                <IconButton
                   href="mailto:"
                   data-html2canvas-ignore
                 >
@@ -254,6 +274,13 @@ const App = () => {
           courses={selectedCourses}
           onApply={setSelectedCourses}
           onClose={() => setIsInstructorSelectorOpened(false)}
+        />
+
+        <Settings
+          show={isSettingsOpened}
+          settings={settings}
+          onChange={setStoredSettings}
+          onClose={() => setIsSettingsOpened(false)}
         />
       </Container>
 

@@ -72,3 +72,13 @@
 #schedule tr td.locked:hover:after {
   content: "\e898";
 }
+
+#schedule tr td .entry + .entry {
+  margin-top: 3px;
+  padding-top: 3px;
+  border-top: #bdbdbd dashed thin;
+}
+
+#schedule tr td.colliding {
+  box-shadow: inset 3px 0 0 0 #ff8a65;
+}
