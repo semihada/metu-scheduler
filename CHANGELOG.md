@@ -1,5 +1,46 @@
 # Course Offerings Changelog
 
+## 2026-09-28 20:19 +0300 - 2026-2027 Fall (20261)
+
+18 departments: +1 added, -0 removed, 26 changed
+
+### ARCH
+- Changed (1): ARCH 500
+### ARME
+- Changed (3): ARME 531, ARME 541, ARME 708
+### BIOL
+- Changed (2): BIOL 747, BIOL 924
+### BS
+- Changed (1): BS 910
+### CEIT
+- Changed (1): CEIT 407
+### CONS
+- Changed (1): CONS 600
+### ECON
+- Changed (1): ECON 101
+### EDS
+- Changed (1): EDS 200
+### ES
+- Changed (2): ES 225, ES 570
+### GENE
+- Changed (1): GENE 527
+### IR
+- Changed (1): IR 599
+### MATH
+- Changed (2): MATH 500, MATH 823
+### MSE
+- Changed (1): MSE 409
+### PHYS
+- Changed (1): PHYS 500
+### PSYC
+- Changed (3): PSYC 335, PSYC 385, PSYC 2102
+### SA
+- Added (1): SA 500
+### STAT
+- Changed (2): STAT 642, STAT 643
+### TURK
+- Changed (2): TURK 101, TURK 305
+
 ## 2026-09-28 14:47 +0300 - 2026-2027 Fall (20261)
 
 7 departments: +0 added, -0 removed, 13 changed
