@@ -5,7 +5,7 @@ const SETTINGS = [
     label: "Allow collisions",
     description:
       "Let courses overlap on the same timeslot. Colliding courses are shown together in the cell.",
-    defaultValue: false,
+    defaultValue: true,
   },
 ];
 
