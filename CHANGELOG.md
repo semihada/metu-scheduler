@@ -1,5 +1,24 @@
 # Course Offerings Changelog
 
+## 2026-09-28 14:47 +0300 - 2026-2027 Fall (20261)
+
+7 departments: +0 added, -0 removed, 13 changed
+
+### CHEM
+- Changed (2): CHEM 111, CHEM 803
+### ECE
+- Changed (1): ECE 405
+### HIST
+- Changed (1): HIST 547
+### PHYS
+- Changed (5): PHYS 105, PHYS 209, PHYS 210, PHYS 331, PHYS 335
+### PSY
+- Changed (2): PSY 3701, PSY 8014
+### SOC
+- Changed (1): SOC 100
+### STAT
+- Changed (1): STAT 467
+
 ## 2026-09-28 13:46 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed

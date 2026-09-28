@@ -23239,8 +23239,8 @@
         "3": {
           "instructor": "SALİH ÖZÇUBUKÇU",
           "schedule": {
-            "14": "P1",
-            "21": "P1",
+            "14": "TBA",
+            "21": "TBA",
             "31": "P1"
           }
         },
@@ -24395,10 +24395,9 @@
         "1": {
           "instructor": "SALİH ÖZÇUBUKÇU",
           "schedule": {
-            "0": "TBA",
-            "7": "TBA",
-            "14": "TBA",
-            "21": "TBA"
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA"
           }
         }
       }
@@ -30124,7 +30123,7 @@
       "name": "GAMIFICATION AND DIGITAL TECHNOLOGIES IN EARLY CHILDHOOD EDUCATION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "VOLKAN ŞAHİN",
           "schedule": {
             "36": "EFA-22",
             "43": "EFA-22",
@@ -50705,9 +50704,9 @@
         "1": {
           "instructor": "BAHAR GÜRSEL",
           "schedule": {
-            "35": "B04",
-            "42": "B04",
-            "49": "B04"
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA"
           }
         }
       }
@@ -73871,7 +73870,7 @@
         "21": {
           "instructor": "ALTUĞ ÖZPİNECİ",
           "schedule": {
-            "28": "P1",
+            "28": "P2",
             "31": "P4",
             "38": "P4"
           }
@@ -74042,9 +74041,9 @@
         "1": {
           "instructor": "İSMAİL RAFATOV",
           "schedule": {
-            "16": "P4",
+            "16": "P5",
             "18": "P1",
-            "23": "P4",
+            "23": "P5",
             "25": "P1"
           }
         }
@@ -74056,10 +74055,10 @@
         "1": {
           "instructor": "YUSUF İPEKOĞLU",
           "schedule": {
-            "16": "P5",
-            "23": "P5",
-            "39": "P5",
-            "46": "P5"
+            "16": "P4",
+            "23": "P4",
+            "39": "P3",
+            "46": "P3"
           }
         }
       }
@@ -74177,7 +74176,7 @@
         "1": {
           "instructor": "SONER ALBAYRAK",
           "schedule": {
-            "28": "P2",
+            "28": "P1",
             "36": "P1",
             "37": "P2",
             "43": "P1",
@@ -74192,9 +74191,9 @@
         "1": {
           "instructor": "BAHTİYAR ÖZGÜR SARIOĞLU",
           "schedule": {
-            "14": "P2",
+            "14": "P1",
             "17": "P2",
-            "21": "P2",
+            "21": "P1",
             "24": "P2"
           }
         }
@@ -77409,9 +77408,9 @@
         "1": {
           "instructor": "TÜRKER ÖZKAN",
           "schedule": {
-            "11": "YP-D101",
-            "18": "YP-D101",
-            "25": "YP-D101"
+            "11": "YP-D204",
+            "18": "YP-D204",
+            "25": "YP-D204"
           }
         }
       }
@@ -78379,9 +78378,10 @@
         "1": {
           "instructor": "DENİZ CANEL",
           "schedule": {
-            "18": "YP-D204",
-            "25": "YP-D204",
-            "32": "YP-D204"
+            "11": "YP-D101",
+            "18": "YP-D101",
+            "25": "YP-D101",
+            "32": "YP-D101"
           }
         }
       }
@@ -80585,8 +80585,7 @@
           "schedule": {
             "38": "G204",
             "45": "G204",
-            "52": "G204",
-            "59": "G204"
+            "52": "G204"
           }
         }
       }
@@ -82029,8 +82028,8 @@
             "29": "YP-A2",
             "30": "P6",
             "37": "P6",
-            "39": "P3",
-            "46": "P3"
+            "39": "P5",
+            "46": "P5"
           }
         }
       }
