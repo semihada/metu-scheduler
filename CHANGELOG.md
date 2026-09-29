@@ -1,5 +1,52 @@
 # Course Offerings Changelog
 
+## 2026-09-29 14:28 +0300 - 2026-2027 Fall (20261)
+
+21 departments: +0 added, -0 removed, 36 changed
+
+### AH
+- Changed (1): AH 571
+### CE
+- Changed (1): CE 568
+### CHE
+- Changed (1): CHE 914
+### ECE
+- Changed (1): ECE 405
+### EDS
+- Changed (3): EDS 200, EDS 213, EDS 582
+### EE
+- Changed (4): EE 209, EE 441, EE 500, EE 583
+### EFL
+- Changed (2): EFL 125, EFL 245
+### ENG
+- Changed (1): ENG 102
+### ENLT
+- Changed (2): ENLT 508, ENLT 526
+### FREN
+- Changed (2): FREN 202, FREN 205
+### GERM
+- Changed (3): GERM 201, GERM 202, GERM 205
+### LNA
+- Changed (1): LNA 501
+### MATH
+- Changed (1): MATH 500
+### ME
+- Changed (2): ME 874, ME 951
+### METE
+- Changed (2): METE 301, METE 305
+### MSE
+- Changed (1): MSE 221
+### PHIL
+- Changed (1): PHIL 599
+### PHYS
+- Changed (2): PHYS 500, PHYS 504
+### PSY
+- Changed (1): PSY 9013
+### PSYC
+- Changed (1): PSYC 419
+### TURK
+- Changed (3): TURK 101, TURK 102, TURK 303
+
 ## 2026-09-28 20:19 +0300 - 2026-2027 Fall (20261)
 
 18 departments: +1 added, -0 removed, 26 changed
