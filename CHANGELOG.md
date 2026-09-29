@@ -1,5 +1,32 @@
 # Course Offerings Changelog
 
+## 2026-09-29 21:45 +0300 - 2026-2027 Fall (20261)
+
+11 departments: +0 added, -0 removed, 17 changed
+
+### AEE
+- Changed (1): AEE 501
+### BASE
+- Changed (1): BASE 201
+### BME
+- Changed (2): BME 600, BME 932
+### ECON
+- Changed (1): ECON 858
+### EDS
+- Changed (1): EDS 5549
+### ENG
+- Changed (1): ENG 215
+### HIST
+- Changed (3): HIST 320, HIST 570, HIST 2201
+### PES
+- Changed (2): PES 809, PES 1701
+### PHYS
+- Changed (3): PHYS 221, PHYS 500, PHYS 801
+### PSY
+- Changed (1): PSY 9019
+### TURK
+- Changed (1): TURK 303
+
 ## 2026-09-29 14:28 +0300 - 2026-2027 Fall (20261)
 
 21 departments: +0 added, -0 removed, 36 changed
