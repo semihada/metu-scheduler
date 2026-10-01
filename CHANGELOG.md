@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-10-02 02:18 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 4 changed
+
+### ENGP
+- Changed (4): ENGP 11, ENGP 12, ENGP 21, ENGP 31
+
 ## 2026-10-01 21:59 +0300 - 2026-2027 Fall (20261)
 
 7 departments: +0 added, -1 removed, 15 changed

@@ -41670,11 +41670,11 @@
       "name": "BEGINNERS GROUP (BG - A)",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MERAL ÇINAR SHIKAKHWA",
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "BELGİN ŞAHİN",
           "schedule": {}
         },
         "3": {
@@ -41682,15 +41682,31 @@
           "schedule": {}
         },
         "4": {
-          "instructor": "STAFF",
+          "instructor": "DUYGU TAŞER",
           "schedule": {}
         },
         "5": {
-          "instructor": "STAFF",
+          "instructor": "AJDA EFENDİ",
           "schedule": {}
         },
         "6": {
-          "instructor": "STAFF",
+          "instructor": "SEDEF ÇAL",
+          "schedule": {}
+        },
+        "7": {
+          "instructor": "EFE JANBERK BAYKAN",
+          "schedule": {}
+        },
+        "8": {
+          "instructor": "BESTE ÇEVİK",
+          "schedule": {}
+        },
+        "9": {
+          "instructor": "UMMAN TÜMKAYA",
+          "schedule": {}
+        },
+        "10": {
+          "instructor": "NAZIM BALCI",
           "schedule": {}
         }
       }
@@ -41699,19 +41715,19 @@
       "name": "PRE-INTERMEDIATE GROUP (PIN)",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "AYŞENUR HOCA",
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "BÜŞRA BALCI",
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "GÖKÇENUR KÜÇÜKASLAN",
           "schedule": {}
         },
         "4": {
-          "instructor": "STAFF",
+          "instructor": "ALİ CASZADEH MATAKİ",
           "schedule": {}
         },
         "5": {
@@ -41724,19 +41740,19 @@
       "name": "ELEMENTARY GROUP (EL)",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "EDA DUMRUL TÜM",
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "TALİP KARANFİL",
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "BEGÜM KUT TUĞUTLU",
           "schedule": {}
         },
         "4": {
-          "instructor": "STAFF",
+          "instructor": "NÜLÜFER KALE",
           "schedule": {}
         },
         "5": {
@@ -41744,6 +41760,18 @@
           "schedule": {}
         },
         "6": {
+          "instructor": "EZGI TOPUZ SEZEN",
+          "schedule": {}
+        },
+        "7": {
+          "instructor": "STAFF",
+          "schedule": {}
+        },
+        "8": {
+          "instructor": "AYŞE ESRA İYİDOĞAN",
+          "schedule": {}
+        },
+        "9": {
           "instructor": "STAFF",
           "schedule": {}
         }
@@ -41753,19 +41781,19 @@
       "name": "INTERMEDIATE GROUP (IN)",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ENES ALTAN",
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "WENDY LAURA PHİLLİPS",
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "MİHRİBAN ÇETİNKAYA",
           "schedule": {}
         },
         "4": {
-          "instructor": "STAFF",
+          "instructor": "FİLİZ KORKMAZ",
           "schedule": {}
         }
       }
