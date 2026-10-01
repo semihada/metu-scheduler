@@ -5959,9 +5959,9 @@
         "1": {
           "instructor": "EMİNE NEVİN SALTIK",
           "schedule": {
-            "10": "FZ19",
-            "17": "FZ19",
-            "24": "FZ19"
+            "10": "R44",
+            "17": "R44",
+            "24": "R44"
           }
         }
       }
@@ -12994,7 +12994,7 @@
           "schedule": {}
         },
         "9": {
-          "instructor": "ÖZGÜL PERSİL ÇETİNKOL",
+          "instructor": "STAFF",
           "schedule": {}
         },
         "10": {
@@ -13141,7 +13141,7 @@
           "schedule": {}
         },
         "9": {
-          "instructor": "ÖZGÜL PERSİL ÇETİNKOL",
+          "instructor": "STAFF",
           "schedule": {}
         },
         "10": {
@@ -13336,7 +13336,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "ÖZGÜL PERSİL ÇETİNKOL",
+          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -13633,7 +13633,7 @@
       "name": "ADVANCE STUDIES",
       "sections": {
         "1": {
-          "instructor": "ÖZGÜL PERSİL ÇETİNKOL",
+          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -20118,10 +20118,7 @@
           "instructor": "FERDA NUR ALPASLAN",
           "schedule": {
             "16": "BMB3",
-            "38": "MM125",
-            "45": "MM125",
             "50": "BMB5",
-            "52": "MM125",
             "57": "BMB5"
           }
         }
@@ -20524,19 +20521,6 @@
         }
       }
     },
-    "CENG 514": {
-      "name": "DATA MINING",
-      "sections": {
-        "1": {
-          "instructor": "PINAR KARAGÖZ",
-          "schedule": {
-            "35": "BMB5",
-            "42": "BMB5",
-            "49": "BMB5"
-          }
-        }
-      }
-    },
     "CENG 519": {
       "name": "NETWORK SECURITY",
       "sections": {
@@ -20608,9 +20592,9 @@
         "1": {
           "instructor": "FERDA NUR ALPASLAN",
           "schedule": {
-            "10": "BMB3",
-            "17": "BMB3",
-            "24": "BMB3"
+            "31": "MM125",
+            "38": "MM125",
+            "45": "MM125"
           }
         }
       }
@@ -20815,9 +20799,9 @@
         "1": {
           "instructor": "İSMAİL SENGÖR ALTINGÖVDE",
           "schedule": {
-            "38": "BMB3",
-            "45": "BMB3",
-            "52": "BMB3"
+            "35": "BMB5",
+            "42": "BMB5",
+            "49": "BMB5"
           }
         }
       }
@@ -30300,9 +30284,9 @@
         "1": {
           "instructor": "ERGÜL DEMİR",
           "schedule": {
-            "45": "EFD-204",
-            "52": "EFD-204",
-            "59": "EFD-204"
+            "45": "EFD-206",
+            "52": "EFD-206",
+            "59": "EFD-206"
           }
         }
       }
@@ -33357,7 +33341,7 @@
       "name": "INCLUSIVE EDUCATION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "BESİME ERKMEN",
           "schedule": {
             "11": "TBA",
             "18": "TBA",
@@ -57801,9 +57785,9 @@
         "1": {
           "instructor": "EKİN AKOĞLU",
           "schedule": {
-            "11": "E104",
-            "18": "E104",
-            "25": "E104"
+            "11": "C209",
+            "18": "C209",
+            "25": "C209"
           }
         }
       }
@@ -57814,10 +57798,10 @@
         "1": {
           "instructor": "EKİN AKOĞLU",
           "schedule": {
-            "37": "E104",
-            "44": "E104",
-            "51": "E104",
-            "58": "E104"
+            "37": "C209",
+            "44": "C209",
+            "51": "C209",
+            "58": "C209"
           }
         }
       }
@@ -58055,9 +58039,9 @@
         "1": {
           "instructor": "EKİN AKOĞLU",
           "schedule": {
-            "7": "TBA",
-            "14": "TBA",
-            "21": "TBA"
+            "7": "C209",
+            "14": "C209",
+            "21": "C209"
           }
         }
       }
@@ -72581,9 +72565,9 @@
         "1": {
           "instructor": "KORAY KARACA",
           "schedule": {
-            "44": "B14",
-            "51": "B14",
-            "58": "B14"
+            "44": "MEG103",
+            "51": "MEG103",
+            "58": "MEG103"
           }
         }
       }
@@ -73076,9 +73060,10 @@
         "15": {
           "instructor": "ARET KARADEMİR",
           "schedule": {
-            "44": "MEG103",
-            "51": "MEG103",
-            "58": "MEG103"
+            "37": "B14",
+            "44": "B14",
+            "51": "B14",
+            "58": "B14"
           }
         },
         "16": {

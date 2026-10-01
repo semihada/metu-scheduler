@@ -1,5 +1,25 @@
 # Course Offerings Changelog
 
+## 2026-10-01 21:59 +0300 - 2026-2027 Fall (20261)
+
+7 departments: +0 added, -1 removed, 15 changed
+
+### ARME
+- Changed (1): ARME 541
+### BME
+- Changed (4): BME 500, BME 600, BME 809, BME 909
+### CENG
+- Removed (1): CENG 514
+- Changed (3): CENG 424, CENG 590, CENG 778
+### ECE
+- Changed (1): ECE 506
+### EDUS
+- Changed (1): EDUS 312
+### MASC
+- Changed (3): MASC 508, MASC 509, MASC 614
+### PHIL
+- Changed (2): PHIL 101, PHIL 599
+
 ## 2026-10-01 14:43 +0300 - 2026-2027 Fall (20261)
 
 16 departments: +0 added, -0 removed, 33 changed
