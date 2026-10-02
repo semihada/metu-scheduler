@@ -1,5 +1,32 @@
 # Course Offerings Changelog
 
+## 2026-10-02 19:45 +0300 - 2026-2027 Fall (20261)
+
+11 departments: +0 added, -2 removed, 17 changed
+
+### BAS
+- Changed (2): BAS 111, BAS 142
+### CHE
+- Changed (2): CHE 204, CHE 502
+### CHN
+- Changed (1): CHN 202
+### EDUS
+- Changed (1): EDUS 312
+### ENG
+- Changed (2): ENG 211, ENG 215
+### ES
+- Changed (1): ES 303
+### METE
+- Changed (2): METE 580, METE 581
+### PERS
+- Changed (1): PERS 201
+### PHYS
+- Changed (3): PHYS 181, PHYS 500, PHYS 820
+### THEA
+- Removed (2): THEA 361, THEA 461
+### TURK
+- Changed (2): TURK 101, TURK 303
+
 ## 2026-10-02 14:12 +0300 - 2026-2027 Fall (20261)
 
 10 departments: +0 added, -0 removed, 15 changed

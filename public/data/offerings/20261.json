@@ -9328,7 +9328,7 @@
       "name": "FUNDAMENTALS OF BUSINESS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ADİL ORAN",
           "schedule": {}
         }
       }
@@ -9346,7 +9346,7 @@
       "name": "FINANCIAL ACCOUNTING",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT TİNİÇ",
           "schedule": {}
         }
       }
@@ -21741,13 +21741,8 @@
           }
         },
         "2": {
-          "instructor": "ÇERAĞ DİLEK HACIHABİBOĞLU",
-          "schedule": {
-            "3": "Z14",
-            "10": "Z14",
-            "15": "Z14",
-            "22": "Z14"
-          }
+          "instructor": "STAFF",
+          "schedule": {}
         },
         "3": {
           "instructor": "NAİME ASLI SEZGİ",
@@ -22386,12 +22381,8 @@
       "name": "PHASE EQUILIBRIUM THERMODYNAMICS",
       "sections": {
         "1": {
-          "instructor": "HALİL KALIPÇILAR",
-          "schedule": {
-            "11": "Z117",
-            "18": "Z117",
-            "23": "Z120"
-          }
+          "instructor": "STAFF",
+          "schedule": {}
         }
       }
     },
@@ -25624,18 +25615,18 @@
           "instructor": "KANGJİNG WANG",
           "schedule": {
             "28": "YP-D106",
-            "30": "G-266",
+            "30": "YP-D101",
             "35": "YP-D106",
-            "37": "G-266"
+            "37": "YP-D101"
           }
         },
         "2": {
           "instructor": "KANGJİNG WANG",
           "schedule": {
-            "42": "G-268",
-            "44": "G-266",
-            "49": "G-268",
-            "51": "G-266"
+            "42": "YP-D204",
+            "44": "YP-D101",
+            "49": "YP-D204",
+            "51": "YP-D101"
           }
         },
         "3": {
@@ -33332,7 +33323,7 @@
       "name": "INCLUSIVE EDUCATION",
       "sections": {
         "1": {
-          "instructor": "BESİME ERKMEN",
+          "instructor": "STAFF",
           "schedule": {
             "11": "TBA",
             "18": "TBA",
@@ -40538,9 +40529,9 @@
         "42": {
           "instructor": "FİLİZ BAŞARAN",
           "schedule": {
-            "4": "EFA-15",
-            "11": "EFA-15",
-            "18": "EFA-15"
+            "11": "EFA-32",
+            "18": "EFA-32",
+            "25": "EFA-32"
           }
         },
         "43": {
@@ -41163,11 +41154,7 @@
           "instructor": "STAFF",
           "schedule": {
             "0": "EFA-32",
-            "4": "EFA-32",
             "7": "EFA-32",
-            "11": "EFA-32",
-            "18": "EFA-32",
-            "25": "EFA-32",
             "32": "EFA-32",
             "39": "EFA-32",
             "46": "EFA-32",
@@ -41224,13 +41211,9 @@
         "50": {
           "instructor": "STAFF",
           "schedule": {
-            "30": "YP-D101",
             "32": "AE025",
-            "37": "YP-D101",
             "39": "AE025",
-            "44": "YP-D101",
             "46": "AE025",
-            "51": "YP-D101",
             "53": "AE025",
             "60": "AE025"
           }
@@ -43005,9 +42988,9 @@
         "2": {
           "instructor": "STAFF",
           "schedule": {
+            "39": "YP-D202",
             "46": "YP-D202",
-            "53": "YP-D202",
-            "60": "YP-D202"
+            "53": "YP-D202"
           }
         },
         "3": {
@@ -65334,7 +65317,7 @@
         "1": {
           "instructor": "MEHMET KADRİ AYDINOL",
           "schedule": {
-            "30": "MTC AUD"
+            "31": "MTC AUD"
           }
         }
       }
@@ -65345,7 +65328,7 @@
         "1": {
           "instructor": "MEHMET KADRİ AYDINOL",
           "schedule": {
-            "31": "MTC AUD"
+            "30": "MTC AUD"
           }
         }
       }
@@ -71556,18 +71539,18 @@
         "1": {
           "instructor": "SEYEDABBAS NAJI HOSSEINDOUST",
           "schedule": {
-            "0": "G-268",
+            "0": "F17",
             "2": "FZ15",
-            "7": "G-268",
+            "7": "F17",
             "9": "FZ15"
           }
         },
         "2": {
           "instructor": "SEYEDABBAS NAJI HOSSEINDOUST",
           "schedule": {
-            "14": "G-268",
+            "14": "F17",
             "16": "FZ15",
-            "21": "G-268",
+            "21": "F17",
             "23": "FZ15"
           }
         }
@@ -73967,9 +73950,9 @@
           "instructor": "TUNCAY İNCESU",
           "schedule": {
             "45": "P6",
-            "49": "U1",
+            "50": "U1",
             "52": "P6",
-            "56": "U1"
+            "57": "U1"
           }
         }
       }
@@ -74647,8 +74630,7 @@
         "18": {
           "instructor": "STAFF",
           "schedule": {
-            "2": "TBA",
-            "9": "TBA"
+            "32": "B205-A"
           }
         },
         "19": {
@@ -74698,11 +74680,11 @@
             "10": "TBA",
             "30": "TBA",
             "37": "TBA",
-            "42": "YP-D204",
+            "42": "TBA",
             "44": "TBA",
-            "49": "YP-D204",
+            "49": "TBA",
             "51": "TBA",
-            "56": "YP-D204",
+            "56": "TBA",
             "58": "TBA"
           }
         },
@@ -75328,8 +75310,8 @@
         "1": {
           "instructor": "ALTUĞ ÖZPİNECİ",
           "schedule": {
-            "50": "U1",
-            "57": "U1"
+            "50": "TBA",
+            "57": "TBA"
           }
         }
       }
@@ -83313,15 +83295,6 @@
         }
       }
     },
-    "THEA 361": {
-      "name": "THEATER",
-      "sections": {
-        "1": {
-          "instructor": "İHSAN METİNNAM",
-          "schedule": {}
-        }
-      }
-    },
     "THEA 411": {
       "name": "PAINTING",
       "sections": {
@@ -83349,15 +83322,6 @@
       "sections": {
         "1": {
           "instructor": "ÖDÜL IŞITMAN",
-          "schedule": {}
-        }
-      }
-    },
-    "THEA 461": {
-      "name": "THEATER",
-      "sections": {
-        "1": {
-          "instructor": "İHSAN METİNNAM",
           "schedule": {}
         }
       }
@@ -83844,7 +83808,7 @@
           }
         },
         "11": {
-          "instructor": "SEMA OKUR",
+          "instructor": "SEMA OKUR ÖNCEL",
           "schedule": {
             "16": "F15",
             "23": "F15"
@@ -84145,7 +84109,7 @@
           }
         },
         "10": {
-          "instructor": "SEMA OKUR",
+          "instructor": "SEMA OKUR ÖNCEL",
           "schedule": {
             "37": "YP-D002",
             "44": "YP-D002"
