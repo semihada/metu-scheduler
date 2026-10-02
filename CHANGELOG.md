@@ -1,5 +1,30 @@
 # Course Offerings Changelog
 
+## 2026-10-02 14:12 +0300 - 2026-2027 Fall (20261)
+
+10 departments: +0 added, -0 removed, 15 changed
+
+### ADM
+- Changed (1): ADM 5151
+### ARCH
+- Changed (1): ARCH 473
+### BA
+- Changed (1): BA 1103
+### CE
+- Changed (1): CE 383
+### CENG
+- Changed (4): CENG 302, CENG 536, CENG 713, CENG 786
+### CHM
+- Changed (1): CHM 351
+### CNG
+- Changed (1): CNG 2546
+### ENG
+- Changed (2): ENG 101, ENG 215
+### ENVE
+- Changed (2): ENVE 208, ENVE 431
+### ID
+- Changed (1): ID 303
+
 ## 2026-10-02 02:18 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 4 changed
