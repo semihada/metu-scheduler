@@ -11813,7 +11813,12 @@
       "sections": {
         "1": {
           "instructor": "GÖKHAN TAKAN",
-          "schedule": {}
+          "schedule": {
+            "1": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA"
+          }
         }
       }
     },
@@ -11822,7 +11827,11 @@
       "sections": {
         "1": {
           "instructor": "GÖKHAN TAKAN",
-          "schedule": {}
+          "schedule": {
+            "3": "TBA",
+            "10": "TBA",
+            "17": "TBA"
+          }
         }
       }
     },
@@ -73950,9 +73959,7 @@
           "instructor": "TUNCAY İNCESU",
           "schedule": {
             "45": "P6",
-            "50": "U1",
-            "52": "P6",
-            "57": "U1"
+            "52": "P6"
           }
         }
       }
@@ -74630,7 +74637,11 @@
         "18": {
           "instructor": "STAFF",
           "schedule": {
-            "32": "B205-A"
+            "32": "B205-A",
+            "49": "U1",
+            "50": "U1",
+            "56": "U1",
+            "57": "U1"
           }
         },
         "19": {

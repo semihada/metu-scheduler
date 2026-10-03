@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-10-03 13:30 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +0 added, -0 removed, 4 changed
+
+### BIOL
+- Changed (2): BIOL 360, BIOL 361
+### PHYS
+- Changed (2): PHYS 181, PHYS 500
+
 ## 2026-10-02 19:45 +0300 - 2026-2027 Fall (20261)
 
 11 departments: +0 added, -2 removed, 17 changed
