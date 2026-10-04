@@ -77732,9 +77732,9 @@
         "1": {
           "instructor": "SEZEN KIŞLAL",
           "schedule": {
-            "38": "YP-D105",
-            "45": "YP-D105",
-            "52": "YP-D105"
+            "38": "B205-B",
+            "45": "B205-B",
+            "52": "B205-B"
           }
         }
       }
@@ -77938,9 +77938,9 @@
         "1": {
           "instructor": "REYHAN BİLGİÇ",
           "schedule": {
-            "38": "B205-B",
-            "45": "B205-B",
-            "52": "B205-B"
+            "38": "TBA",
+            "45": "TBA",
+            "52": "TBA"
           }
         }
       }
@@ -78342,7 +78342,11 @@
       "sections": {
         "1": {
           "instructor": "YONCA TOKER GÜLTAŞ",
-          "schedule": {}
+          "schedule": {
+            "38": "YP-D105",
+            "45": "YP-D105",
+            "52": "YP-D105"
+          }
         }
       }
     },

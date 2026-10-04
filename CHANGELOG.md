@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-10-04 23:17 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 3 changed
+
+### PSY
+- Changed (3): PSY 5204, PSY 5601, PSY 8010
+
 ## 2026-10-04 01:13 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed
