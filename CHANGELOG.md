@@ -1,5 +1,53 @@
 # Course Offerings Changelog
 
+## 2026-10-05 15:24 +0300 - 2026-2027 Fall (20261)
+
+21 departments: +1 added, -2 removed, 35 changed
+
+### AEE
+- Changed (2): AEE 404, AEE 451
+### BIN
+- Changed (1): BIN 804
+### CE
+- Changed (2): CE 363, CE 563
+### CENG
+- Changed (5): CENG 301, CENG 424, CENG 463, CENG 500, CENG 587
+### CHEM
+- Changed (1): CHEM 252
+### ECON
+- Changed (1): ECON 400
+### ENG
+- Changed (3): ENG 101, ENG 102, ENG 215
+### GEOE
+- Added (1): GEOE 533
+### HIST
+- Changed (4): HIST 331, HIST 807, HIST 912, HIST 2201
+### ITAL
+- Changed (1): ITAL 201
+### MASC
+- Changed (3): MASC 536, MASC 583, MASC 614
+### MI
+- Changed (1): MI 916
+### MSE
+- Changed (1): MSE 305
+### OHS
+- Changed (1): OHS 590
+### PERS
+- Removed (1): PERS 202
+- Changed (1): PERS 201
+### PHIL
+- Changed (1): PHIL 599
+### PHYS
+- Changed (4): PHYS 181, PHYS 409, PHYS 500, PHYS 814
+### PST
+- Changed (1): PST 501
+### PSY
+- Removed (1): PSY 3291
+### STAT
+- Changed (1): STAT 457
+### TURK
+- Changed (1): TURK 101
+
 ## 2026-10-04 23:17 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 3 changed

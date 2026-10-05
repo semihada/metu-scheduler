@@ -2186,6 +2186,10 @@
         "6": {
           "instructor": "ALTAN KAYRAN",
           "schedule": {}
+        },
+        "7": {
+          "instructor": "MUSTAFA PERÇİN",
+          "schedule": {}
         }
       }
     },
@@ -2229,10 +2233,10 @@
         "1": {
           "instructor": "DİLEK FUNDA KURTULUŞ",
           "schedule": {
-            "50": "AE124",
-            "52": "AE124",
-            "57": "AE124",
-            "59": "AE124"
+            "50": "AE126",
+            "52": "AE126",
+            "57": "AE126",
+            "59": "AE126"
           }
         },
         "2": {
@@ -11464,7 +11468,12 @@
       "sections": {
         "1": {
           "instructor": "BURÇAK OTLU SARITAŞ",
-          "schedule": {}
+          "schedule": {
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA",
+            "44": "TBA"
+          }
         }
       }
     },
@@ -16337,11 +16346,11 @@
         "1": {
           "instructor": "ONUR PEKCAN",
           "schedule": {
-            "46": "TH5",
+            "46": "TH8",
             "52": "TH4",
-            "53": "TH5",
+            "53": "TH8",
             "59": "TH4",
-            "60": "TH5"
+            "60": "TH8"
           }
         },
         "2": {
@@ -17410,9 +17419,9 @@
         "1": {
           "instructor": "BAHADIR SADIK BAKIR",
           "schedule": {
-            "39": "TH8",
-            "46": "TH8",
-            "53": "TH8"
+            "39": "TH5",
+            "46": "TH5",
+            "53": "TH5"
           }
         }
       }
@@ -19841,9 +19850,9 @@
         "1": {
           "instructor": "YUSUF MUCAHİT ÇETİNKAYA",
           "schedule": {
-            "10": "BMB2",
-            "17": "BMB2",
-            "24": "BMB2"
+            "10": "IE104",
+            "17": "IE104",
+            "24": "IE104"
           }
         }
       }
@@ -20117,7 +20126,7 @@
         "1": {
           "instructor": "FERDA NUR ALPASLAN",
           "schedule": {
-            "16": "BMB3",
+            "10": "BMB5",
             "50": "BMB5",
             "57": "BMB5"
           }
@@ -20170,9 +20179,9 @@
         "1": {
           "instructor": "ÇAĞRI TORAMAN",
           "schedule": {
-            "23": "BMB3",
-            "30": "BMB3",
-            "49": "BMB3"
+            "23": "MM125",
+            "30": "MM125",
+            "49": "BMB4"
           }
         }
       }
@@ -20420,11 +20429,65 @@
         },
         "14": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "BMB2",
+            "1": "BMB2",
+            "2": "BMB2",
+            "3": "BMB2",
+            "4": "BMB2",
+            "7": "BMB2",
+            "8": "BMB2",
+            "9": "BMB2",
+            "10": "BMB2",
+            "11": "BMB2",
+            "14": "BMB2",
+            "15": "BMB2",
+            "16": "BMB2",
+            "17": "BMB2",
+            "21": "BMB2",
+            "22": "BMB2",
+            "23": "BMB2",
+            "24": "BMB2",
+            "28": "BMB2",
+            "31": "BMB2",
+            "35": "BMB2",
+            "38": "BMB2",
+            "42": "BMB2",
+            "45": "BMB2",
+            "52": "BMB2",
+            "59": "BMB2"
+          }
         },
         "15": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "BMB3",
+            "3": "BMB3",
+            "7": "BMB3",
+            "10": "BMB3",
+            "14": "BMB3",
+            "17": "BMB3",
+            "21": "BMB3",
+            "24": "BMB3",
+            "28": "BMB3",
+            "29": "BMB2",
+            "31": "BMB3",
+            "32": "BMB2",
+            "36": "BMB2",
+            "38": "BMB3",
+            "39": "BMB2",
+            "43": "BMB2",
+            "45": "BMB3",
+            "46": "BMB2",
+            "50": "BMB2",
+            "51": "BMB2",
+            "52": "BMB3",
+            "53": "BMB2",
+            "57": "BMB2",
+            "58": "BMB2",
+            "59": "BMB3",
+            "60": "BMB2"
+          }
         },
         "16": {
           "instructor": "OKAN TOPÇU",
@@ -20448,7 +20511,28 @@
         },
         "21": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "1": "BMB3",
+            "8": "BMB3",
+            "15": "BMB3",
+            "16": "BMB3",
+            "22": "BMB3",
+            "23": "BMB3",
+            "25": "BMB3",
+            "29": "BMB3",
+            "30": "BMB3",
+            "32": "BMB3",
+            "36": "BMB3",
+            "39": "BMB3",
+            "43": "BMB3",
+            "46": "BMB3",
+            "49": "BMB3",
+            "50": "BMB3",
+            "53": "BMB3",
+            "56": "BMB3",
+            "57": "BMB3",
+            "60": "BMB3"
+          }
         },
         "22": {
           "instructor": "EMRE UĞUR",
@@ -20579,9 +20663,9 @@
         "1": {
           "instructor": "AHMET OĞUZ AKYÜZ",
           "schedule": {
-            "7": "BMB3",
-            "14": "BMB3",
-            "21": "BMB3"
+            "7": "BMB A101",
+            "14": "BMB A101",
+            "21": "BMB A101"
           }
         }
       }
@@ -23451,8 +23535,8 @@
         "1": {
           "instructor": "HASAN TARIK BAYTEKİN",
           "schedule": {
-            "2": "K05",
-            "9": "K05",
+            "2": "YP-D202",
+            "9": "YP-D202",
             "14": "K15",
             "21": "K15"
           }
@@ -30988,6 +31072,10 @@
         },
         "4": {
           "instructor": "ERKAN ERDİL",
+          "schedule": {}
+        },
+        "5": {
+          "instructor": "ERDAL ÖZMEN",
           "schedule": {}
         }
       }
@@ -38911,8 +38999,8 @@
           "schedule": {
             "24": "K11",
             "31": "K11",
-            "36": "YP-D104",
-            "43": "YP-D104"
+            "36": "BIO 213",
+            "43": "BIO 213"
           }
         },
         "12": {
@@ -39073,8 +39161,8 @@
           "schedule": {
             "0": "M04",
             "7": "M04",
-            "16": "EFA-14",
-            "23": "EFA-14"
+            "16": "PT13",
+            "23": "PT13"
           }
         },
         "30": {
@@ -39969,15 +40057,15 @@
           "schedule": {
             "14": "EFA-28",
             "21": "EFA-28",
-            "36": "BIO 213",
-            "43": "BIO 213"
+            "36": "YP-D104",
+            "43": "YP-D104"
           }
         },
         "5": {
           "instructor": "BUKET ESRA TARAKÇIOĞLU",
           "schedule": {
-            "16": "PT13",
-            "23": "PT13",
+            "16": "EFA-14",
+            "23": "EFA-14",
             "35": "R-45",
             "42": "R-45"
           }
@@ -40828,8 +40916,12 @@
           "instructor": "STAFF",
           "schedule": {
             "14": "M05",
+            "37": "MTE110",
+            "44": "MTE110",
             "50": "M04",
-            "57": "M04"
+            "51": "MTE110",
+            "57": "M04",
+            "58": "MTE110"
           }
         },
         "3": {
@@ -48258,6 +48350,18 @@
         }
       }
     },
+    "GEOE 533": {
+      "name": "MICROTECTONICS",
+      "sections": {
+        "1": {
+          "instructor": "AKIN ÇİL",
+          "schedule": {
+            "49": "GR303",
+            "56": "GR303"
+          }
+        }
+      }
+    },
     "GEOE 534": {
       "name": "GEOCHEMICAL PROSPECTING",
       "sections": {
@@ -50522,9 +50626,9 @@
         "1": {
           "instructor": "BİRTEN ÇELİK",
           "schedule": {
-            "37": "B06",
-            "44": "B06",
-            "51": "B06"
+            "37": "B14",
+            "44": "B14",
+            "51": "B14"
           }
         }
       }
@@ -50889,7 +50993,11 @@
       "sections": {
         "1": {
           "instructor": "RİCHARD DİETRİCH",
-          "schedule": {}
+          "schedule": {
+            "37": "B06",
+            "44": "B06",
+            "51": "B06"
+          }
         }
       }
     },
@@ -51113,11 +51221,7 @@
       "sections": {
         "1": {
           "instructor": "NESİM ŞEKER",
-          "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA"
-          }
+          "schedule": {}
         }
       }
     },
@@ -51362,8 +51466,8 @@
         "41": {
           "instructor": "NESİM ŞEKER",
           "schedule": {
-            "1": "B05",
-            "8": "B05"
+            "35": "B205-A",
+            "42": "B205-A"
           }
         },
         "42": {
@@ -57518,8 +57622,8 @@
         "2": {
           "instructor": "PELİN AKALAN",
           "schedule": {
-            "38": "AE025",
-            "45": "AE025",
+            "38": "M103",
+            "45": "M103",
             "50": "MM309",
             "57": "MM309"
           }
@@ -57862,7 +57966,12 @@
       "sections": {
         "1": {
           "instructor": "BETTİNA ANDREA FACH SALİHOĞLU",
-          "schedule": {}
+          "schedule": {
+            "1": "E104",
+            "8": "E104",
+            "15": "E104",
+            "22": "E104"
+          }
         }
       }
     },
@@ -57934,7 +58043,12 @@
       "sections": {
         "1": {
           "instructor": "DEVRİM TEZCAN",
-          "schedule": {}
+          "schedule": {
+            "0": "C209",
+            "7": "C209",
+            "14": "C209",
+            "21": "C209"
+          }
         }
       }
     },
@@ -58049,9 +58163,9 @@
         "1": {
           "instructor": "EKİN AKOĞLU",
           "schedule": {
-            "7": "C209",
-            "14": "C209",
-            "21": "C209"
+            "7": "E104",
+            "14": "E104",
+            "21": "E104"
           }
         }
       }
@@ -66687,7 +66801,12 @@
       "sections": {
         "1": {
           "instructor": "BURÇAK OTLU SARITAŞ",
-          "schedule": {}
+          "schedule": {
+            "10": "TBA",
+            "39": "TBA",
+            "46": "TBA",
+            "53": "TBA"
+          }
         }
       }
     },
@@ -68789,9 +68908,9 @@
         "2": {
           "instructor": "GÖZDE KAPLAN CAN",
           "schedule": {
-            "37": "EFD-101",
-            "44": "EFD-101",
-            "51": "EFD-101"
+            "37": "EFD-13",
+            "44": "EFD-13",
+            "51": "EFD-13"
           }
         }
       }
@@ -70948,7 +71067,7 @@
       "name": "GRADUATION SEMINER",
       "sections": {
         "2": {
-          "instructor": "STAFF",
+          "instructor": "NURAY DEMİREL",
           "schedule": {}
         }
       }
@@ -71548,27 +71667,22 @@
         "1": {
           "instructor": "SEYEDABBAS NAJI HOSSEINDOUST",
           "schedule": {
-            "0": "F17",
+            "0": "G-268",
             "2": "FZ15",
-            "7": "F17",
+            "7": "G-268",
             "9": "FZ15"
           }
         },
         "2": {
           "instructor": "SEYEDABBAS NAJI HOSSEINDOUST",
           "schedule": {
-            "14": "F17",
+            "14": "G-268",
             "16": "FZ15",
-            "21": "F17",
+            "21": "G-268",
             "23": "FZ15"
           }
-        }
-      }
-    },
-    "PERS 202": {
-      "name": "PERSIAN 202 A1.2",
-      "sections": {
-        "1": {
+        },
+        "3": {
           "instructor": "SEYEDABBAS NAJI HOSSEINDOUST",
           "schedule": {
             "15": "MM309",
@@ -73069,12 +73183,7 @@
         },
         "15": {
           "instructor": "ARET KARADEMİR",
-          "schedule": {
-            "37": "B14",
-            "44": "B14",
-            "51": "B14",
-            "58": "B14"
-          }
+          "schedule": {}
         },
         "16": {
           "instructor": "CORRY MİCHAEL SHORES",
@@ -73959,7 +74068,9 @@
           "instructor": "TUNCAY İNCESU",
           "schedule": {
             "45": "P6",
-            "52": "P6"
+            "49": "U1",
+            "52": "P6",
+            "56": "U1"
           }
         }
       }
@@ -74275,9 +74386,9 @@
         "1": {
           "instructor": "HANDE TOFFOLİ",
           "schedule": {
-            "14": "P7",
+            "1": "P7",
+            "8": "P7",
             "16": "P7",
-            "21": "P7",
             "23": "P7"
           }
         }
@@ -74638,9 +74749,7 @@
           "instructor": "STAFF",
           "schedule": {
             "32": "B205-A",
-            "49": "U1",
             "50": "U1",
-            "56": "U1",
             "57": "U1"
           }
         },
@@ -74720,9 +74829,7 @@
           "instructor": "STAFF",
           "schedule": {
             "0": "U2",
-            "2": "U2",
             "7": "U2",
-            "9": "U2",
             "52": "U2",
             "59": "U2"
           }
@@ -75253,13 +75360,9 @@
         "1": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "P7",
-            "8": "P7",
             "15": "P7",
             "22": "P7",
-            "29": "P7",
             "30": "P7",
-            "36": "P7",
             "37": "P7",
             "44": "P7",
             "51": "P7",
@@ -76445,9 +76548,9 @@
         "1": {
           "instructor": "EROL YILDIRIM",
           "schedule": {
-            "36": "TBA",
-            "43": "TBA",
-            "50": "TBA"
+            "36": "B07",
+            "43": "B07",
+            "50": "B07"
           }
         }
       }
@@ -77192,19 +77295,6 @@
             "11": "YP-A2",
             "18": "YP-A2",
             "25": "YP-A2"
-          }
-        }
-      }
-    },
-    "PSY 3291": {
-      "name": "WORKSHOP IN EXPERIMENTAL PSYCHOLOGY",
-      "sections": {
-        "1": {
-          "instructor": "NAHİDE DİCLE DÖVENCİOĞLU",
-          "schedule": {
-            "11": "TBA",
-            "18": "TBA",
-            "25": "TBA"
           }
         }
       }
@@ -82018,9 +82108,9 @@
         "1": {
           "instructor": "VİLDA PURUTÇUOĞLU",
           "schedule": {
-            "2": "YP-D202",
-            "9": "YP-D202",
-            "16": "YP-D202",
+            "2": "U2",
+            "9": "U2",
+            "36": "G111",
             "53": "YP-A2",
             "60": "YP-A2"
           }
@@ -83854,8 +83944,8 @@
         "15": {
           "instructor": "SAFİYE DOĞAN",
           "schedule": {
-            "17": "MTB309",
-            "24": "MTB309"
+            "17": "YP-D105",
+            "24": "YP-D105"
           }
         },
         "16": {
@@ -83924,8 +84014,8 @@
         "25": {
           "instructor": "BANU BAŞER",
           "schedule": {
-            "17": "YP-D105",
-            "24": "YP-D105"
+            "17": "TBA",
+            "24": "TBA"
           }
         }
       }
