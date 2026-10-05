@@ -1,5 +1,18 @@
 # Course Offerings Changelog
 
+## 2026-10-06 00:24 +0300 - 2026-2027 Fall (20261)
+
+4 departments: +1 added, -0 removed, 4 changed
+
+### CENG
+- Changed (2): CENG 460, CENG 7822
+### OHS
+- Changed (1): OHS 590
+### PHIL
+- Changed (1): PHIL 599
+### TKPR
+- Added (1): TKPR 233
+
 ## 2026-10-05 15:24 +0300 - 2026-2027 Fall (20261)
 
 21 departments: +1 added, -2 removed, 35 changed

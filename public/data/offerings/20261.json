@@ -20166,9 +20166,9 @@
         "1": {
           "instructor": "ULUÇ SARANLI",
           "schedule": {
-            "9": "BMB3",
-            "35": "BMB3",
-            "42": "BMB3"
+            "9": "TBA",
+            "35": "TBA",
+            "42": "TBA"
           }
         }
       }
@@ -21758,9 +21758,9 @@
         "1": {
           "instructor": "ÖMER EKMEKCİ",
           "schedule": {
-            "4": "BMB3",
-            "11": "BMB3",
-            "18": "BMB3"
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA"
           }
         }
       }
@@ -71066,7 +71066,7 @@
     "OHS 590": {
       "name": "GRADUATION SEMINER",
       "sections": {
-        "2": {
+        "1": {
           "instructor": "NURAY DEMİREL",
           "schedule": {}
         }
@@ -73183,7 +73183,13 @@
         },
         "15": {
           "instructor": "ARET KARADEMİR",
-          "schedule": {}
+          "schedule": {
+            "49": "B05",
+            "56": "B05",
+            "63": "B05",
+            "70": "B05",
+            "77": "B05"
+          }
         },
         "16": {
           "instructor": "CORRY MİCHAEL SHORES",
@@ -83744,6 +83750,19 @@
             "42": "YP-D203",
             "49": "YP-D203",
             "56": "YP-D203"
+          }
+        }
+      }
+    },
+    "TKPR 233": {
+      "name": "MTH233 - MANAGEMENT INFORMATION SYSTEMS: MISSION-CRITICAL INFORMATION SYSTEMS IN THE DEFENSE INDUSTRY",
+      "sections": {
+        "1": {
+          "instructor": "HACI ALİ DURU",
+          "schedule": {
+            "2": "YP-D101",
+            "9": "YP-D101",
+            "16": "YP-D202"
           }
         }
       }
