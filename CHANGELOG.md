@@ -1,5 +1,27 @@
 # Course Offerings Changelog
 
+## 2026-10-06 22:00 +0300 - 2026-2027 Fall (20261)
+
+8 departments: +0 added, -1 removed, 11 changed
+
+### ARAB
+- Removed (1): ARAB 203
+- Changed (1): ARAB 201
+### BA
+- Changed (1): BA 1101
+### EE
+- Changed (3): EE 441, EE 500, EE 553
+### EFL
+- Changed (1): EFL 123
+### ENG
+- Changed (2): ENG 101, ENG 215
+### EQS
+- Changed (1): EQS 590
+### ITAL
+- Changed (1): ITAL 203
+### STPS
+- Changed (1): STPS 560
+
 ## 2026-10-06 15:07 +0300 - 2026-2027 Fall (20261)
 
 16 departments: +2 added, -3 removed, 20 changed

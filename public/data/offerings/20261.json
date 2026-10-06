@@ -3689,6 +3689,15 @@
             "35": "EFA-15",
             "37": "G104"
           }
+        },
+        "2": {
+          "instructor": "YOUNESS MHIR EL KOUBAA",
+          "schedule": {
+            "22": "EFA-25",
+            "29": "EFA-25",
+            "31": "MM308",
+            "38": "MM308"
+          }
         }
       }
     },
@@ -3702,20 +3711,6 @@
             "51": "MM309",
             "56": "EFA-30",
             "58": "MM309"
-          }
-        }
-      }
-    },
-    "ARAB 203": {
-      "name": "ARABIC 203 A2.1",
-      "sections": {
-        "1": {
-          "instructor": "YOUNESS MHIR EL KOUBAA",
-          "schedule": {
-            "22": "EFA-25",
-            "29": "EFA-25",
-            "31": "MM308",
-            "38": "MM308"
           }
         }
       }
@@ -7301,7 +7296,7 @@
           }
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "ADİL ORAN",
           "schedule": {}
         }
       }
@@ -34447,10 +34442,6 @@
             "15": "EA209",
             "24": "EA209"
           }
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -35469,9 +35460,6 @@
           "instructor": "STAFF",
           "schedule": {
             "3": "D131",
-            "10": "D131",
-            "17": "D131",
-            "24": "D131",
             "45": "D131",
             "66": "D131"
           }
@@ -35533,6 +35521,9 @@
           "instructor": "STAFF",
           "schedule": {
             "3": "D135",
+            "10": "D135",
+            "17": "D135",
+            "24": "D135",
             "52": "D135",
             "59": "D135",
             "66": "D135"
@@ -35778,9 +35769,9 @@
         "1": {
           "instructor": "MEHMET KEMAL LEBLEBİCİOĞLU",
           "schedule": {
-            "10": "D135",
-            "17": "D135",
-            "24": "D135"
+            "10": "D131",
+            "17": "D131",
+            "24": "D131"
           }
         }
       }
@@ -37641,6 +37632,10 @@
             "11": "TBA",
             "18": "TBA"
           }
+        },
+        "2": {
+          "instructor": "NURDAN GÜRBÜZ",
+          "schedule": {}
         }
       }
     },
@@ -39125,9 +39120,9 @@
           "instructor": "DUYGU SAVAŞ",
           "schedule": {
             "36": "M07",
-            "39": "MN123",
+            "39": "EFA-10",
             "43": "M07",
-            "46": "MN123"
+            "46": "EFA-10"
           }
         },
         "26": {
@@ -41212,9 +41207,6 @@
           "schedule": {
             "0": "EFA-10",
             "7": "EFA-10",
-            "32": "EFA-10",
-            "39": "EFA-10",
-            "46": "EFA-10",
             "51": "EFA-10",
             "53": "EFA-10",
             "58": "EFA-10",
@@ -42769,7 +42761,9 @@
       "sections": {
         "1": {
           "instructor": "AYŞEGÜL ASKAN GÜNDOĞAN",
-          "schedule": {}
+          "schedule": {
+            "43": "TBA"
+          }
         }
       }
     },
@@ -57661,9 +57655,9 @@
           "instructor": "PELİN AKALAN",
           "schedule": {
             "49": "MM308",
-            "52": "AE025",
+            "52": "M106",
             "56": "MM308",
-            "59": "AE025"
+            "59": "M106"
           }
         }
       }
@@ -82764,7 +82758,7 @@
       "name": "SEMINAR IN NEW TECHNOLOGIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "GÜLŞAH DENİZ ATALAR",
           "schedule": {
             "37": "F-104",
             "44": "F-104",
