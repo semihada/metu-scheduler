@@ -1,5 +1,46 @@
 # Course Offerings Changelog
 
+## 2026-10-06 15:07 +0300 - 2026-2027 Fall (20261)
+
+16 departments: +2 added, -3 removed, 20 changed
+
+### AEE
+- Changed (1): AEE 729
+### AH
+- Changed (1): AH 571
+### ARCH
+- Changed (3): ARCH 301, ARCH 331, ARCH 470
+### BA
+- Changed (1): BA 4829
+### CENG
+- Changed (2): CENG 591, CENG 691
+### CHEM
+- Removed (1): CHEM 531
+- Changed (2): CHEM 441, CHEM 555
+### CONS
+- Removed (1): CONS 645
+### CSEC
+- Changed (1): CSEC 501
+### EDS
+- Added (1): EDS 536
+- Removed (1): EDS 216
+- Changed (1): EDS 200
+### ELIT
+- Added (1): ELIT 819
+- Changed (1): ELIT 599
+### ENG
+- Changed (1): ENG 101
+### IS
+- Changed (1): IS 789
+### MASC
+- Changed (1): MASC 504
+### PHIL
+- Changed (1): PHIL 145
+### PSY
+- Changed (2): PSY 3392, PSY 8011
+### SOC
+- Changed (1): SOC 316
+
 ## 2026-10-06 00:24 +0300 - 2026-2027 Fall (20261)
 
 4 departments: +1 added, -0 removed, 4 changed

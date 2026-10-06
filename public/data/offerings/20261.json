@@ -2644,7 +2644,7 @@
       "name": "ETHICAL BEHAVIOUR IN ENGINEERING",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÖZGÜN ŞENER",
           "schedule": {
             "46": "AE124",
             "53": "AE124"
@@ -3169,10 +3169,6 @@
             "14": "R46",
             "21": "R46"
           }
-        },
-        "4": {
-          "instructor": "ALİ UZAY PEKER",
-          "schedule": {}
         }
       }
     },
@@ -4261,6 +4257,10 @@
         "8": {
           "instructor": "SEZİN SARICA",
           "schedule": {}
+        },
+        "9": {
+          "instructor": "BENGİSU DEREBAŞI",
+          "schedule": {}
         }
       }
     },
@@ -4314,7 +4314,7 @@
           }
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "BESTE FAKIOĞLU",
           "schedule": {}
         }
       }
@@ -4660,6 +4660,16 @@
       "sections": {
         "1": {
           "instructor": "ARZU SORGUÇ",
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA",
+            "30": "TBA"
+          }
+        },
+        "2": {
+          "instructor": "MÜGE KRUŞA YEMİŞCİOĞLU",
           "schedule": {
             "2": "TBA",
             "9": "TBA",
@@ -7978,7 +7988,7 @@
       "name": "VALUATION, MODELS AND APPLICATION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT TİNİÇ",
           "schedule": {
             "0": "TBA",
             "2": "TBA",
@@ -20687,10 +20697,10 @@
       "name": "GRADUATE SEMINAR",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "OKAN TOPÇU",
           "schedule": {
-            "30": "BMB5",
-            "37": "BMB5"
+            "52": "BMB5",
+            "59": "BMB5"
           }
         }
       }
@@ -20859,7 +20869,7 @@
       "name": "GRADUATE SEMINER",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "OKAN TOPÇU",
           "schedule": {}
         }
       }
@@ -23768,9 +23778,9 @@
         "1": {
           "instructor": "CİHANGİR TANYELİ",
           "schedule": {
-            "36": "K07",
-            "38": "K07",
-            "43": "K07"
+            "36": "K05",
+            "38": "K05",
+            "43": "K05"
           }
         }
       }
@@ -24069,19 +24079,6 @@
         }
       }
     },
-    "CHEM 531": {
-      "name": "REACTIVE INTERMEDIATES I",
-      "sections": {
-        "1": {
-          "instructor": "ÖZDEMİR DOĞAN",
-          "schedule": {
-            "38": "K05",
-            "45": "K05",
-            "52": "K05"
-          }
-        }
-      }
-    },
     "CHEM 549": {
       "name": "TOTAL SYN.OF NAT.COMPOUNDS",
       "sections": {
@@ -24101,9 +24098,9 @@
         "1": {
           "instructor": "OKAN ESENTÜRK",
           "schedule": {
-            "36": "K05",
-            "43": "K05",
-            "50": "K05"
+            "43": "K07",
+            "50": "K07",
+            "57": "K07"
           }
         }
       }
@@ -27316,19 +27313,6 @@
         }
       }
     },
-    "CONS 645": {
-      "name": "ISSUES IN CONSERVATION I",
-      "sections": {
-        "1": {
-          "instructor": "AYŞE GÜLİZ BİLGİN ALTINÖZ",
-          "schedule": {
-            "8": "R44",
-            "15": "R44",
-            "22": "R44"
-          }
-        }
-      }
-    },
     "CONS 801": {
       "name": "SPECIAL STUDIES",
       "sections": {
@@ -28910,9 +28894,9 @@
         "1": {
           "instructor": "NAZİFE BAYKAL",
           "schedule": {
-            "22": "II-02",
-            "29": "II-02",
-            "36": "II-02"
+            "1": "II-02",
+            "8": "II-02",
+            "15": "II-02"
           }
         }
       }
@@ -32392,9 +32376,9 @@
         "1": {
           "instructor": "CENNET ENGİN",
           "schedule": {
-            "8": "EFD-105",
-            "15": "EFD-105",
-            "22": "EFD-105"
+            "8": "EFD-103",
+            "15": "EFD-103",
+            "22": "EFD-103"
           }
         },
         "2": {
@@ -32473,15 +32457,6 @@
             "44": "EFD-103",
             "51": "EFD-103"
           }
-        }
-      }
-    },
-    "EDS 216": {
-      "name": "LEARNING IN NON-SCHOOL CONTEXTS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -32699,6 +32674,19 @@
             "0": "EFA-33",
             "7": "EFA-33",
             "14": "EFA-33"
+          }
+        }
+      }
+    },
+    "EDS 536": {
+      "name": "RESEARCH AND PRACTICE ON TECNOLOGY IN TEACHER EDUCATION",
+      "sections": {
+        "1": {
+          "instructor": "ELİF ÖZTÜRK",
+          "schedule": {
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA"
           }
         }
       }
@@ -37924,6 +37912,10 @@
         "11": {
           "instructor": "NİL KORKUT NAYKI",
           "schedule": {}
+        },
+        "12": {
+          "instructor": "MERVE SARIKAYA ŞEN",
+          "schedule": {}
         }
       }
     },
@@ -38036,6 +38028,15 @@
       "sections": {
         "1": {
           "instructor": "NURTEN BİRLİK",
+          "schedule": {}
+        }
+      }
+    },
+    "ELIT 819": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "MERVE SARIKAYA ŞEN",
           "schedule": {}
         }
       }
@@ -39287,8 +39288,8 @@
           "schedule": {
             "44": "M05",
             "51": "M05",
-            "53": "MEB204",
-            "60": "MEB204"
+            "53": "M08",
+            "60": "M08"
           }
         },
         "44": {
@@ -57050,9 +57051,9 @@
         "1": {
           "instructor": "NAZİFE BAYKAL",
           "schedule": {
-            "1": "II-02",
-            "8": "II-02",
-            "15": "II-02"
+            "22": "II-02",
+            "29": "II-02",
+            "36": "II-02"
           }
         }
       }
@@ -57889,7 +57890,12 @@
       "sections": {
         "1": {
           "instructor": "DEVRİM TEZCAN",
-          "schedule": {}
+          "schedule": {
+            "36": "C209",
+            "43": "C209",
+            "50": "C209",
+            "57": "C209"
+          }
         }
       }
     },
@@ -72758,6 +72764,7 @@
           "schedule": {
             "0": "YP-A2",
             "7": "YP-A2",
+            "14": "YP-D102",
             "18": "P3"
           }
         }
@@ -77362,14 +77369,6 @@
             "46": "M05",
             "53": "M05"
           }
-        },
-        "3": {
-          "instructor": "ZEYNEP MÜBERRA SUATA",
-          "schedule": {
-            "39": "B07",
-            "46": "B07",
-            "53": "B07"
-          }
         }
       }
     },
@@ -78451,7 +78450,11 @@
       "sections": {
         "1": {
           "instructor": "ZEYNEP MÜBERRA SUATA",
-          "schedule": {}
+          "schedule": {
+            "39": "B07",
+            "46": "B07",
+            "53": "B07"
+          }
         }
       }
     },
@@ -80877,9 +80880,9 @@
         "1": {
           "instructor": "EZGİ PEHLİVANLI YAZICI",
           "schedule": {
-            "18": "B05",
-            "25": "B05",
-            "32": "B05"
+            "18": "G202",
+            "25": "G202",
+            "32": "G202"
           }
         }
       }
