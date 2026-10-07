@@ -7925,6 +7925,10 @@
             "21": "G207",
             "23": "G207"
           }
+        },
+        "2": {
+          "instructor": "EMİNEGÜL KARABABA",
+          "schedule": {}
         }
       }
     },
@@ -19442,7 +19446,7 @@
       "name": "PROGRAMMING WITH PYTHON FOR ENGINEERS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "HAZAL MOĞULTAY ÖZCAN",
           "schedule": {
             "36": "MM-14",
             "43": "MM-14",
@@ -19667,7 +19671,7 @@
           }
         },
         "26": {
-          "instructor": "STAFF",
+          "instructor": "HAZAL MOĞULTAY ÖZCAN",
           "schedule": {
             "50": "TBA",
             "51": "TBA",
@@ -45157,7 +45161,7 @@
       "name": "INST.AND LAW OF THE EUROPEAN UNION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "SANEM SUPHİYE BAYKAL",
           "schedule": {
             "9": "G169",
             "16": "G169",
@@ -45170,7 +45174,7 @@
       "name": "PROTHESIS SEMINAR: ISSUES, APPROACHES AND PROBLEMS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "BAŞAK ZEYNEP ALPAN",
           "schedule": {}
         }
       }
@@ -46630,17 +46634,17 @@
           "schedule": {
             "22": "YP-D101",
             "29": "YP-D101",
-            "31": "YP-D003",
-            "38": "YP-D003"
+            "31": "TH6",
+            "38": "TH6"
           }
         },
         "3": {
           "instructor": "FİLİZ NİLÜFER HENDEN",
           "schedule": {
             "43": "EFA-14",
-            "45": "YP-D003",
+            "45": "MM308",
             "50": "EFA-14",
-            "52": "YP-D003"
+            "52": "MM308"
           }
         }
       }
@@ -48323,9 +48327,7 @@
           "instructor": "TEVFİK KEMAL TÜRELİ",
           "schedule": {
             "1": "GR125",
-            "2": "GR218",
             "8": "GR125",
-            "9": "GR218",
             "15": "GR301",
             "22": "GR301"
           }
@@ -48575,9 +48577,9 @@
         "1": {
           "instructor": "ATİLLA ARDA ÖZACAR",
           "schedule": {
-            "2": "TBA",
-            "9": "TBA",
-            "16": "TBA"
+            "2": "GR218",
+            "9": "GR218",
+            "16": "GR218"
           }
         }
       }
@@ -77680,9 +77682,9 @@
           "instructor": "ZEYNEP MÜBERRA SUATA",
           "schedule": {
             "35": "B102",
-            "37": "YP-B201",
+            "37": "B106",
             "42": "B102",
-            "44": "YP-B201",
+            "44": "B106",
             "49": "B102"
           }
         },

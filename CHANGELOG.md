@@ -1,5 +1,22 @@
 # Course Offerings Changelog
 
+## 2026-10-07 22:27 +0300 - 2026-2027 Fall (20261)
+
+6 departments: +0 added, -0 removed, 8 changed
+
+### BA
+- Changed (1): BA 4726
+### CENG
+- Changed (1): CENG 240
+### EUS
+- Changed (2): EUS 503, EUS 505
+### FREN
+- Changed (1): FREN 201
+### GEOE
+- Changed (2): GEOE 524, GEOE 725
+### PSY
+- Changed (1): PSY 5101
+
 ## 2026-10-07 14:53 +0300 - 2026-2027 Fall (20261)
 
 18 departments: +5 added, -11 removed, 18 changed
