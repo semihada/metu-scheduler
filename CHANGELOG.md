@@ -1,5 +1,50 @@
 # Course Offerings Changelog
 
+## 2026-10-07 14:53 +0300 - 2026-2027 Fall (20261)
+
+18 departments: +5 added, -11 removed, 18 changed
+
+### AIX
+- Added (1): AIX 7863
+### ASE
+- Changed (1): ASE 300
+### CE
+- Changed (1): CE 224
+### CHEM
+- Changed (1): CHEM 111
+### EDS
+- Changed (1): EDS 516
+### EE
+- Changed (1): EE 860
+### ES
+- Changed (1): ES 303
+### FREN
+- Changed (1): FREN 201
+### GEOE
+- Changed (1): GEOE 431
+### GERM
+- Changed (1): GERM 201
+### HIST
+- Changed (2): HIST 807, HIST 2206
+### ID
+- Removed (1): ID 717
+- Changed (1): ID 500
+### ITAL
+- Removed (1): ITAL 205
+- Changed (1): ITAL 201
+### METE
+- Changed (1): METE 230
+### OR
+- Added (3): OR 941, OR 942, OR 943
+- Removed (9): OR 806, OR 811, OR 814, OR 817, OR 821, OR 845, OR 846, OR 847, OR 906
+- Changed (1): OR 500
+### PHYS
+- Changed (2): PHYS 500, PHYS 814
+### PSY
+- Changed (1): PSY 5101
+### SOC
+- Added (1): SOC 908
+
 ## 2026-10-06 22:00 +0300 - 2026-2027 Fall (20261)
 
 8 departments: +0 added, -1 removed, 11 changed
