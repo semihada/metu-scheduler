@@ -1,5 +1,24 @@
 # Course Offerings Changelog
 
+## 2026-10-08 22:23 +0300 - 2026-2027 Fall (20261)
+
+6 departments: +2 added, -4 removed, 4 changed
+
+### CNG
+- Removed (1): CNG 806
+- Changed (1): CNG 500
+### IAM
+- Removed (1): IAM 548
+### OHS
+- Removed (2): OHS 501, OHS 505
+- Changed (1): OHS 503
+### PHYS
+- Changed (1): PHYS 500
+### TKPR
+- Added (2): TKPR 231, TKPR 235
+### TURK
+- Changed (1): TURK 101
+
 ## 2026-10-08 15:07 +0300 - 2026-2027 Fall (20261)
 
 19 departments: +2 added, -1 removed, 35 changed

@@ -26310,10 +26310,6 @@
           "instructor": "ŞÜKRÜ ERASLAN",
           "schedule": {}
         },
-        "6": {
-          "instructor": "MARIEM HMILA",
-          "schedule": {}
-        },
         "7": {
           "instructor": "MUHAMMAD TOAHA RAZA KHAN",
           "schedule": {}
@@ -26386,15 +26382,6 @@
       "sections": {
         "1": {
           "instructor": "ŞÜKRÜ ERASLAN",
-          "schedule": {}
-        }
-      }
-    },
-    "CNG 806": {
-      "name": "SPECIAL STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "MARIEM HMILA",
           "schedule": {}
         }
       }
@@ -51878,19 +51865,6 @@
         }
       }
     },
-    "IAM 548": {
-      "name": "STOCHASTIC PROCESSES FOR INSURANCE AND FINANCE",
-      "sections": {
-        "1": {
-          "instructor": "BÜKRE YILDIRIM KÜLEKCİ",
-          "schedule": {
-            "9": "UME-212",
-            "16": "UME-212",
-            "23": "UME-212"
-          }
-        }
-      }
-    },
     "IAM 561": {
       "name": "INTRODUCTION TO SCIENTIFIC COMPUTING I",
       "sections": {
@@ -71045,30 +71019,16 @@
         }
       }
     },
-    "OHS 501": {
-      "name": "INTRODUCTION TO OCCUPATIONAL HEALTH AND SAFETY",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "OHS 503": {
       "name": "RISK MANAGEMENT IN OCCUPATIONAL HEALTH AND SAFETY",
       "sections": {
         "1": {
           "instructor": "MURAT CAN OCAKTAN",
-          "schedule": {}
-        }
-      }
-    },
-    "OHS 505": {
-      "name": "EMERGENCY MANAGEMENT",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "11": "MN103",
+            "18": "MN103",
+            "25": "MN103"
+          }
         }
       }
     },
@@ -74602,12 +74562,7 @@
         },
         "8": {
           "instructor": "STAFF",
-          "schedule": {
-            "38": "YP-D003",
-            "45": "YP-D003",
-            "52": "YP-D003",
-            "59": "YP-D003"
-          }
+          "schedule": {}
         },
         "9": {
           "instructor": "STAFF",
@@ -83680,6 +83635,18 @@
         }
       }
     },
+    "TKPR 231": {
+      "name": "MTH231-INTRODUCTION TO UAS FLIGHT TESTING",
+      "sections": {
+        "1": {
+          "instructor": "STAFF",
+          "schedule": {
+            "38": "YP-D003",
+            "45": "YP-D003"
+          }
+        }
+      }
+    },
     "TKPR 233": {
       "name": "MTH233-MANAGEMENT INFORMATION SYSTEMS: MISSION-CRITICAL INFORMATION SYSTEMS IN THE DEFENSE INDUSTRY",
       "sections": {
@@ -83689,6 +83656,19 @@
             "2": "YP-D101",
             "9": "YP-D101",
             "16": "YP-D202"
+          }
+        }
+      }
+    },
+    "TKPR 235": {
+      "name": "MTH235-INTRODUCTION TO OPTOMECHANICAL DESIGN",
+      "sections": {
+        "1": {
+          "instructor": "STAFF",
+          "schedule": {
+            "46": "FZ14",
+            "53": "FZ14",
+            "60": "FZ14"
           }
         }
       }
@@ -83957,7 +83937,7 @@
           }
         },
         "25": {
-          "instructor": "BANU BAŞER",
+          "instructor": "STAFF",
           "schedule": {
             "17": "TBA",
             "24": "TBA"
