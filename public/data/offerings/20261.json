@@ -3680,8 +3680,12 @@
       "name": "PROGRAMMING GPU KERNELS FOR DEEP LEARNING",
       "sections": {
         "1": {
-          "instructor": "ŞEYDA ERTEKİN BOLELLİ",
-          "schedule": {}
+          "instructor": "STAFF",
+          "schedule": {
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         }
       }
     }
@@ -11868,10 +11872,9 @@
         "1": {
           "instructor": "MEHMET SOMEL",
           "schedule": {
-            "44": "P1",
+            "44": "P2",
             "51": "P2",
-            "58": "P2",
-            "65": "P2"
+            "58": "P2"
           }
         }
       }
@@ -20957,7 +20960,12 @@
       "sections": {
         "1": {
           "instructor": "ŞEYDA ERTEKİN BOLELLİ",
-          "schedule": {}
+          "schedule": {
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -20994,7 +21002,12 @@
       "sections": {
         "1": {
           "instructor": "HÜSEYİN AYDIN",
-          "schedule": {}
+          "schedule": {
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -21012,7 +21025,12 @@
       "sections": {
         "1": {
           "instructor": "ULUÇ SARANLI",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "7": "TBA",
+            "14": "TBA",
+            "21": "TBA"
+          }
         }
       }
     },
@@ -21099,7 +21117,12 @@
       "sections": {
         "1": {
           "instructor": "OKAN TOPÇU",
-          "schedule": {}
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         }
       }
     },
@@ -21173,7 +21196,12 @@
       "sections": {
         "1": {
           "instructor": "EMRE UĞUR",
-          "schedule": {}
+          "schedule": {
+            "3": "TBA",
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
+          }
         }
       }
     },
@@ -22516,9 +22544,9 @@
         "1": {
           "instructor": "GÖKHAN ÇELİK",
           "schedule": {
-            "0": "Z121",
-            "7": "Z121",
-            "24": "Z121"
+            "24": "Z121",
+            "35": "Z17",
+            "42": "Z17"
           }
         }
       }
@@ -23212,8 +23240,8 @@
           "schedule": {
             "14": "P6",
             "21": "P6",
-            "30": "P1",
-            "37": "P1"
+            "30": "P2",
+            "37": "P2"
           }
         }
       }
@@ -23330,8 +23358,8 @@
         "4": {
           "instructor": "ELİF SEREL YILMAZ KELGÖKMEN",
           "schedule": {
-            "18": "P6",
-            "25": "P6",
+            "18": "P1",
+            "25": "P1",
             "29": "P1"
           }
         }
@@ -32616,9 +32644,9 @@
         "1": {
           "instructor": "ELİF ÖZTÜRK",
           "schedule": {
-            "9": "EFA-33",
-            "16": "EFA-33",
-            "23": "EFA-33"
+            "9": "EFD-103",
+            "16": "EFD-103",
+            "23": "EFD-103"
           }
         }
       }
@@ -32692,9 +32720,9 @@
         "1": {
           "instructor": "ELİF ÖZTÜRK",
           "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA"
+            "35": "EFA-307",
+            "42": "EFA-307",
+            "49": "EFA-307"
           }
         }
       }
@@ -33901,10 +33929,10 @@
         "1": {
           "instructor": "HATİCE ÖZLEM AYDIN ÇİVİ",
           "schedule": {
-            "36": "EA307",
-            "43": "EA307",
-            "45": "EA307",
-            "52": "EA307"
+            "36": "EA207",
+            "43": "EA207",
+            "45": "EA206",
+            "52": "EA206"
           }
         },
         "2": {
@@ -33919,10 +33947,10 @@
         "3": {
           "instructor": "ÖZGÜR SALİH ERGÜL",
           "schedule": {
-            "36": "EA312",
-            "43": "EA312",
-            "45": "EA312",
-            "52": "EA312"
+            "36": "EA211",
+            "43": "EA211",
+            "45": "EA208",
+            "52": "EA208"
           }
         },
         "4": {
@@ -34916,10 +34944,7 @@
           "schedule": {
             "17": "EA202",
             "31": "EA202",
-            "38": "EA202",
-            "45": "EA202",
             "52": "EA202",
-            "59": "EA202",
             "66": "EA202"
           }
         },
@@ -34971,8 +34996,6 @@
           "schedule": {
             "24": "EA206",
             "31": "EA206",
-            "45": "EA206",
-            "52": "EA206",
             "59": "EA206",
             "66": "EA206"
           }
@@ -35010,8 +35033,6 @@
             "1": "EA207",
             "8": "EA207",
             "15": "EA207",
-            "36": "EA207",
-            "43": "EA207",
             "57": "EA207",
             "64": "EA207"
           }
@@ -35085,7 +35106,8 @@
             "17": "EA208",
             "24": "EA208",
             "31": "EA208",
-            "52": "EA208",
+            "38": "EA208",
+            "59": "EA208",
             "66": "EA208"
           }
         },
@@ -35168,8 +35190,6 @@
           "schedule": {
             "1": "EA211",
             "29": "EA211",
-            "36": "EA211",
-            "43": "EA211",
             "57": "EA211",
             "64": "EA211"
           }
@@ -35285,6 +35305,8 @@
             "15": "EA307",
             "22": "EA307",
             "29": "EA307",
+            "36": "EA307",
+            "43": "EA307",
             "50": "EA307",
             "57": "EA307",
             "64": "EA307"
@@ -35307,6 +35329,8 @@
             "24": "EA307",
             "31": "EA307",
             "38": "EA307",
+            "45": "EA307",
+            "52": "EA307",
             "59": "EA307",
             "66": "EA307"
           }
@@ -35389,6 +35413,8 @@
           "schedule": {
             "1": "EA312",
             "29": "EA312",
+            "36": "EA312",
+            "43": "EA312",
             "64": "EA312"
           }
         },
@@ -35405,6 +35431,8 @@
           "schedule": {
             "3": "EA312",
             "31": "EA312",
+            "45": "EA312",
+            "52": "EA312",
             "59": "EA312",
             "66": "EA312"
           }
@@ -35639,9 +35667,9 @@
         "1": {
           "instructor": "TOLGA ÇİLOĞLU",
           "schedule": {
-            "38": "EA208",
-            "45": "EA208",
-            "59": "EA208"
+            "38": "EA202",
+            "45": "EA202",
+            "59": "EA202"
           }
         }
       }
@@ -37652,7 +37680,11 @@
         },
         "2": {
           "instructor": "NURDAN GÜRBÜZ",
-          "schedule": {}
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA"
+          }
         }
       }
     },
@@ -39899,7 +39931,7 @@
           }
         },
         "110": {
-          "instructor": "MELTEM SUBAŞI",
+          "instructor": "HALE ÖYKEN",
           "schedule": {
             "7": "R-45",
             "14": "R-45",
@@ -39908,7 +39940,7 @@
           }
         },
         "111": {
-          "instructor": "MELTEM SUBAŞI",
+          "instructor": "BURCU ŞENER TEKAY",
           "schedule": {
             "4": "MN123",
             "11": "MN123",
@@ -39917,7 +39949,7 @@
           }
         },
         "112": {
-          "instructor": "MELTEM SUBAŞI",
+          "instructor": "GÜLCE ARMAN",
           "schedule": {
             "18": "MN123",
             "25": "MN123",
@@ -48366,6 +48398,8 @@
         "1": {
           "instructor": "AKIN ÇİL",
           "schedule": {
+            "0": "GR126",
+            "7": "GR126",
             "49": "GR303",
             "56": "GR303"
           }
@@ -51811,9 +51845,9 @@
         "1": {
           "instructor": "OĞUZ KOÇ",
           "schedule": {
-            "51": "UME-213",
-            "58": "UME-213",
-            "65": "UME-213"
+            "58": "UME-212",
+            "65": "UME-212",
+            "72": "UME-212"
           }
         }
       }
@@ -51931,19 +51965,6 @@
             "8": "UME-212",
             "15": "UME-212",
             "22": "UME-212"
-          }
-        }
-      }
-    },
-    "IAM 583": {
-      "name": "PENSION FUND MATHEMATICS",
-      "sections": {
-        "1": {
-          "instructor": "AYŞE SEVTAP KESTEL",
-          "schedule": {
-            "10": "UME-213",
-            "17": "UME-213",
-            "24": "UME-213"
           }
         }
       }
@@ -55348,10 +55369,6 @@
             "18": "G104",
             "25": "G104"
           }
-        },
-        "2": {
-          "instructor": "TUNAHAN YILDIZ",
-          "schedule": {}
         }
       }
     },
@@ -62506,6 +62523,10 @@
         "84": {
           "instructor": "NEFİZE SHABAN ALAN",
           "schedule": {}
+        },
+        "85": {
+          "instructor": "HAKAN ERTÜRK",
+          "schedule": {}
         }
       }
     },
@@ -63346,7 +63367,16 @@
       "sections": {
         "1": {
           "instructor": "HÜSNÜ DAL",
-          "schedule": {}
+          "schedule": {
+            "1": "TBA",
+            "8": "TBA",
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "51": "TBA",
+            "56": "TBA",
+            "58": "TBA"
+          }
         }
       }
     },
@@ -63573,6 +63603,15 @@
       "sections": {
         "1": {
           "instructor": "NEFİZE SHABAN ALAN",
+          "schedule": {}
+        }
+      }
+    },
+    "ME 885": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "HAKAN ERTÜRK",
           "schedule": {}
         }
       }
@@ -64013,10 +64052,10 @@
         "1": {
           "instructor": "HÜSNÜ DAL",
           "schedule": {
-            "3": "TBA",
-            "10": "TBA",
-            "17": "TBA",
-            "24": "TBA"
+            "36": "TBA",
+            "43": "TBA",
+            "50": "TBA",
+            "57": "TBA"
           }
         }
       }
@@ -64815,18 +64854,14 @@
           "schedule": {}
         },
         "5": {
-          "instructor": "SİMGE ÇINAR AYGÜN",
-          "schedule": {}
-        },
-        "6": {
           "instructor": "ŞENİZ UÇAR",
           "schedule": {}
         },
-        "7": {
+        "6": {
           "instructor": "YUNUS EREN KALAY",
           "schedule": {}
         },
-        "8": {
+        "7": {
           "instructor": "YUSUF KELEŞTEMUR",
           "schedule": {}
         }
@@ -64873,14 +64908,6 @@
             "30": "MEG101",
             "35": "MEG102",
             "42": "MEG102"
-          }
-        },
-        "6": {
-          "instructor": "STAFF",
-          "schedule": {
-            "30": "MTE308",
-            "35": "MTE308",
-            "42": "MTE308"
           }
         }
       }
@@ -73736,7 +73763,7 @@
           "schedule": {
             "14": "YP-A3",
             "21": "YP-A3",
-            "30": "P2"
+            "30": "P1"
           }
         },
         "2": {
@@ -74066,9 +74093,9 @@
           "instructor": "İSMAİL RAFATOV",
           "schedule": {
             "16": "P5",
-            "18": "P1",
+            "18": "P6",
             "23": "P5",
-            "25": "P1"
+            "25": "P6"
           }
         }
       }
@@ -74204,9 +74231,9 @@
           "schedule": {
             "28": "P1",
             "36": "P1",
-            "37": "P2",
+            "37": "P1",
             "43": "P1",
-            "44": "P2"
+            "44": "P1"
           }
         }
       }
@@ -74567,12 +74594,7 @@
         },
         "6": {
           "instructor": "STAFF",
-          "schedule": {
-            "29": "YP-A3",
-            "45": "YP-A3",
-            "52": "YP-A3",
-            "59": "YP-A3"
-          }
+          "schedule": {}
         },
         "7": {
           "instructor": "ENVER BULUR",
@@ -74581,25 +74603,16 @@
         "8": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "P2",
-            "1": "F14",
-            "7": "P2",
-            "8": "F14",
-            "15": "F14",
-            "22": "F14",
-            "31": "G204",
-            "35": "F14",
-            "42": "F14",
-            "49": "F14",
-            "56": "F14"
+            "38": "YP-D003",
+            "45": "YP-D003",
+            "52": "YP-D003",
+            "59": "YP-D003"
           }
         },
         "9": {
           "instructor": "STAFF",
           "schedule": {
-            "15": "F17",
             "17": "G204",
-            "22": "F17",
             "24": "G204",
             "31": "YP-A2",
             "35": "M105",
@@ -74615,10 +74628,6 @@
         "10": {
           "instructor": "STAFF",
           "schedule": {
-            "1": "YP-D203",
-            "4": "YP-A3",
-            "8": "YP-D203",
-            "11": "YP-A3",
             "29": "P4",
             "32": "YP-A3",
             "36": "P4",
@@ -74670,9 +74679,7 @@
         "18": {
           "instructor": "STAFF",
           "schedule": {
-            "32": "B205-A",
-            "50": "U1",
-            "57": "U1"
+            "32": "B205-A"
           }
         },
         "19": {
@@ -74846,10 +74853,7 @@
         },
         "56": {
           "instructor": "STAFF",
-          "schedule": {
-            "0": "YP-D003",
-            "7": "YP-D003"
-          }
+          "schedule": {}
         },
         "57": {
           "instructor": "HANDE TOFFOLİ",
@@ -76315,6 +76319,15 @@
             "53": "TBA",
             "60": "TBA"
           }
+        }
+      }
+    },
+    "PSIR 400": {
+      "name": "GRADUATION PROJECT",
+      "sections": {
+        "1": {
+          "instructor": "NİLAY ÜRESİN",
+          "schedule": {}
         }
       }
     },
@@ -82220,7 +82233,7 @@
       "name": "SEMINAR I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP IŞIL KALAYLIOĞLU AKYILDIZ",
           "schedule": {}
         }
       }
@@ -82229,7 +82242,7 @@
       "name": "SEMINAR II",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ZEYNEP IŞIL KALAYLIOĞLU AKYILDIZ",
           "schedule": {}
         }
       }
@@ -82981,9 +82994,9 @@
         "1": {
           "instructor": "BURÇİN KAĞITCI YILDIZ",
           "schedule": {
-            "3": "EFB-18",
-            "10": "EFB-18",
-            "17": "EFB-18"
+            "10": "EFB-19A",
+            "17": "EFB-19A",
+            "24": "EFB-19A"
           }
         }
       }
@@ -83628,7 +83641,7 @@
       }
     },
     "TKPR 227": {
-      "name": "MTH227- APPLIED NATURAL LANGUAGE PROCESSING",
+      "name": "MTH227-APPLIED NATURAL LANGUAGE PROCESSING",
       "sections": {
         "1": {
           "instructor": "BATUHAN BARDAK",
@@ -83654,7 +83667,7 @@
       }
     },
     "TKPR 229": {
-      "name": "MTH229 - ASTROPOLITICS: COMPARATIVE SPACE POLICIES",
+      "name": "MTH229-ASTROPOLITICS: COMPARATIVE SPACE POLICIES",
       "sections": {
         "1": {
           "instructor": "ÖMER FURKAN KESİKBAŞ",
@@ -83668,7 +83681,7 @@
       }
     },
     "TKPR 233": {
-      "name": "MTH233 - MANAGEMENT INFORMATION SYSTEMS: MISSION-CRITICAL INFORMATION SYSTEMS IN THE DEFENSE INDUSTRY",
+      "name": "MTH233-MANAGEMENT INFORMATION SYSTEMS: MISSION-CRITICAL INFORMATION SYSTEMS IN THE DEFENSE INDUSTRY",
       "sections": {
         "1": {
           "instructor": "HACI ALİ DURU",

@@ -1,5 +1,50 @@
 # Course Offerings Changelog
 
+## 2026-10-08 15:07 +0300 - 2026-2027 Fall (20261)
+
+19 departments: +2 added, -1 removed, 35 changed
+
+### AIX
+- Changed (1): AIX 7863
+### BIOL
+- Changed (1): BIOL 404
+### CENG
+- Changed (5): CENG 803, CENG 806, CENG 808, CENG 816, CENG 822
+### CHE
+- Changed (1): CHE 511
+### CHEM
+- Changed (2): CHEM 101, CHEM 111
+### EDS
+- Changed (2): EDS 502, EDS 536
+### EE
+- Changed (3): EE 303, EE 500, EE 503
+### EFL
+- Changed (1): EFL 123
+### ENG
+- Changed (1): ENG 101
+### GEOE
+- Changed (1): GEOE 533
+### IAM
+- Removed (1): IAM 583
+- Changed (1): IAM 530
+### IR
+- Changed (1): IR 227
+### ME
+- Added (1): ME 885
+- Changed (3): ME 500, ME 867, ME 967
+### METE
+- Changed (2): METE 215, METE 230
+### PHYS
+- Changed (4): PHYS 105, PHYS 209, PHYS 331, PHYS 500
+### PSIR
+- Added (1): PSIR 400
+### STAT
+- Changed (2): STAT 542, STAT 543
+### TEFL
+- Changed (1): TEFL 173
+### TKPR
+- Changed (3): TKPR 227, TKPR 229, TKPR 233
+
 ## 2026-10-07 22:27 +0300 - 2026-2027 Fall (20261)
 
 6 departments: +0 added, -0 removed, 8 changed
