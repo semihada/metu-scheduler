@@ -1,5 +1,45 @@
 # Course Offerings Changelog
 
+## 2026-10-09 15:00 +0300 - 2026-2027 Fall (20261)
+
+17 departments: +2 added, -8 removed, 17 changed
+
+### ARS
+- Changed (1): ARS 699
+### BIN
+- Changed (2): BIN 599, BIN 807
+### CE
+- Removed (2): CE 562, CE 595
+### CENG
+- Changed (1): CENG 831
+### CHE
+- Changed (1): CHE 327
+### CHEM
+- Changed (2): CHEM 495, CHEM 555
+### CHME
+- Removed (4): CHME 203, CHME 204, CHME 300, CHME 323
+### DDS
+- Changed (1): DDS 809
+### ECON
+- Changed (1): ECON 502
+### EDS
+- Changed (2): EDS 599, EDS 832
+### ID
+- Removed (1): ID 437
+### PHIL
+- Added (1): PHIL 924
+- Changed (1): PHIL 699
+### PHYS
+- Changed (2): PHYS 569, PHYS 815
+### RP
+- Removed (1): RP 501
+### SNG
+- Changed (2): SNG 300, SNG 400
+### SOC
+- Changed (1): SOC 500
+### TURK
+- Added (1): TURK 106
+
 ## 2026-10-08 22:23 +0300 - 2026-2027 Fall (20261)
 
 6 departments: +2 added, -4 removed, 4 changed

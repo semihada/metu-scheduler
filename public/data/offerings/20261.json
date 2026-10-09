@@ -6688,6 +6688,10 @@
             "0": "TBA",
             "7": "TBA"
           }
+        },
+        "15": {
+          "instructor": "BAŞAK ZEYNEP ALPAN",
+          "schedule": {}
         }
       }
     },
@@ -11414,7 +11418,7 @@
           "schedule": {}
         },
         "7": {
-          "instructor": "STAFF",
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
           "schedule": {}
         },
         "8": {
@@ -11521,8 +11525,13 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
+          "schedule": {
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA",
+            "31": "TBA"
+          }
         }
       }
     },
@@ -17425,15 +17434,6 @@
         }
       }
     },
-    "CE 562": {
-      "name": "APPLICATIONS OF GEOSYNTHETICS",
-      "sections": {
-        "1": {
-          "instructor": "ONUR PEKCAN",
-          "schedule": {}
-        }
-      }
-    },
     "CE 563": {
       "name": "ADVANCED SOIL MECHANICS I",
       "sections": {
@@ -17513,15 +17513,6 @@
       "sections": {
         "1": {
           "instructor": "AHMET CEVDET YALÇINER",
-          "schedule": {}
-        }
-      }
-    },
-    "CE 595": {
-      "name": "COASTAL SEDIMENTATION",
-      "sections": {
-        "1": {
-          "instructor": "IŞIKHAN GÜLER",
           "schedule": {}
         }
       }
@@ -21307,12 +21298,7 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA",
-            "56": "TBA"
-          }
+          "schedule": {}
         }
       }
     },
@@ -22033,10 +22019,10 @@
         "1": {
           "instructor": "BAHAR İPEK TORUN",
           "schedule": {
-            "14": "Z17",
-            "17": "Z14",
-            "21": "Z17",
-            "24": "Z14"
+            "14": "Z116",
+            "17": "Z118",
+            "21": "Z116",
+            "24": "Z118"
           }
         },
         "2": {
@@ -23920,7 +23906,7 @@
           "schedule": {
             "1": "K07",
             "8": "K07",
-            "52": "K07"
+            "52": "K06"
           }
         }
       }
@@ -24134,9 +24120,9 @@
         "1": {
           "instructor": "OKAN ESENTÜRK",
           "schedule": {
-            "43": "K07",
-            "50": "K07",
-            "57": "K07"
+            "45": "K07",
+            "52": "K07",
+            "59": "K07"
           }
         }
       }
@@ -25458,33 +25444,6 @@
     }
   },
   "CHME": {
-    "CHME 203": {
-      "name": "CHEMICAL PROCESS CALCULATIONS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
-    "CHME 204": {
-      "name": "THERMODYNAMICS I",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
-    "CHME 300": {
-      "name": "SUMMER PRACTICE I",
-      "sections": {
-        "1": {
-          "instructor": "MEHMET SALİH OKAYGÜN",
-          "schedule": {}
-        }
-      }
-    },
     "CHME 305": {
       "name": "THERMODYNAMICS II",
       "sections": {
@@ -25510,15 +25469,6 @@
             "21": "TBA",
             "31": "TBA"
           }
-        }
-      }
-    },
-    "CHME 323": {
-      "name": "FLUID MECHANICS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -29584,7 +29534,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "SEÇİL SAVAŞANERİL TÜFEKCİ",
+          "instructor": "MEHMET HAKAN AKYÜZ",
           "schedule": {}
         }
       }
@@ -31297,8 +31247,8 @@
         "1": {
           "instructor": "EBRU VOYVODA",
           "schedule": {
-            "32": "F-104",
-            "39": "F-104",
+            "32": "F-106",
+            "39": "F-106",
             "51": "FZ14",
             "58": "FZ14"
           }
@@ -32837,7 +32787,7 @@
           "schedule": {}
         },
         "8": {
-          "instructor": "STAFF",
+          "instructor": "OYA GÜNERİ",
           "schedule": {}
         },
         "9": {
@@ -33117,7 +33067,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "OYA GÜNERİ",
           "schedule": {}
         }
       }
@@ -52973,20 +52923,6 @@
             "46": "ST32",
             "53": "ST32",
             "60": "ST32"
-          }
-        }
-      }
-    },
-    "ID 437": {
-      "name": "THE NEW OFFICE",
-      "sections": {
-        "1": {
-          "instructor": "YAPRAK ÇAKIN",
-          "schedule": {
-            "36": "R207",
-            "43": "R207",
-            "50": "R207",
-            "57": "R207"
           }
         }
       }
@@ -73245,6 +73181,10 @@
         "20": {
           "instructor": "MAJID DAVOODY BENI",
           "schedule": {}
+        },
+        "21": {
+          "instructor": "KORAY KARACA",
+          "schedule": {}
         }
       }
     },
@@ -73600,6 +73540,15 @@
       "sections": {
         "1": {
           "instructor": "JAMES EDMOND CARR GRIFFITH",
+          "schedule": {}
+        }
+      }
+    },
+    "PHIL 924": {
+      "name": "SPECIAL TOPICS",
+      "sections": {
+        "1": {
+          "instructor": "KORAY KARACA",
           "schedule": {}
         }
       }
@@ -75021,9 +74970,9 @@
         "1": {
           "instructor": "SERHAT ÇAKIR",
           "schedule": {
-            "35": "P7",
-            "42": "P7",
-            "49": "P7"
+            "35": "P-421",
+            "42": "P-421",
+            "49": "P-421"
           }
         }
       }
@@ -75258,16 +75207,11 @@
             "18": "P-436",
             "21": "P-421",
             "25": "P-436",
-            "28": "P-421",
             "32": "P-436",
-            "35": "P-421",
             "39": "P-436",
-            "42": "P-421",
             "46": "P-436",
-            "49": "P-421",
             "51": "U2",
             "53": "P-436",
-            "56": "P-421",
             "58": "U2",
             "60": "P-436"
           }
@@ -79494,15 +79438,6 @@
           "schedule": {}
         }
       }
-    },
-    "RP 501": {
-      "name": "REGIONAL PLANNING STUDIO I",
-      "sections": {
-        "1": {
-          "instructor": "MENELAOS GKARTZIOS",
-          "schedule": {}
-        }
-      }
     }
   },
   "RUS": {},
@@ -80492,7 +80427,7 @@
       "name": "SUMMER PRACTICE I",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "PAULİUS DİLKAS",
           "schedule": {}
         }
       }
@@ -80523,7 +80458,7 @@
       "name": "SUMMER PRACTICE II",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "PAULİUS DİLKAS",
           "schedule": {}
         }
       }
@@ -80906,9 +80841,9 @@
         "1": {
           "instructor": "HATİCE AYŞE HOŞGÖR",
           "schedule": {
-            "11": "B07",
-            "18": "B07",
-            "25": "B07"
+            "11": "B202",
+            "18": "B202",
+            "25": "B202"
           }
         }
       }
@@ -84028,6 +83963,15 @@
             "23": "YP-D107",
             "25": "YP-D106"
           }
+        }
+      }
+    },
+    "TURK 106": {
+      "name": "TURKISH II",
+      "sections": {
+        "1": {
+          "instructor": "ESRA DARICI",
+          "schedule": {}
         }
       }
     },
