@@ -88,8 +88,19 @@ const CourseSelector = ({ offerings, selectedCourses, onChange }) => {
     return matches;
   };
 
+  // Searching opens every group so matches are visible, but a group the user
+  // has clicked is theirs to decide - otherwise folding during a search does
+  // nothing.
+  const isExpanded = (choices, key) =>
+    Object.prototype.hasOwnProperty.call(choices, key)
+      ? !!choices[key]
+      : isSearching;
+
+  // Flip what is on screen, not what was last stored: a group opened by the
+  // search has no stored value yet, so looking only at the map would expand it
+  // again on the first click instead of folding it.
   const toggle = (setter, key) =>
-    setter((previous) => ({ ...previous, [key]: !previous[key] }));
+    setter((previous) => ({ ...previous, [key]: !isExpanded(previous, key) }));
 
   const renderGroup = ({ key, group, children }) => {
     const departmentChildren = {};
@@ -105,7 +116,7 @@ const CourseSelector = ({ offerings, selectedCourses, onChange }) => {
       departmentChildren[department].push(child);
     });
 
-    const facultyExpanded = isSearching || expandedFaculties[group];
+    const facultyExpanded = isExpanded(expandedFaculties, group);
 
     return (
       <li key={key} className="course-faculty">
@@ -123,7 +134,10 @@ const CourseSelector = ({ offerings, selectedCourses, onChange }) => {
           <ul className="course-departments">
             {Object.entries(departmentChildren).map(([department, options]) => {
               const departmentKey = `${group}:${department}`;
-              const departmentExpanded = isSearching || expandedDepartments[departmentKey];
+              const departmentExpanded = isExpanded(
+                expandedDepartments,
+                departmentKey
+              );
               return (
                 <li key={departmentKey} className="course-department">
                   <button
