@@ -77893,7 +77893,9 @@
         "1": {
           "instructor": "BAŞAK ŞAHİN ACAR",
           "schedule": {
-            "31": "B102"
+            "31": "B102",
+            "38": "B102",
+            "45": "B205-A"
           }
         }
       }
@@ -78219,10 +78221,7 @@
       "sections": {
         "1": {
           "instructor": "BANU CİNGÖZ ULU",
-          "schedule": {
-            "25": "B206",
-            "32": "B206"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78285,9 +78284,10 @@
         "1": {
           "instructor": "BAŞAK ŞAHİN ACAR",
           "schedule": {
-            "4": "B206",
             "11": "B206",
-            "18": "B206"
+            "18": "B206",
+            "25": "B206",
+            "32": "B206"
           }
         }
       }
@@ -78414,7 +78414,10 @@
       "sections": {
         "1": {
           "instructor": "ÖZLEM BOZO",
-          "schedule": {}
+          "schedule": {
+            "53": "B104",
+            "60": "B104"
+          }
         }
       }
     },
@@ -78477,12 +78480,7 @@
       "sections": {
         "1": {
           "instructor": "BAŞAK ŞAHİN ACAR",
-          "schedule": {
-            "8": "B205-A",
-            "15": "B205-A",
-            "22": "B205-A",
-            "29": "B205-A"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78491,7 +78489,12 @@
       "sections": {
         "1": {
           "instructor": "DENİZ CANEL",
-          "schedule": {}
+          "schedule": {
+            "8": "B205-A",
+            "15": "B205-A",
+            "22": "B205-A",
+            "29": "B205-A"
+          }
         }
       }
     },
