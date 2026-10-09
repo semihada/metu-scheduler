@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-10-09 18:41 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +0 added, -0 removed, 3 changed
+
+### MATH
+- Changed (1): MATH 117
+### PHYS
+- Changed (2): PHYS 105, PHYS 109
+
 ## 2026-10-09 15:00 +0300 - 2026-2027 Fall (20261)
 
 17 departments: +2 added, -8 removed, 17 changed
