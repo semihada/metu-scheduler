@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-10-10 19:22 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 2 changed
+
+### MATH
+- Changed (2): MATH 117, MATH 219
+
 ## 2026-10-09 21:55 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 6 changed
