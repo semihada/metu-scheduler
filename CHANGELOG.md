@@ -1,5 +1,28 @@
 # Course Offerings Changelog
 
+## 2026-10-12 13:25 +0300 - 2026-2027 Fall (20261)
+
+9 departments: +0 added, -0 removed, 37 changed
+
+### BIN
+- Changed (2): BIN 801, BIN 802
+### CENG
+- Changed (24): CENG 491, CENG 802, CENG 803, CENG 804, CENG 805, CENG 806, CENG 808, CENG 810, CENG 812, CENG 813, CENG 816, CENG 817, CENG 818, CENG 819, CENG 820, CENG 822, CENG 823, CENG 825, CENG 826, CENG 833, CENG 834, CENG 835, CENG 930, CENG 932
+### COGS
+- Changed (3): COGS 805, COGS 810, COGS 905
+### ELT
+- Changed (1): ELT 933
+### IS
+- Changed (2): IS 502, IS 916
+### METE
+- Changed (1): METE 215
+### MI
+- Changed (1): MI 903
+### PES
+- Changed (2): PES 807, PES 907
+### TURK
+- Changed (1): TURK 318
+
 ## 2026-10-10 19:22 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 2 changed

@@ -11462,7 +11462,12 @@
       "sections": {
         "1": {
           "instructor": "YEŞİM AYDIN SON",
-          "schedule": {}
+          "schedule": {
+            "7": "TBA",
+            "14": "TBA",
+            "21": "TBA",
+            "28": "TBA"
+          }
         }
       }
     },
@@ -11471,7 +11476,12 @@
       "sections": {
         "1": {
           "instructor": "AYBAR CAN ACAR",
-          "schedule": {}
+          "schedule": {
+            "1": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA"
+          }
         }
       }
     },
@@ -20272,16 +20282,25 @@
           }
         },
         "3": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "AHMET OĞUZ AKYÜZ",
+          "schedule": {
+            "37": "TBA",
+            "44": "TBA"
+          }
         },
         "4": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "SİNAN KALKAN",
+          "schedule": {
+            "51": "TBA",
+            "58": "TBA"
+          }
         },
         "5": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "SİNAN KALKAN",
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA"
+          }
         },
         "6": {
           "instructor": "STAFF",
@@ -20938,6 +20957,8 @@
         "1": {
           "instructor": "AHMET OĞUZ AKYÜZ",
           "schedule": {
+            "8": "TBA",
+            "15": "TBA",
             "35": "TBA",
             "42": "TBA",
             "49": "TBA",
@@ -20954,6 +20975,7 @@
           "schedule": {
             "35": "TBA",
             "42": "TBA",
+            "45": "TBA",
             "49": "TBA",
             "56": "TBA"
           }
@@ -20966,7 +20988,9 @@
         "1": {
           "instructor": "MURAT MANGUOĞLU",
           "schedule": {
+            "1": "TBA",
             "4": "TBA",
+            "8": "TBA",
             "11": "TBA",
             "18": "TBA",
             "25": "TBA"
@@ -20983,7 +21007,9 @@
             "4": "TBA",
             "11": "TBA",
             "18": "TBA",
-            "25": "TBA"
+            "25": "TBA",
+            "36": "TBA",
+            "43": "TBA"
           }
         }
       }
@@ -20996,6 +21022,7 @@
           "schedule": {
             "35": "TBA",
             "42": "TBA",
+            "43": "TBA",
             "49": "TBA",
             "56": "TBA"
           }
@@ -21020,7 +21047,9 @@
             "0": "TBA",
             "7": "TBA",
             "14": "TBA",
-            "21": "TBA"
+            "21": "TBA",
+            "53": "TBA",
+            "60": "TBA"
           }
         }
       }
@@ -21040,6 +21069,8 @@
         "1": {
           "instructor": "ERTAN ONUR",
           "schedule": {
+            "17": "TBA",
+            "24": "TBA",
             "35": "TBA",
             "42": "TBA",
             "49": "TBA",
@@ -21063,6 +21094,8 @@
         "1": {
           "instructor": "YUSUF SAHİLLİOĞLU",
           "schedule": {
+            "0": "TBA",
+            "7": "TBA",
             "39": "TBA",
             "46": "TBA",
             "53": "TBA",
@@ -21079,6 +21112,7 @@
           "schedule": {
             "1": "TBA",
             "8": "TBA",
+            "10": "TBA",
             "15": "TBA",
             "22": "TBA"
           }
@@ -21112,7 +21146,9 @@
             "4": "TBA",
             "11": "TBA",
             "18": "TBA",
-            "25": "TBA"
+            "25": "TBA",
+            "39": "TBA",
+            "46": "TBA"
           }
         }
       }
@@ -21126,7 +21162,9 @@
             "1": "TBA",
             "8": "TBA",
             "15": "TBA",
-            "22": "TBA"
+            "22": "TBA",
+            "49": "TBA",
+            "56": "TBA"
           }
         }
       }
@@ -21140,7 +21178,9 @@
             "3": "TBA",
             "10": "TBA",
             "17": "TBA",
-            "24": "TBA"
+            "18": "TBA",
+            "24": "TBA",
+            "25": "TBA"
           }
         }
       }
@@ -21154,7 +21194,9 @@
             "4": "TBA",
             "11": "TBA",
             "18": "TBA",
-            "25": "TBA"
+            "25": "TBA",
+            "35": "TBA",
+            "42": "TBA"
           }
         }
       }
@@ -21165,6 +21207,8 @@
         "1": {
           "instructor": "FERDA NUR ALPASLAN",
           "schedule": {
+            "0": "TBA",
+            "7": "TBA",
             "37": "TBA",
             "44": "TBA",
             "51": "TBA",
@@ -21190,7 +21234,9 @@
           "schedule": {
             "3": "TBA",
             "10": "TBA",
+            "16": "TBA",
             "17": "TBA",
+            "23": "TBA",
             "24": "TBA"
           }
         }
@@ -21205,7 +21251,9 @@
             "4": "TBA",
             "11": "TBA",
             "18": "TBA",
-            "25": "TBA"
+            "25": "TBA",
+            "51": "TBA",
+            "58": "TBA"
           }
         }
       }
@@ -21226,7 +21274,9 @@
           "instructor": "FEHİME NİHAN ÇİÇEKLİ",
           "schedule": {
             "0": "TBA",
+            "3": "TBA",
             "7": "TBA",
+            "10": "TBA",
             "14": "TBA",
             "21": "TBA"
           }
@@ -21241,7 +21291,9 @@
           "schedule": {
             "39": "TBA",
             "46": "TBA",
+            "50": "TBA",
             "53": "TBA",
+            "57": "TBA",
             "60": "TBA"
           }
         }
@@ -21322,6 +21374,8 @@
         "1": {
           "instructor": "PELİN ANGIN ÜLKÜER",
           "schedule": {
+            "0": "TBA",
+            "7": "TBA",
             "38": "TBA",
             "45": "TBA",
             "52": "TBA",
@@ -21339,7 +21393,9 @@
             "35": "TBA",
             "42": "TBA",
             "49": "TBA",
-            "56": "TBA"
+            "50": "TBA",
+            "56": "TBA",
+            "57": "TBA"
           }
         }
       }
@@ -21353,7 +21409,9 @@
             "22": "TBA",
             "29": "TBA",
             "49": "BMB2",
-            "56": "BMB2"
+            "51": "TBA",
+            "56": "BMB2",
+            "58": "TBA"
           }
         }
       }
@@ -21685,7 +21743,9 @@
         "1": {
           "instructor": "İSMAİL SENGÖR ALTINGÖVDE",
           "schedule": {
+            "0": "TBA",
             "2": "TBA",
+            "7": "TBA",
             "9": "TBA",
             "16": "TBA",
             "23": "TBA"
@@ -21713,7 +21773,9 @@
         "1": {
           "instructor": "EMRE AKBAŞ",
           "schedule": {
+            "0": "TBA",
             "2": "TBA",
+            "7": "TBA",
             "9": "TBA",
             "16": "TBA",
             "23": "TBA"
@@ -26765,7 +26827,12 @@
       "sections": {
         "1": {
           "instructor": "MURAT PERİT ÇAKIR",
-          "schedule": {}
+          "schedule": {
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA",
+            "30": "TBA"
+          }
         }
       }
     },
@@ -26810,7 +26877,12 @@
       "sections": {
         "1": {
           "instructor": "GÖKHAN GÖNÜL",
-          "schedule": {}
+          "schedule": {
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA",
+            "29": "TBA"
+          }
         }
       }
     },
@@ -26914,7 +26986,12 @@
       "sections": {
         "1": {
           "instructor": "MURAT PERİT ÇAKIR",
-          "schedule": {}
+          "schedule": {
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA",
+            "31": "TBA"
+          }
         }
       }
     },
@@ -38700,14 +38777,7 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {
-            "42": "EFD-11",
-            "43": "EFD-11",
-            "49": "EFD-11",
-            "50": "EFD-11",
-            "56": "EFD-11",
-            "57": "EFD-11"
-          }
+          "schedule": {}
         }
       }
     }
@@ -56524,7 +56594,7 @@
       "name": "INFORMATION SYSTEMS PROJECT",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "SELİN GÖKALP",
           "schedule": {
             "10": "II-06",
             "17": "II-06",
@@ -57405,7 +57475,12 @@
       "sections": {
         "1": {
           "instructor": "AYBAR CAN ACAR",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA"
+          }
         }
       }
     },
@@ -64753,11 +64828,17 @@
         },
         "2": {
           "instructor": "CEVDET KAYNAK",
-          "schedule": {}
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA"
+          }
         },
         "3": {
           "instructor": "ÇİĞDEM TOPARLI",
-          "schedule": {}
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA"
+          }
         },
         "4": {
           "instructor": "MEHMET KADRİ AYDINOL",
@@ -64765,15 +64846,24 @@
         },
         "5": {
           "instructor": "ŞENİZ UÇAR",
-          "schedule": {}
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA"
+          }
         },
         "6": {
           "instructor": "YUNUS EREN KALAY",
-          "schedule": {}
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA"
+          }
         },
         "7": {
           "instructor": "YUSUF KELEŞTEMUR",
-          "schedule": {}
+          "schedule": {
+            "38": "TBA",
+            "45": "TBA"
+          }
         }
       }
     },
@@ -66607,7 +66697,12 @@
       "sections": {
         "1": {
           "instructor": "YEŞİM AYDIN SON",
-          "schedule": {}
+          "schedule": {
+            "36": "TBA",
+            "43": "TBA",
+            "50": "TBA",
+            "57": "TBA"
+          }
         }
       }
     },
@@ -71701,7 +71796,14 @@
       "sections": {
         "1": {
           "instructor": "MUSTAFA LEVENT İNCE",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "3": "TBA",
+            "7": "TBA",
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
+          }
         }
       }
     },
@@ -71742,7 +71844,12 @@
       "sections": {
         "1": {
           "instructor": "MUSTAFA LEVENT İNCE",
-          "schedule": {}
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         }
       }
     },
@@ -84557,9 +84664,9 @@
         "1": {
           "instructor": "BÜLENT TEKİN",
           "schedule": {
-            "22": "TBA",
-            "29": "TBA",
-            "36": "TBA"
+            "22": "MTB309",
+            "29": "MTB309",
+            "36": "MTB309"
           }
         }
       }
