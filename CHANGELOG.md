@@ -1,5 +1,32 @@
 # Course Offerings Changelog
 
+## 2026-10-13 13:15 +0300 - 2026-2027 Fall (20261)
+
+11 departments: +0 added, -1 removed, 17 changed
+
+### BASE
+- Changed (1): BASE 901
+### CE
+- Changed (1): CE 241
+### CENG
+- Changed (1): CENG 491
+### CHE
+- Changed (1): CHE 410
+### EE
+- Changed (4): EE 303, EE 313, EE 361, EE 500
+### FREN
+- Changed (1): FREN 204
+### HIST
+- Removed (1): HIST 320
+### METE
+- Changed (1): METE 230
+### MSE
+- Changed (2): MSE 341, MSE 409
+### PERS
+- Changed (1): PERS 201
+### PHYS
+- Changed (4): PHYS 500, PHYS 504, PHYS 569, PHYS 801
+
 ## 2026-10-12 13:25 +0300 - 2026-2027 Fall (20261)
 
 9 departments: +0 added, -0 removed, 37 changed
