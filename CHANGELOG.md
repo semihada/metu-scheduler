@@ -1,5 +1,25 @@
 # Course Offerings Changelog
 
+## 2026-10-14 11:32 +0300 - 2026-2027 Fall (20261)
+
+7 departments: +1 added, -1 removed, 12 changed
+
+### EE
+- Changed (2): EE 500, EE 510
+### MECH
+- Removed (1): MECH 501
+### MI
+- Changed (5): MI 589, MI 599, MI 699, MI 807, MI 907
+### MSE
+- Added (1): MSE 820
+- Changed (2): MSE 500, MSE 808
+### PSY
+- Changed (1): PSY 8019
+### TEFL
+- Changed (1): TEFL 175
+### TURK
+- Changed (1): TURK 103
+
 ## 2026-10-13 13:15 +0300 - 2026-2027 Fall (20261)
 
 11 departments: +0 added, -1 removed, 17 changed

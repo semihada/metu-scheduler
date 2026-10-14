@@ -34940,7 +34940,6 @@
         "82": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "EA202",
             "7": "EA202",
             "14": "EA202",
             "49": "EA202",
@@ -34963,8 +34962,6 @@
         "84": {
           "instructor": "STAFF",
           "schedule": {
-            "2": "EA202",
-            "9": "EA202",
             "16": "EA202",
             "23": "EA202",
             "30": "EA202",
@@ -35558,6 +35555,7 @@
         "141": {
           "instructor": "STAFF",
           "schedule": {
+            "0": "D135",
             "7": "D135",
             "14": "D135",
             "21": "D135",
@@ -35583,6 +35581,8 @@
         "143": {
           "instructor": "STAFF",
           "schedule": {
+            "2": "D135",
+            "9": "D135",
             "16": "D135",
             "23": "D135",
             "30": "D135",
@@ -35715,9 +35715,9 @@
         "1": {
           "instructor": "HALUK KÜLAH",
           "schedule": {
-            "0": "D135",
-            "2": "D135",
-            "9": "D135"
+            "0": "EA202",
+            "2": "EA202",
+            "9": "EA202"
           }
         }
       }
@@ -64504,19 +64504,6 @@
         }
       }
     },
-    "MECH 501": {
-      "name": "NUMERICAL METHODS IN ME I",
-      "sections": {
-        "1": {
-          "instructor": "GEORGY KITAVTSEV",
-          "schedule": {
-            "9": "TBA",
-            "16": "TBA",
-            "23": "TBA"
-          }
-        }
-      }
-    },
     "MECH 514": {
       "name": "ADVANCED SOLAR ENERGY UTILIZATION",
       "sections": {
@@ -66261,7 +66248,7 @@
           "schedule": {}
         },
         "7": {
-          "instructor": "STAFF",
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
           "schedule": {}
         },
         "8": {
@@ -66326,7 +66313,7 @@
           "schedule": {}
         },
         "7": {
-          "instructor": "VİLDA PURUTÇUOĞLU",
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
           "schedule": {}
         },
         "8": {
@@ -66419,7 +66406,7 @@
           "schedule": {}
         },
         "7": {
-          "instructor": "VİLDA PURUTÇUOĞLU",
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
           "schedule": {}
         },
         "8": {
@@ -66542,7 +66529,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "VİLDA PURUTÇUOĞLU",
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
           "schedule": {}
         }
       }
@@ -66750,7 +66737,7 @@
       "name": "ADVANCED STUDIES",
       "sections": {
         "1": {
-          "instructor": "VİLDA PURUTÇUOĞLU",
+          "instructor": "HANDAN MELİKE DÖNERTAŞ",
           "schedule": {}
         }
       }
@@ -69503,6 +69490,10 @@
         "26": {
           "instructor": "SİBEL KAZAK",
           "schedule": {}
+        },
+        "27": {
+          "instructor": "SAFURE BULUT",
+          "schedule": {}
         }
       }
     },
@@ -69892,7 +69883,12 @@
       "sections": {
         "1": {
           "instructor": "ELVAN ŞAHİN",
-          "schedule": {}
+          "schedule": {
+            "36": "EFD-206",
+            "38": "EFA-30",
+            "43": "EFD-206",
+            "45": "EFA-30"
+          }
         }
       }
     },
@@ -69973,6 +69969,15 @@
       "sections": {
         "1": {
           "instructor": "ÖZGÜL YILMAZ TÜZÜN",
+          "schedule": {}
+        }
+      }
+    },
+    "MSE 820": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "SAFURE BULUT",
           "schedule": {}
         }
       }
@@ -78441,7 +78446,11 @@
       "sections": {
         "1": {
           "instructor": "CEREN GÜRDERE",
-          "schedule": {}
+          "schedule": {
+            "39": "B205-B",
+            "46": "B205-B",
+            "53": "B205-B"
+          }
         }
       }
     },
@@ -82987,9 +82996,9 @@
         "1": {
           "instructor": "BETİL ERÖZ",
           "schedule": {
-            "21": "EFD-102",
-            "28": "EFD-102",
-            "35": "EFD-102"
+            "21": "EFD-203",
+            "28": "EFD-203",
+            "35": "EFD-203"
           }
         }
       }
@@ -83999,8 +84008,8 @@
         "3": {
           "instructor": "BANU BAŞER",
           "schedule": {
-            "36": "EFA-32",
-            "43": "EFA-32"
+            "36": "EFD-103",
+            "43": "EFD-103"
           }
         },
         "4": {
