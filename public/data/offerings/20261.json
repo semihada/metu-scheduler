@@ -7360,7 +7360,7 @@
       "name": "FINANCIAL ACCOUNTING",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT TİNİÇ",
           "schedule": {
             "14": "G110",
             "16": "G110",
@@ -26423,6 +26423,15 @@
         }
       }
     },
+    "CNG 592": {
+      "name": "RESEARCH METHODS AND ETHICS",
+      "sections": {
+        "1": {
+          "instructor": "ŞÜKRÜ ERASLAN",
+          "schedule": {}
+        }
+      }
+    },
     "CNG 798": {
       "name": "SPECIAL TOPICS IN COMPUTER ENGINEERING: QUANTUM COMPUTING",
       "sections": {
@@ -32333,7 +32342,12 @@
       "sections": {
         "1": {
           "instructor": "PINAR DERİN GÜRE",
-          "schedule": {}
+          "schedule": {
+            "39": "TBA",
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA"
+          }
         }
       }
     },
@@ -32342,7 +32356,12 @@
       "sections": {
         "1": {
           "instructor": "EREN GÜRER",
-          "schedule": {}
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         }
       }
     },
@@ -32352,10 +32371,10 @@
         "1": {
           "instructor": "HAKAN ERCAN",
           "schedule": {
-            "3": "TBA",
             "4": "TBA",
             "11": "TBA",
-            "18": "TBA"
+            "18": "TBA",
+            "25": "TBA"
           }
         }
       }
@@ -32365,7 +32384,12 @@
       "sections": {
         "1": {
           "instructor": "ESMA GAYGISIZ LAJUNEN",
-          "schedule": {}
+          "schedule": {
+            "3": "TBA",
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
+          }
         }
       }
     },
@@ -32388,7 +32412,12 @@
       "sections": {
         "1": {
           "instructor": "SERAP AŞIK",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA"
+          }
         }
       }
     },
@@ -32398,10 +32427,10 @@
         "1": {
           "instructor": "İLHAN CAN ÖZEN",
           "schedule": {
-            "28": "TBA",
             "29": "TBA",
-            "35": "TBA",
-            "36": "TBA"
+            "36": "TBA",
+            "43": "TBA",
+            "50": "TBA"
           }
         }
       }
@@ -32448,7 +32477,12 @@
       "sections": {
         "1": {
           "instructor": "EBRU VOYVODA",
-          "schedule": {}
+          "schedule": {
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -32457,7 +32491,12 @@
       "sections": {
         "1": {
           "instructor": "GÜL İPEK TUNÇ",
-          "schedule": {}
+          "schedule": {
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -32466,7 +32505,12 @@
       "sections": {
         "1": {
           "instructor": "SERKAN KÜÇÜKŞENEL",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "7": "TBA",
+            "14": "TBA",
+            "21": "TBA"
+          }
         }
       }
     },
@@ -32475,7 +32519,12 @@
       "sections": {
         "1": {
           "instructor": "DİLEM YILDIRIM KASAP",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "7": "TBA",
+            "14": "TBA",
+            "21": "TBA"
+          }
         }
       }
     },
@@ -32681,9 +32730,9 @@
         "2": {
           "instructor": "ELİF ÖZTÜRK",
           "schedule": {
-            "3": "EFD-106",
-            "10": "EFD-106",
-            "17": "EFD-106"
+            "3": "EFD-104",
+            "10": "EFD-104",
+            "17": "EFD-104"
           }
         }
       }
@@ -32694,9 +32743,9 @@
         "1": {
           "instructor": "SERAP EMİL",
           "schedule": {
-            "2": "EFA-28",
-            "9": "EFA-28",
-            "16": "EFA-28"
+            "2": "EFD-104",
+            "9": "EFD-104",
+            "16": "EFD-104"
           }
         }
       }
@@ -40975,20 +41024,11 @@
       "sections": {
         "1": {
           "instructor": "STAFF",
-          "schedule": {
-            "17": "MN123",
-            "24": "MN123",
-            "28": "M04",
-            "51": "MN123",
-            "53": "MN123",
-            "58": "MN123",
-            "60": "MN123"
-          }
+          "schedule": {}
         },
         "2": {
           "instructor": "STAFF",
           "schedule": {
-            "14": "M05",
             "37": "MTE110",
             "44": "MTE110",
             "50": "M04",
@@ -41007,7 +41047,6 @@
         "4": {
           "instructor": "STAFF",
           "schedule": {
-            "0": "K11",
             "50": "M07",
             "57": "M07"
           }
@@ -41021,17 +41060,11 @@
         },
         "6": {
           "instructor": "STAFF",
-          "schedule": {
-            "4": "M08",
-            "49": "F15",
-            "56": "F15"
-          }
+          "schedule": {}
         },
         "7": {
           "instructor": "STAFF",
-          "schedule": {
-            "43": "F15"
-          }
+          "schedule": {}
         },
         "8": {
           "instructor": "STAFF",
@@ -41044,10 +41077,7 @@
         "9": {
           "instructor": "STAFF",
           "schedule": {
-            "3": "YP-D103",
-            "51": "EFA-14",
             "52": "YP-D102",
-            "58": "EFA-14",
             "59": "YP-D102"
           }
         },
@@ -41063,33 +41093,22 @@
         },
         "11": {
           "instructor": "STAFF",
-          "schedule": {
-            "3": "EFA-15",
-            "10": "EFA-15",
-            "43": "EFA-15"
-          }
+          "schedule": {}
         },
         "12": {
           "instructor": "STAFF",
           "schedule": {
             "50": "P3",
-            "51": "PT36",
-            "52": "EFA-14",
             "53": "P3",
             "57": "P3",
-            "58": "PT36",
-            "59": "EFA-14",
             "60": "P3"
           }
         },
         "13": {
           "instructor": "STAFF",
           "schedule": {
-            "32": "P6",
             "51": "YP-D102",
-            "52": "EFA-15",
-            "58": "YP-D102",
-            "59": "EFA-15"
+            "58": "YP-D102"
           }
         },
         "14": {
@@ -41101,10 +41120,7 @@
         },
         "15": {
           "instructor": "STAFF",
-          "schedule": {
-            "50": "MTE308",
-            "57": "MTE308"
-          }
+          "schedule": {}
         },
         "16": {
           "instructor": "STAFF",
@@ -41199,15 +41215,7 @@
         },
         "32": {
           "instructor": "STAFF",
-          "schedule": {
-            "32": "AE024",
-            "42": "AE024",
-            "45": "AE024",
-            "49": "AE024",
-            "52": "AE024",
-            "56": "AE024",
-            "59": "AE024"
-          }
+          "schedule": {}
         },
         "34": {
           "instructor": "STAFF",
@@ -46209,9 +46217,9 @@
         "1": {
           "instructor": "FATMA TANRIVERDİ KÖKSAL",
           "schedule": {
-            "44": "EFB-19A",
-            "51": "EFB-19A",
-            "58": "EFB-19A"
+            "44": "EFB-23",
+            "51": "EFB-23",
+            "58": "EFB-23"
           }
         }
       }
@@ -46290,9 +46298,9 @@
         "1": {
           "instructor": "IŞIL GÜNSELİ KAÇAR",
           "schedule": {
-            "44": "EFB-23",
-            "51": "EFB-23",
-            "58": "EFB-23"
+            "44": "EFD-12",
+            "51": "EFD-12",
+            "58": "EFD-12"
           }
         },
         "2": {
@@ -47095,7 +47103,11 @@
       "sections": {
         "1": {
           "instructor": "AHMET ACAR",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA"
+          }
         }
       }
     },
@@ -74630,7 +74642,26 @@
         },
         "8": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "0": "YP-B201",
+            "1": "YP-B201",
+            "7": "YP-B201",
+            "8": "YP-B201",
+            "14": "YP-B201",
+            "15": "YP-B201",
+            "21": "YP-B201",
+            "22": "YP-B201",
+            "28": "YP-B201",
+            "29": "YP-B201",
+            "35": "YP-B201",
+            "36": "YP-B201",
+            "42": "YP-B201",
+            "43": "YP-B201",
+            "49": "YP-B201",
+            "50": "YP-B201",
+            "56": "YP-B201",
+            "57": "YP-B201"
+          }
         },
         "9": {
           "instructor": "STAFF",
@@ -78028,19 +78059,11 @@
         },
         "5": {
           "instructor": "NURAY SAKALLI",
-          "schedule": {
-            "3": "B07",
-            "10": "B07",
-            "17": "B07"
-          }
+          "schedule": {}
         },
         "6": {
           "instructor": "ÖZLEM BOZO",
-          "schedule": {
-            "0": "B07",
-            "7": "B07",
-            "14": "B07"
-          }
+          "schedule": {}
         },
         "7": {
           "instructor": "BANU CİNGÖZ ULU",
@@ -78068,11 +78091,7 @@
         },
         "13": {
           "instructor": "BAŞAK ŞAHİN ACAR",
-          "schedule": {
-            "0": "B06",
-            "7": "B06",
-            "14": "B06"
-          }
+          "schedule": {}
         },
         "14": {
           "instructor": "DENİZ CANEL",
@@ -78283,11 +78302,7 @@
       "sections": {
         "1": {
           "instructor": "SİBEL KAZAK BERUMENT",
-          "schedule": {
-            "30": "YP-D202",
-            "37": "YP-D202",
-            "44": "YP-D202"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78341,11 +78356,7 @@
       "sections": {
         "1": {
           "instructor": "YONCA TOKER GÜLTAŞ",
-          "schedule": {
-            "38": "YP-D105",
-            "45": "YP-D105",
-            "52": "YP-D105"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78354,11 +78365,7 @@
       "sections": {
         "1": {
           "instructor": "ZEYNEP MÜBERRA SUATA",
-          "schedule": {
-            "39": "B07",
-            "46": "B07",
-            "53": "B07"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78390,12 +78397,7 @@
       "sections": {
         "1": {
           "instructor": "DENİZ CANEL",
-          "schedule": {
-            "11": "YP-D101",
-            "18": "YP-D101",
-            "25": "YP-D101",
-            "32": "YP-D101"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78433,11 +78435,7 @@
       "sections": {
         "1": {
           "instructor": "DİLAY ZEYNEP KARADÖLLER ASTARLIOĞLU",
-          "schedule": {
-            "44": "G106",
-            "51": "G106",
-            "58": "G106"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78477,10 +78475,7 @@
       "sections": {
         "1": {
           "instructor": "BENGİ ÖNER ÖZKAN",
-          "schedule": {
-            "52": "YP-D002",
-            "59": "YP-D002"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78623,11 +78618,7 @@
       "sections": {
         "1": {
           "instructor": "LEMAN KORKMAZ KARAOĞLU",
-          "schedule": {
-            "2": "YP-B201",
-            "9": "YP-B201",
-            "16": "YP-B201"
-          }
+          "schedule": {}
         }
       }
     },
@@ -78636,11 +78627,7 @@
       "sections": {
         "1": {
           "instructor": "DİLAY ZEYNEP KARADÖLLER ASTARLIOĞLU",
-          "schedule": {
-            "7": "B106",
-            "14": "B106",
-            "21": "B106"
-          }
+          "schedule": {}
         }
       }
     },

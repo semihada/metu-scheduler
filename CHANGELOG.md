@@ -1,5 +1,28 @@
 # Course Offerings Changelog
 
+## 2026-10-15 11:08 +0300 - 2026-2027 Fall (20261)
+
+9 departments: +1 added, -0 removed, 27 changed
+
+### BA
+- Changed (1): BA 1401
+### CNG
+- Added (1): CNG 592
+### ECON
+- Changed (10): ECON 942, ECON 948, ECON 952, ECON 954, ECON 958, ECON 960, ECON 972, ECON 976, ECON 982, ECON 984
+### EDS
+- Changed (2): EDS 304, EDS 416
+### ENG
+- Changed (1): ENG 215
+### FLE
+- Changed (2): FLE 143, FLE 238
+### GENE
+- Changed (1): GENE 513
+### PHYS
+- Changed (1): PHYS 500
+### PSY
+- Changed (9): PSY 6099, PSY 8004, PSY 8010, PSY 8011, PSY 8014, PSY 8018, PSY 9003, PSY 9017, PSY 9018
+
 ## 2026-10-14 11:32 +0300 - 2026-2027 Fall (20261)
 
 7 departments: +1 added, -1 removed, 12 changed
