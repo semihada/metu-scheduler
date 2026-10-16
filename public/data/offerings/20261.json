@@ -50760,12 +50760,19 @@
       "name": "UNDERGRADUATE HISTORICAL RESEARCH",
       "sections": {
         "1": {
-          "instructor": "FERDAN ERGUT",
-          "schedule": {}
+          "instructor": "KAYHAN ORBAY",
+          "schedule": {
+            "2": "B04",
+            "9": "B04",
+            "16": "B04"
+          }
         },
         "2": {
           "instructor": "FERDAN ERGUT",
-          "schedule": {}
+          "schedule": {
+            "23": "B04",
+            "30": "B04"
+          }
         }
       }
     },
@@ -66212,9 +66219,9 @@
         "1": {
           "instructor": "TOLGA ESAT ÖZKURT",
           "schedule": {
-            "38": "II-06",
-            "45": "II-06",
-            "52": "II-06"
+            "38": "II-03",
+            "45": "II-03",
+            "52": "II-03"
           }
         }
       }
@@ -66225,9 +66232,9 @@
         "1": {
           "instructor": "AYBAR CAN ACAR",
           "schedule": {
-            "38": "II-03",
-            "45": "II-03",
-            "52": "II-03"
+            "38": "TBA",
+            "45": "TBA",
+            "52": "TBA"
           }
         }
       }
@@ -74717,7 +74724,10 @@
             "14": "G111",
             "17": "YP-D204",
             "21": "G111",
-            "24": "YP-D204"
+            "24": "YP-D204",
+            "46": "G111",
+            "53": "G111",
+            "60": "G111"
           }
         },
         "17": {
@@ -76054,15 +76064,6 @@
     }
   },
   "PNGE": {
-    "PNGE 211": {
-      "name": "INTRODUCTION TO FLUID MECHANICS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "PNGE 300": {
       "name": "SUMMER PRACTICE I",
       "sections": {
@@ -76084,15 +76085,6 @@
             "43": "TBA",
             "44": "TBA"
           }
-        }
-      }
-    },
-    "PNGE 331": {
-      "name": "PETROLEUM PRODUCTION ENGINEERING I",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -76127,19 +76119,6 @@
         }
       }
     },
-    "PNGE 411": {
-      "name": "PETROLEUM PROPERTY VALUATION",
-      "sections": {
-        "1": {
-          "instructor": "MAHMUT PARLAKTUNA",
-          "schedule": {
-            "35": "TBA",
-            "38": "TBA",
-            "42": "TBA"
-          }
-        }
-      }
-    },
     "PNGE 417": {
       "name": "PETROLEUM ENGINEERING DESIGN I",
       "sections": {
@@ -76161,30 +76140,6 @@
             "16": "TBA",
             "17": "TBA",
             "24": "TBA"
-          }
-        }
-      }
-    },
-    "PNGE 488": {
-      "name": "SPECIAL TOPICS IN PETROLEUM ENGINEERING: UNCONVENTIONAL OIL AND GAS RESOURCES",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
-    "PNGE 490": {
-      "name": "PETROLEUM ENGINEERING RESEARCH",
-      "sections": {
-        "1": {
-          "instructor": "MAHMUT PARLAKTUNA",
-          "schedule": {
-            "15": "TBA",
-            "21": "TBA",
-            "22": "TBA",
-            "23": "TBA",
-            "30": "TBA"
           }
         }
       }

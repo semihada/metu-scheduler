@@ -1,5 +1,18 @@
 # Course Offerings Changelog
 
+## 2026-10-16 11:02 +0300 - 2026-2027 Fall (20261)
+
+4 departments: +0 added, -5 removed, 4 changed
+
+### HIST
+- Changed (1): HIST 419
+### MI
+- Changed (2): MI 543, MI 545
+### PHYS
+- Changed (1): PHYS 500
+### PNGE
+- Removed (5): PNGE 211, PNGE 331, PNGE 411, PNGE 488, PNGE 490
+
 ## 2026-10-15 11:08 +0300 - 2026-2027 Fall (20261)
 
 9 departments: +1 added, -0 removed, 27 changed
