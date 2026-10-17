@@ -1,5 +1,26 @@
 # Course Offerings Changelog
 
+## 2026-10-17 10:40 +0300 - 2026-2027 Fall (20261)
+
+8 departments: +0 added, -0 removed, 11 changed
+
+### BASE
+- Changed (2): BASE 101, BASE 401
+### CHEM
+- Changed (1): CHEM 447
+### EFL
+- Changed (1): EFL 123
+### ENG
+- Changed (1): ENG 211
+### ENGP
+- Changed (3): ENGP 11, ENGP 12, ENGP 21
+### MSE
+- Changed (1): MSE 431
+### PHYS
+- Changed (1): PHYS 500
+### STAT
+- Changed (1): STAT 203
+
 ## 2026-10-16 11:02 +0300 - 2026-2027 Fall (20261)
 
 4 departments: +0 added, -5 removed, 4 changed

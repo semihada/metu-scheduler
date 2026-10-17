@@ -9513,6 +9513,14 @@
         "22": {
           "instructor": "VİLDAN ŞAHİN",
           "schedule": {}
+        },
+        "23": {
+          "instructor": "KÜBRA YAZGI",
+          "schedule": {}
+        },
+        "24": {
+          "instructor": "PELİN DUYGU AKSU SEMERCİOĞLU",
+          "schedule": {}
         }
       }
     },
@@ -9866,7 +9874,7 @@
           "schedule": {}
         },
         "27": {
-          "instructor": "KÜBRA YAZGI",
+          "instructor": "RUHAN GÜLİZ KENKÜL",
           "schedule": {}
         },
         "28": {
@@ -9874,7 +9882,7 @@
           "schedule": {}
         },
         "29": {
-          "instructor": "PELİN DUYGU AKSU SEMERCİOĞLU",
+          "instructor": "İPEK BEREN LOPEZ SANTAMARİA",
           "schedule": {}
         },
         "30": {
@@ -23943,7 +23951,7 @@
       "name": "SURFACE CHEMISTRY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "ÖZGÜR BİRER",
           "schedule": {
             "49": "K05",
             "56": "K05",
@@ -37761,14 +37769,6 @@
             "11": "TBA",
             "18": "TBA"
           }
-        },
-        "2": {
-          "instructor": "NURDAN GÜRBÜZ",
-          "schedule": {
-            "46": "TBA",
-            "53": "TBA",
-            "60": "TBA"
-          }
         }
       }
     },
@@ -40612,9 +40612,9 @@
         "25": {
           "instructor": "FİGEN İYİDOĞAN",
           "schedule": {
-            "10": "YP-D104",
-            "17": "YP-D104",
-            "24": "YP-D104"
+            "10": "YP-D204",
+            "17": "YP-D204",
+            "24": "YP-D204"
           }
         },
         "26": {
@@ -41830,7 +41830,7 @@
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "EMİNE TAÇKIN ÖZAL",
           "schedule": {}
         },
         "4": {
@@ -41856,10 +41856,6 @@
         "9": {
           "instructor": "UMMAN TÜMKAYA",
           "schedule": {}
-        },
-        "10": {
-          "instructor": "NAZIM BALCI",
-          "schedule": {}
         }
       }
     },
@@ -41883,7 +41879,11 @@
           "schedule": {}
         },
         "5": {
-          "instructor": "STAFF",
+          "instructor": "ESRA ÖZDEMİR İNCE",
+          "schedule": {}
+        },
+        "6": {
+          "instructor": "NAZIM BALCI",
           "schedule": {}
         }
       }
@@ -41908,7 +41908,7 @@
           "schedule": {}
         },
         "5": {
-          "instructor": "STAFF",
+          "instructor": "AYŞE TUBA OKÇU",
           "schedule": {}
         },
         "6": {
@@ -41916,7 +41916,7 @@
           "schedule": {}
         },
         "7": {
-          "instructor": "STAFF",
+          "instructor": "FATMA BAHÇE",
           "schedule": {}
         },
         "8": {
@@ -41924,7 +41924,7 @@
           "schedule": {}
         },
         "9": {
-          "instructor": "STAFF",
+          "instructor": "SELİME TABANLIOĞLU",
           "schedule": {}
         }
       }
@@ -69283,9 +69283,9 @@
         "2": {
           "instructor": "IŞIL İŞLER BAYKAL",
           "schedule": {
-            "9": "EFD-105",
-            "16": "EFD-105",
-            "23": "EFD-105"
+            "9": "EFD-10",
+            "16": "EFD-10",
+            "23": "EFD-10"
           }
         },
         "3": {
@@ -74719,12 +74719,8 @@
         "16": {
           "instructor": "STAFF",
           "schedule": {
-            "3": "YP-D204",
-            "10": "YP-D204",
             "14": "G111",
-            "17": "YP-D204",
             "21": "G111",
-            "24": "YP-D204",
             "46": "G111",
             "53": "G111",
             "60": "G111"
@@ -81848,9 +81844,9 @@
           "schedule": {
             "22": "YP-A4",
             "49": "YP-A4",
-            "51": "MM125",
+            "51": "YP-D203",
             "56": "YP-A4",
-            "58": "MM125"
+            "58": "YP-D203"
           }
         }
       }
