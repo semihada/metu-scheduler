@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-10-19 11:37 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 1 changed
+
+### CE
+- Changed (1): CE 224
+
 ## 2026-10-17 10:40 +0300 - 2026-2027 Fall (20261)
 
 8 departments: +0 added, -0 removed, 11 changed
