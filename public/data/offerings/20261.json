@@ -1850,20 +1850,10 @@
         "1": {
           "instructor": "BAŞAK ZEYNEP ALPAN",
           "schedule": {
-            "1": "FZ08",
-            "4": "FZ19",
-            "11": "FZ19",
-            "18": "FZ19",
-            "25": "FZ19",
-            "32": "FZ19",
             "37": "FZ19",
-            "39": "FZ19",
             "44": "FZ19",
-            "46": "FZ19",
             "51": "FZ19",
-            "53": "FZ19",
-            "58": "FZ19",
-            "60": "FZ19"
+            "58": "FZ19"
           }
         }
       }
@@ -4063,16 +4053,6 @@
             "63": "TBA"
           }
         },
-        "8": {
-          "instructor": "CUMHUR KESKİNOK",
-          "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA",
-            "56": "TBA",
-            "63": "TBA"
-          }
-        },
         "9": {
           "instructor": "BURAK ÇELİK",
           "schedule": {}
@@ -4240,7 +4220,20 @@
         },
         "5": {
           "instructor": "MERAL ÖZDENGİZ BAŞAK",
-          "schedule": {}
+          "schedule": {
+            "17": "TBA",
+            "24": "TBA",
+            "35": "TBA",
+            "38": "TBA",
+            "42": "TBA",
+            "45": "TBA",
+            "49": "TBA",
+            "52": "TBA",
+            "56": "TBA",
+            "59": "TBA",
+            "63": "TBA",
+            "66": "TBA"
+          }
         },
         "6": {
           "instructor": "BERNA TANVERDİ",
@@ -6727,12 +6720,22 @@
       "name": "PAINTING",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "MİNE BİCAN",
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         },
         "2": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "MİNE BİCAN",
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA",
+            "67": "TBA"
+          }
         }
       }
     },
@@ -6741,11 +6744,21 @@
       "sections": {
         "1": {
           "instructor": "ÜMMÜHAN YÖRÜK",
-          "schedule": {}
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         },
         "2": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "ÜMMÜHAN YÖRÜK",
+          "schedule": {
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA",
+            "67": "TBA"
+          }
         }
       }
     }
@@ -10675,10 +10688,10 @@
           "schedule": {
             "38": "TBA",
             "45": "TBA",
+            "51": "TBA",
             "52": "TBA",
             "58": "TBA",
-            "59": "TBA",
-            "65": "TBA"
+            "59": "TBA"
           }
         }
       }
@@ -14035,9 +14048,9 @@
         "1": {
           "instructor": "ALİ MURAT TANYER",
           "schedule": {
-            "8": "R89",
-            "15": "R89",
-            "22": "R89"
+            "8": "R44",
+            "15": "R44",
+            "22": "R44"
           }
         }
       }
@@ -16411,11 +16424,11 @@
         "3": {
           "instructor": "NABİ KARTAL TOKER",
           "schedule": {
-            "17": "TH3",
-            "24": "TH3",
             "31": "TH3",
             "51": "TH8",
-            "58": "TH8"
+            "52": "TH7",
+            "58": "TH8",
+            "59": "TH7"
           }
         },
         "4": {
@@ -19738,7 +19751,7 @@
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "ŞEYDA ERTEKİN BOLELLİ",
           "schedule": {}
         },
         "4": {
@@ -19850,7 +19863,7 @@
           "schedule": {}
         },
         "31": {
-          "instructor": "ŞEYDA ERTEKİN BOLELLİ",
+          "instructor": "STAFF",
           "schedule": {}
         },
         "32": {
@@ -20014,7 +20027,7 @@
           "schedule": {}
         },
         "3": {
-          "instructor": "STAFF",
+          "instructor": "ŞEYDA ERTEKİN BOLELLİ",
           "schedule": {}
         },
         "4": {
@@ -20126,7 +20139,7 @@
           "schedule": {}
         },
         "31": {
-          "instructor": "ŞEYDA ERTEKİN BOLELLİ",
+          "instructor": "STAFF",
           "schedule": {}
         },
         "32": {
@@ -21217,11 +21230,12 @@
         "1": {
           "instructor": "MEHMET HALİT S. OĞUZTÜZÜN",
           "schedule": {
-            "1": "TBA",
-            "8": "TBA",
+            "3": "TBA",
             "10": "TBA",
-            "15": "TBA",
-            "22": "TBA"
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
           }
         }
       }
@@ -21444,7 +21458,9 @@
         "1": {
           "instructor": "İSMAİL SENGÖR ALTINGÖVDE",
           "schedule": {
+            "0": "TBA",
             "1": "TBA",
+            "7": "TBA",
             "8": "TBA",
             "15": "TBA",
             "22": "TBA"
@@ -21850,9 +21866,7 @@
         "1": {
           "instructor": "İSMAİL SENGÖR ALTINGÖVDE",
           "schedule": {
-            "0": "TBA",
             "2": "TBA",
-            "7": "TBA",
             "9": "TBA",
             "16": "TBA",
             "23": "TBA"
@@ -23464,14 +23478,6 @@
             "14": "Z14",
             "21": "Z14",
             "45": "U3"
-          }
-        },
-        "2": {
-          "instructor": "HASAN TARIK BAYTEKİN",
-          "schedule": {
-            "18": "U1",
-            "22": "U2",
-            "25": "U1"
           }
         },
         "3": {
@@ -33586,7 +33592,7 @@
       "name": "INCLUSIVE EDUCATION",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "PERVİN OYA TANERİ",
           "schedule": {
             "11": "TBA",
             "18": "TBA",
@@ -48534,8 +48540,7 @@
           "instructor": "ULAŞ AVŞAR",
           "schedule": {
             "3": "GR301",
-            "10": "GR301",
-            "17": "GR301"
+            "10": "GR301"
           }
         }
       }
@@ -63194,7 +63199,19 @@
       "sections": {
         "1": {
           "instructor": "ABDULLAH ULAŞ",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "4": "TBA",
+            "9": "TBA",
+            "11": "TBA",
+            "16": "TBA",
+            "18": "TBA",
+            "25": "TBA",
+            "39": "TBA",
+            "46": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -75330,20 +75347,15 @@
           "instructor": "MEHMET TEVFİK ZEYREK",
           "schedule": {
             "0": "P-421",
-            "4": "P-436",
             "7": "P-421",
-            "11": "P-436",
             "14": "P-421",
-            "18": "P-436",
+            "18": "U1",
             "21": "P-421",
-            "25": "P-436",
-            "32": "P-436",
-            "39": "P-436",
-            "46": "P-436",
+            "25": "U1",
             "51": "U2",
-            "53": "P-436",
+            "53": "P5",
             "58": "U2",
-            "60": "P-436"
+            "60": "P5"
           }
         }
       }
@@ -77115,14 +77127,6 @@
             "35": "G111",
             "42": "G111",
             "49": "G111"
-          }
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {
-            "35": "TBA",
-            "42": "TBA",
-            "49": "TBA"
           }
         }
       }
@@ -81088,9 +81092,9 @@
         "1": {
           "instructor": "ÇAĞATAY TOPAL",
           "schedule": {
-            "42": "B07",
-            "49": "B07",
-            "56": "B07"
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
           }
         }
       }
@@ -83132,15 +83136,6 @@
       "sections": {
         "1": {
           "instructor": "ÖDÜL IŞITMAN",
-          "schedule": {}
-        }
-      }
-    },
-    "THEA 125": {
-      "name": "DRAMA",
-      "sections": {
-        "1": {
-          "instructor": "GÖKHAN KARAOSMANOĞLU",
           "schedule": {}
         }
       }

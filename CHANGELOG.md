@@ -1,5 +1,40 @@
 # Course Offerings Changelog
 
+## 2026-10-20 11:20 +0300 - 2026-2027 Fall (20261)
+
+15 departments: +0 added, -1 removed, 20 changed
+
+### ADM
+- Changed (1): ADM 9035
+### ARCH
+- Changed (2): ARCH 201, ARCH 301
+### ART
+- Changed (2): ART 111, ART 113
+### BCH
+- Changed (1): BCH 821
+### BS
+- Changed (1): BS 583
+### CE
+- Changed (1): CE 363
+### CENG
+- Changed (5): CENG 300, CENG 400, CENG 813, CENG 830, CENG 930
+### CHEM
+- Changed (1): CHEM 111
+### EDUS
+- Changed (1): EDUS 312
+### GEOE
+- Changed (1): GEOE 590
+### ME
+- Changed (1): ME 847
+### PHYS
+- Changed (1): PHYS 815
+### PSY
+- Changed (1): PSY 1410
+### SOC
+- Changed (1): SOC 600
+### THEA
+- Removed (1): THEA 125
+
 ## 2026-10-19 11:37 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed
