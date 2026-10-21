@@ -3719,21 +3719,7 @@
       }
     }
   },
-  "ARC": {
-    "ARC 436": {
-      "name": "STUDIES IN ROMAN ARCHITECTURE",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    }
-  },
+  "ARC": {},
   "ARCD": {
     "ARCD 500": {
       "name": "M.SC. THESIS IN COMPUTATIONAL DESIGN AND FABRICATION TECHNOLOGIES",
@@ -4024,7 +4010,20 @@
         },
         "5": {
           "instructor": "MEHMET TURHAN KAYASÜ",
-          "schedule": {}
+          "schedule": {
+            "17": "TBA",
+            "24": "TBA",
+            "35": "TBA",
+            "38": "TBA",
+            "42": "TBA",
+            "45": "TBA",
+            "49": "TBA",
+            "52": "TBA",
+            "56": "TBA",
+            "59": "TBA",
+            "63": "TBA",
+            "66": "TBA"
+          }
         },
         "6": {
           "instructor": "CAN URAZ",
@@ -4046,16 +4045,36 @@
         "7": {
           "instructor": "ALİ HAYDAR ALPTEKİN",
           "schedule": {
+            "17": "TBA",
+            "24": "TBA",
             "35": "TBA",
+            "38": "TBA",
             "42": "TBA",
+            "45": "TBA",
             "49": "TBA",
+            "52": "TBA",
             "56": "TBA",
-            "63": "TBA"
+            "59": "TBA",
+            "63": "TBA",
+            "66": "TBA"
           }
         },
         "9": {
           "instructor": "BURAK ÇELİK",
-          "schedule": {}
+          "schedule": {
+            "17": "TBA",
+            "24": "TBA",
+            "35": "TBA",
+            "38": "TBA",
+            "42": "TBA",
+            "45": "TBA",
+            "49": "TBA",
+            "52": "TBA",
+            "56": "TBA",
+            "59": "TBA",
+            "63": "TBA",
+            "66": "TBA"
+          }
         }
       }
     },
@@ -4238,21 +4257,35 @@
         "6": {
           "instructor": "BERNA TANVERDİ",
           "schedule": {
+            "17": "TBA",
+            "24": "TBA",
             "35": "TBA",
+            "38": "TBA",
             "42": "TBA",
+            "45": "TBA",
             "49": "TBA",
+            "52": "TBA",
             "56": "TBA",
-            "63": "TBA"
+            "59": "TBA",
+            "63": "TBA",
+            "66": "TBA"
           }
         },
         "7": {
           "instructor": "ERALD VARAKU",
           "schedule": {
+            "17": "TBA",
+            "24": "TBA",
             "35": "TBA",
+            "38": "TBA",
             "42": "TBA",
+            "45": "TBA",
             "49": "TBA",
+            "52": "TBA",
             "56": "TBA",
-            "63": "TBA"
+            "59": "TBA",
+            "63": "TBA",
+            "66": "TBA"
           }
         },
         "8": {
@@ -4341,7 +4374,8 @@
             "10": "TBA",
             "37": "TBA",
             "44": "TBA",
-            "51": "TBA"
+            "51": "TBA",
+            "58": "TBA"
           }
         },
         "3": {
@@ -15878,15 +15912,6 @@
         }
       }
     },
-    "BUS 413": {
-      "name": "LEADERSHIP THEORY AND APPLICATION",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "BUS 418": {
       "name": "PROJECT MANAGEMENT",
       "sections": {
@@ -15926,15 +15951,6 @@
         }
       }
     },
-    "BUS 472": {
-      "name": "PRINCIPLES OF ADVERTISING",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "BUS 479": {
       "name": "DIGITAL MARKETING",
       "sections": {
@@ -15958,15 +15974,6 @@
             "9": "TBA",
             "16": "TBA"
           }
-        }
-      }
-    },
-    "BUS 4137": {
-      "name": "ENTREPRENEURSHIP",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },
@@ -20323,8 +20330,6 @@
         "6": {
           "instructor": "ÇAĞRI TORAMAN",
           "schedule": {
-            "37": "TBA",
-            "44": "TBA",
             "51": "TBA",
             "58": "TBA"
           }
@@ -20859,11 +20864,7 @@
         },
         "3": {
           "instructor": "ŞEYDA ERTEKİN BOLELLİ",
-          "schedule": {
-            "18": "TBA",
-            "25": "TBA",
-            "32": "TBA"
-          }
+          "schedule": {}
         },
         "4": {
           "instructor": "MURAT MANGUOĞLU",
@@ -21144,6 +21145,7 @@
             "42": "TBA",
             "43": "TBA",
             "49": "TBA",
+            "50": "TBA",
             "56": "TBA"
           }
         }
@@ -21163,14 +21165,7 @@
       "sections": {
         "1": {
           "instructor": "ULUÇ SARANLI",
-          "schedule": {
-            "0": "TBA",
-            "7": "TBA",
-            "14": "TBA",
-            "21": "TBA",
-            "53": "TBA",
-            "60": "TBA"
-          }
+          "schedule": {}
         }
       }
     },
@@ -21572,7 +21567,12 @@
       "sections": {
         "1": {
           "instructor": "ŞEYDA ERTEKİN BOLELLİ",
-          "schedule": {}
+          "schedule": {
+            "39": "TBA",
+            "46": "TBA",
+            "53": "TBA",
+            "60": "TBA"
+          }
         }
       }
     },
@@ -24752,12 +24752,12 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "GÜLAY ERTAŞ",
           "schedule": {
-            "36": "TBA",
-            "43": "TBA",
-            "50": "TBA",
-            "57": "TBA"
+            "3": "TBA",
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
           }
         }
       }
@@ -38304,9 +38304,9 @@
         "1": {
           "instructor": "BİLAL KIRKICI",
           "schedule": {
-            "1": "EFD-101",
-            "8": "EFD-101",
-            "15": "EFD-101"
+            "1": "EFD-206",
+            "8": "EFD-206",
+            "15": "EFD-206"
           }
         }
       }
@@ -50105,9 +50105,9 @@
         "1": {
           "instructor": "REŞİDE ÖMÜR BİRLER",
           "schedule": {
-            "35": "G168",
-            "42": "G168",
-            "49": "G168"
+            "35": "F14",
+            "42": "F14",
+            "49": "F14"
           }
         }
       }
@@ -50191,21 +50191,7 @@
       }
     }
   },
-  "GPC": {
-    "GPC 150": {
-      "name": "PSYCHOLOGY OF LEARNING",
-      "sections": {
-        "1": {
-          "instructor": "V.DOĞU ERDENER",
-          "schedule": {
-            "9": "TBA",
-            "49": "TBA",
-            "56": "TBA"
-          }
-        }
-      }
-    }
-  },
+  "GPC": {},
   "GRE": {},
   "GRM": {
     "GRM 201": {
@@ -67850,7 +67836,7 @@
           "schedule": {}
         },
         "16": {
-          "instructor": "STAFF",
+          "instructor": "HASAN ULUŞAN",
           "schedule": {}
         },
         "17": {
@@ -67858,7 +67844,7 @@
           "schedule": {}
         },
         "18": {
-          "instructor": "STAFF",
+          "instructor": "MUSTAFA YÜCEL",
           "schedule": {}
         },
         "19": {
@@ -67906,7 +67892,7 @@
           "schedule": {}
         },
         "30": {
-          "instructor": "STAFF",
+          "instructor": "PAUL IONUT DRON",
           "schedule": {}
         },
         "31": {
@@ -68174,7 +68160,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "HASAN ULUŞAN",
           "schedule": {}
         }
       }
@@ -68192,7 +68178,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MUSTAFA YÜCEL",
           "schedule": {}
         }
       }
@@ -68300,7 +68286,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "PAUL IONUT DRON",
           "schedule": {}
         }
       }
@@ -68597,7 +68583,7 @@
       "name": "ADVANCED STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "HASAN ULUŞAN",
           "schedule": {}
         }
       }
@@ -68615,7 +68601,7 @@
       "name": "ADVANCED STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MUSTAFA YÜCEL",
           "schedule": {}
         }
       }
@@ -68723,7 +68709,7 @@
       "name": "ADVANCED STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "PAUL IONUT DRON",
           "schedule": {}
         }
       }
@@ -75121,9 +75107,9 @@
         "1": {
           "instructor": "SERHAT ÇAKIR",
           "schedule": {
-            "35": "F14",
-            "42": "F14",
-            "49": "F14"
+            "35": "FZ19",
+            "42": "FZ19",
+            "49": "FZ19"
           }
         }
       }
@@ -76136,19 +76122,6 @@
           "schedule": {
             "31": "TBA",
             "38": "TBA"
-          }
-        }
-      }
-    },
-    "PNGE 461": {
-      "name": "NATURAL GAS ENGINEERING",
-      "sections": {
-        "1": {
-          "instructor": "MAHMUT PARLAKTUNA",
-          "schedule": {
-            "16": "TBA",
-            "17": "TBA",
-            "24": "TBA"
           }
         }
       }
@@ -78811,15 +78784,6 @@
         }
       }
     },
-    "PSYC 444": {
-      "name": "UNDERGRADUATE RESEARCH THESIS",
-      "sections": {
-        "1": {
-          "instructor": "V.DOĞU ERDENER",
-          "schedule": {}
-        }
-      }
-    },
     "PSYC 449": {
       "name": "HEALTH PSYCHOLOGY",
       "sections": {
@@ -79848,7 +79812,7 @@
           "schedule": {}
         },
         "17": {
-          "instructor": "STAFF",
+          "instructor": "CANSU BAHAR MAŞERA",
           "schedule": {}
         },
         "18": {
@@ -80439,19 +80403,6 @@
         }
       }
     },
-    "SNG 111": {
-      "name": "INTRODUCTION TO COMPUTER SCIENCE AND PROGRAMMING",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "SNG 201": {
       "name": "INTRODUCTION TO SOFTWARE ENGINEERING",
       "sections": {
@@ -80470,15 +80421,6 @@
       "sections": {
         "1": {
           "instructor": "PAULİUS DİLKAS",
-          "schedule": {}
-        }
-      }
-    },
-    "SNG 303": {
-      "name": "SOFTWARE PROJECT MANAGEMENT",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -80505,15 +80447,6 @@
         }
       }
     },
-    "SNG 457": {
-      "name": "SOFTWARE CONFIGURATION MANAGEMENT",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "SNG 460": {
       "name": "SOFTWARE SECURITY",
       "sections": {
@@ -80524,24 +80457,6 @@
             "8": "TBA",
             "30": "TBA"
           }
-        }
-      }
-    },
-    "SNG 480": {
-      "name": "FORMAL METHODS IN SPECIFICATION AND DESIGN",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
-    "SNG 489": {
-      "name": "SPECIAL TOPICS IN SOFTWARE ENGINEERING: EVOLUTIONARY COMPUTING",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
         }
       }
     },

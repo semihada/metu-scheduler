@@ -1,5 +1,38 @@
 # Course Offerings Changelog
 
+## 2026-10-21 11:24 +0300 - 2026-2027 Fall (20261)
+
+14 departments: +0 added, -12 removed, 20 changed
+
+### ARC
+- Removed (1): ARC 436
+### ARCH
+- Changed (3): ARCH 201, ARCH 301, ARCH 351
+### BUS
+- Removed (3): BUS 413, BUS 472, BUS 4137
+### CENG
+- Changed (5): CENG 491, CENG 600, CENG 806, CENG 808, CENG 903
+### CHEM
+- Changed (1): CHEM 817
+### ELT
+- Changed (1): ELT 533
+### GIA
+- Changed (1): GIA 105
+### GPC
+- Removed (1): GPC 150
+### MNT
+- Changed (7): MNT 500, MNT 816, MNT 818, MNT 830, MNT 916, MNT 918, MNT 930
+### PHYS
+- Changed (1): PHYS 569
+### PNGE
+- Removed (1): PNGE 461
+### PSYC
+- Removed (1): PSYC 444
+### SEES
+- Changed (1): SEES 500
+### SNG
+- Removed (5): SNG 111, SNG 303, SNG 457, SNG 480, SNG 489
+
 ## 2026-10-20 11:20 +0300 - 2026-2027 Fall (20261)
 
 15 departments: +0 added, -1 removed, 20 changed
