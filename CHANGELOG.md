@@ -1,5 +1,26 @@
 # Course Offerings Changelog
 
+## 2026-10-23 11:23 +0300 - 2026-2027 Fall (20261)
+
+8 departments: +0 added, -0 removed, 39 changed
+
+### ADM
+- Changed (13): ADM 3401, ADM 4111, ADM 4117, ADM 4135, ADM 4155, ADM 4172, ADM 4185, ADM 4201, ADM 4204, ADM 4213, ADM 4221, ADM 4223, ADM 4287
+### ENG
+- Changed (2): ENG 102, ENG 311
+### IE
+- Changed (1): IE 497
+### IR
+- Changed (10): IR 235, IR 247, IR 317, IR 330, IR 341, IR 356, IR 366, IR 422, IR 455, IR 472
+### MATH
+- Changed (1): MATH 119
+### PES
+- Changed (7): PES 806, PES 808, PES 809, PES 906, PES 908, PES 909, PES 2130
+### ROB
+- Changed (4): ROB 500, ROB 600, ROB 809, ROB 909
+### SEES
+- Changed (1): SEES 817
+
 ## 2026-10-21 11:24 +0300 - 2026-2027 Fall (20261)
 
 14 departments: +0 added, -12 removed, 20 changed
