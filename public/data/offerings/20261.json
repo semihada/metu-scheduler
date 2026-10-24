@@ -67465,9 +67465,9 @@
         "1": {
           "instructor": "ALPTEKİN TEMİZEL",
           "schedule": {
-            "10": "II-05",
-            "17": "II-05",
-            "24": "II-05"
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
           }
         }
       }
@@ -76065,6 +76065,19 @@
           "schedule": {
             "31": "TBA",
             "38": "TBA"
+          }
+        }
+      }
+    },
+    "PNGE 461": {
+      "name": "NATURAL GAS ENGINEERING",
+      "sections": {
+        "1": {
+          "instructor": "MAHMUT PARLAKTUNA",
+          "schedule": {
+            "16": "TBA",
+            "17": "TBA",
+            "24": "TBA"
           }
         }
       }

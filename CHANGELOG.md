@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-10-24 11:01 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +1 added, -0 removed, 1 changed
+
+### MMI
+- Changed (1): MMI 712
+### PNGE
+- Added (1): PNGE 461
+
 ## 2026-10-23 11:23 +0300 - 2026-2027 Fall (20261)
 
 8 departments: +0 added, -0 removed, 39 changed
