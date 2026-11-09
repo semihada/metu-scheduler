@@ -3017,14 +3017,6 @@
             "43": "TBA",
             "50": "TBA"
           }
-        },
-        "2": {
-          "instructor": "FUNDA BAŞ BÜTÜNER",
-          "schedule": {
-            "36": "TBA",
-            "43": "TBA",
-            "50": "TBA"
-          }
         }
       }
     },
@@ -4297,7 +4289,13 @@
         },
         "2": {
           "instructor": "BESTE FAKIOĞLU",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA",
+            "30": "TBA"
+          }
         }
       }
     },
@@ -7069,19 +7067,6 @@
         }
       }
     },
-    "ASTR 310": {
-      "name": "CELESTIAL MECHANICS",
-      "sections": {
-        "1": {
-          "instructor": "MEHMET ATAKAN GÜRKAN",
-          "schedule": {
-            "9": "AKıLLı S.",
-            "16": "AKıLLı S.",
-            "23": "AKıLLı S."
-          }
-        }
-      }
-    },
     "ASTR 515": {
       "name": "GALACTIC AND INTERGALACTIC ASTRONOMY",
       "sections": {
@@ -8597,7 +8582,7 @@
       "name": "VALUATION MODELS AND APPLICATIONS",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT TİNİÇ",
           "schedule": {}
         }
       }
@@ -9621,7 +9606,7 @@
       }
     },
     "BASE 301": {
-      "name": "BDE301",
+      "name": "DBE301",
       "sections": {
         "1": {
           "instructor": "FÜSUN ŞAHİN",
@@ -9882,6 +9867,10 @@
         },
         "30": {
           "instructor": "ATİYE BUDANIR",
+          "schedule": {}
+        },
+        "31": {
+          "instructor": "HAMİDE ASLANTÜRK",
           "schedule": {}
         }
       }
@@ -11417,7 +11406,7 @@
           "schedule": {}
         },
         "6": {
-          "instructor": "STAFF",
+          "instructor": "MURAT PERİT ÇAKIR",
           "schedule": {}
         },
         "7": {
@@ -11529,7 +11518,7 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "MURAT PERİT ÇAKIR",
           "schedule": {}
         }
       }
@@ -12194,9 +12183,9 @@
         "1": {
           "instructor": "MEHMET SOMEL",
           "schedule": {
-            "45": "BIO 213",
-            "52": "BIO 213",
-            "59": "BIO 213"
+            "45": "BIO Z-06",
+            "52": "BIO Z-06",
+            "59": "BIO Z-06"
           }
         }
       }
@@ -19856,7 +19845,7 @@
       "name": "INTR. TO DATABASE MANAGEMENT SYSTEMS",
       "sections": {
         "1": {
-          "instructor": "PELİN ANGIN ÜLKÜER",
+          "instructor": "OKAN TOPÇU",
           "schedule": {
             "46": "YP-D204",
             "53": "YP-D204",
@@ -21211,8 +21200,8 @@
             "11": "TBA",
             "18": "TBA",
             "25": "TBA",
-            "39": "TBA",
-            "46": "TBA"
+            "37": "TBA",
+            "44": "TBA"
           }
         }
       }
@@ -21530,10 +21519,10 @@
         "1": {
           "instructor": "MURAT MANGUOĞLU",
           "schedule": {
-            "39": "TBA",
-            "46": "TBA",
-            "53": "TBA",
-            "60": "TBA"
+            "3": "TBA",
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
           }
         }
       }
@@ -21990,15 +21979,11 @@
         "1": {
           "instructor": "EMRE BÜKÜŞOĞLU",
           "schedule": {
-            "3": "Z118",
-            "10": "Z118",
-            "15": "Z118",
-            "22": "Z118"
+            "3": "Z14",
+            "10": "Z14",
+            "15": "Z14",
+            "22": "Z14"
           }
-        },
-        "2": {
-          "instructor": "STAFF",
-          "schedule": {}
         },
         "3": {
           "instructor": "NAİME ASLI SEZGİ",
@@ -22600,15 +22585,6 @@
           "schedule": {}
         },
         "33": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
-    "CHE 502": {
-      "name": "PHASE EQUILIBRIUM THERMODYNAMICS",
-      "sections": {
-        "1": {
           "instructor": "STAFF",
           "schedule": {}
         }
@@ -23547,17 +23523,8 @@
           }
         },
         "2": {
-          "instructor": "STAFF",
-          "schedule": {
-            "37": "TBA",
-            "38": "TBA",
-            "44": "TBA",
-            "45": "TBA",
-            "51": "TBA",
-            "52": "TBA",
-            "58": "TBA",
-            "59": "TBA"
-          }
+          "instructor": "EZEL BOYACI",
+          "schedule": {}
         }
       }
     },
@@ -24424,8 +24391,8 @@
             "8": "TBA",
             "9": "TBA",
             "30": "TBA",
-            "38": "U2",
-            "45": "U2"
+            "38": "TBA",
+            "45": "TBA"
           }
         },
         "33": {
@@ -29901,12 +29868,7 @@
       "sections": {
         "1": {
           "instructor": "BARBAROS YET",
-          "schedule": {
-            "1": "TBA",
-            "8": "TBA",
-            "15": "TBA",
-            "22": "TBA"
-          }
+          "schedule": {}
         }
       }
     }
@@ -41487,9 +41449,9 @@
         "11": {
           "instructor": "HALE HATİCE KIZILCIK",
           "schedule": {
-            "30": "YP-D202",
-            "37": "YP-D202",
-            "44": "YP-D202"
+            "30": "G201",
+            "37": "G201",
+            "44": "G201"
           }
         },
         "12": {
@@ -42225,7 +42187,13 @@
       "sections": {
         "1": {
           "instructor": "TUBA HANDE BAYRAMOĞLU",
-          "schedule": {}
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "16": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         }
       }
     },
@@ -42423,7 +42391,14 @@
       "sections": {
         "1": {
           "instructor": "TUBA HANDE BAYRAMOĞLU",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "3": "TBA",
+            "7": "TBA",
+            "10": "TBA",
+            "14": "TBA",
+            "21": "TBA"
+          }
         }
       }
     },
@@ -42433,12 +42408,12 @@
         "1": {
           "instructor": "İPEK İMAMOĞLU",
           "schedule": {
-            "2": "TBA",
-            "3": "TBA",
-            "9": "TBA",
-            "10": "TBA",
-            "16": "TBA",
-            "23": "TBA"
+            "4": "TBA",
+            "11": "TBA",
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
           }
         }
       }
@@ -42448,7 +42423,14 @@
       "sections": {
         "1": {
           "instructor": "EMRE ALP",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "7": "TBA",
+            "14": "TBA",
+            "21": "TBA",
+            "50": "TBA",
+            "57": "TBA"
+          }
         }
       }
     },
@@ -42457,7 +42439,14 @@
       "sections": {
         "1": {
           "instructor": "ZEYNEP ÖZCAN",
-          "schedule": {}
+          "schedule": {
+            "1": "TBA",
+            "3": "TBA",
+            "8": "TBA",
+            "10": "TBA",
+            "15": "TBA",
+            "22": "TBA"
+          }
         }
       }
     },
@@ -42485,12 +42474,12 @@
         "1": {
           "instructor": "YASEMİN DİLŞAD YILMAZEL TOKEL",
           "schedule": {
-            "1": "TBA",
-            "8": "TBA",
-            "15": "TBA",
-            "22": "TBA",
-            "37": "TBA",
-            "44": "TBA"
+            "0": "TBA",
+            "7": "TBA",
+            "14": "TBA",
+            "21": "TBA",
+            "35": "TBA",
+            "42": "TBA"
           }
         }
       }
@@ -42518,14 +42507,7 @@
       "sections": {
         "1": {
           "instructor": "FAİKA DİLEK SANİN",
-          "schedule": {
-            "3": "TBA",
-            "4": "TBA",
-            "10": "TBA",
-            "11": "TBA",
-            "17": "TBA",
-            "24": "TBA"
-          }
+          "schedule": {}
         }
       }
     },
@@ -42543,7 +42525,14 @@
       "sections": {
         "1": {
           "instructor": "BÜLENT İÇGEN",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "1": "TBA",
+            "7": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA"
+          }
         }
       }
     },
@@ -42552,7 +42541,14 @@
       "sections": {
         "1": {
           "instructor": "SEMA SEVİNÇ ŞENGÖR",
-          "schedule": {}
+          "schedule": {
+            "2": "TBA",
+            "3": "TBA",
+            "9": "TBA",
+            "10": "TBA",
+            "17": "TBA",
+            "24": "TBA"
+          }
         }
       }
     },
@@ -42561,7 +42557,12 @@
       "sections": {
         "1": {
           "instructor": "TUBA HANDE BAYRAMOĞLU",
-          "schedule": {}
+          "schedule": {
+            "1": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA"
+          }
         }
       }
     },
@@ -42570,7 +42571,12 @@
       "sections": {
         "1": {
           "instructor": "İPEK İMAMOĞLU",
-          "schedule": {}
+          "schedule": {
+            "36": "TBA",
+            "43": "TBA",
+            "50": "TBA",
+            "57": "TBA"
+          }
         }
       }
     },
@@ -42579,7 +42585,12 @@
       "sections": {
         "1": {
           "instructor": "EMRE ALP",
-          "schedule": {}
+          "schedule": {
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -42607,10 +42618,10 @@
         "1": {
           "instructor": "AYŞEGÜL AKSOY",
           "schedule": {
-            "2": "TBA",
-            "9": "TBA",
-            "16": "TBA",
-            "23": "TBA"
+            "1": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA"
           }
         }
       }
@@ -42620,12 +42631,7 @@
       "sections": {
         "1": {
           "instructor": "YASEMİN DİLŞAD YILMAZEL TOKEL",
-          "schedule": {
-            "4": "TBA",
-            "11": "TBA",
-            "18": "TBA",
-            "25": "TBA"
-          }
+          "schedule": {}
         }
       }
     },
@@ -42671,10 +42677,10 @@
         "1": {
           "instructor": "BÜLENT İÇGEN",
           "schedule": {
-            "0": "TBA",
-            "7": "TBA",
-            "14": "TBA",
-            "21": "TBA"
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA"
           }
         }
       }
@@ -42684,7 +42690,12 @@
       "sections": {
         "1": {
           "instructor": "SEMA SEVİNÇ ŞENGÖR",
-          "schedule": {}
+          "schedule": {
+            "4": "TBA",
+            "11": "TBA",
+            "18": "TBA",
+            "25": "TBA"
+          }
         }
       }
     }
@@ -45890,15 +45901,6 @@
         }
       }
     },
-    "FDE 814": {
-      "name": "SPECIAL STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "FDE 815": {
       "name": "SPECIAL STUDIES",
       "sections": {
@@ -45997,15 +45999,6 @@
       "sections": {
         "1": {
           "instructor": "ALEV BAYINDIRLI",
-          "schedule": {}
-        }
-      }
-    },
-    "FDE 914": {
-      "name": "ADVANCED STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -53050,7 +53043,7 @@
           "schedule": {}
         },
         "2": {
-          "instructor": "STAFF",
+          "instructor": "DİLRUBA OĞUR",
           "schedule": {}
         },
         "3": {
@@ -53301,8 +53294,15 @@
       "name": "SPECIAL STUDIES",
       "sections": {
         "1": {
-          "instructor": "STAFF",
-          "schedule": {}
+          "instructor": "DİLRUBA OĞUR",
+          "schedule": {
+            "2": "TBA",
+            "9": "TBA",
+            "16": "TBA",
+            "23": "TBA",
+            "37": "TBA",
+            "44": "TBA"
+          }
         }
       }
     },
@@ -54080,11 +54080,11 @@
           "schedule": {}
         },
         "48": {
-          "instructor": "MEHMET HAKAN AKYÜZ",
+          "instructor": "NADER GHAFFARINASAB",
           "schedule": {}
         },
         "49": {
-          "instructor": "STAFF",
+          "instructor": "MEHMET HAKAN AKYÜZ",
           "schedule": {}
         },
         "50": {
@@ -54222,15 +54222,6 @@
         }
       }
     },
-    "IE 566": {
-      "name": "THE DESIGN&ANALYSIS OF EXPERIMENTS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "IE 590": {
       "name": "GRADUATE SEMINAR",
       "sections": {
@@ -54328,15 +54319,6 @@
         },
         "50": {
           "instructor": "ŞAKİR KARAKAYA",
-          "schedule": {}
-        }
-      }
-    },
-    "IE 690": {
-      "name": "RESEARCH TOPICS",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
           "schedule": {}
         }
       }
@@ -54636,6 +54618,15 @@
       "sections": {
         "1": {
           "instructor": "SAKİNE BATUN",
+          "schedule": {}
+        }
+      }
+    },
+    "IE 948": {
+      "name": "ADVANCED STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "NADER GHAFFARINASAB",
           "schedule": {}
         }
       }
@@ -66142,19 +66133,6 @@
         }
       }
     },
-    "MI 545": {
-      "name": "OBJECT ORIENTED PROGRAMMING AND DATA STRUCTURES",
-      "sections": {
-        "1": {
-          "instructor": "AYBAR CAN ACAR",
-          "schedule": {
-            "38": "TBA",
-            "45": "TBA",
-            "52": "TBA"
-          }
-        }
-      }
-    },
     "MI 589": {
       "name": "TERM PROJECT",
       "sections": {
@@ -68794,15 +68772,6 @@
             "29": "EFA-32"
           }
         },
-        "2": {
-          "instructor": "ÖZGÜL YILMAZ TÜZÜN",
-          "schedule": {
-            "8": "TBA",
-            "15": "TBA",
-            "22": "TBA",
-            "29": "TBA"
-          }
-        },
         "3": {
           "instructor": "İPEK SARALAR",
           "schedule": {
@@ -68882,20 +68851,6 @@
         }
       }
     },
-    "MSE 310": {
-      "name": "METHODS OF SECONDARY SCIENCE TEACHING I",
-      "sections": {
-        "1": {
-          "instructor": "ÖMER GEBAN",
-          "schedule": {
-            "4": "EFA-27",
-            "11": "EFA-27",
-            "18": "EFA-27",
-            "25": "EFA-27"
-          }
-        }
-      }
-    },
     "MSE 321": {
       "name": "TEACHING AND LEARNING SECONDARY SCHOOL MATHEMATICS I",
       "sections": {
@@ -68948,15 +68903,6 @@
             "22": "EFD-203",
             "36": "EFD-202",
             "43": "EFD-202"
-          }
-        },
-        "2": {
-          "instructor": "GÖKHAN ÖZTÜRK",
-          "schedule": {
-            "15": "EFA-33",
-            "22": "EFA-33",
-            "39": "EFA-20",
-            "46": "EFA-20"
           }
         },
         "3": {
@@ -69089,8 +69035,8 @@
         "8": {
           "instructor": "GÖZDE KAPLAN CAN",
           "schedule": {
-            "8": "EFA-25",
-            "15": "EFA-25"
+            "8": "EFA-38",
+            "15": "EFA-38"
           }
         },
         "9": {
@@ -69146,19 +69092,6 @@
         }
       }
     },
-    "MSE 422": {
-      "name": "ARGUMENTATION IN SCIENCE EDUCATION",
-      "sections": {
-        "1": {
-          "instructor": "ESEN KONDAKÇI",
-          "schedule": {
-            "10": "EFA-25",
-            "17": "EFA-25",
-            "24": "EFA-25"
-          }
-        }
-      }
-    },
     "MSE 427": {
       "name": "INTERDISCIPLINARY CHEMISTRY TEACHING",
       "sections": {
@@ -69210,14 +69143,6 @@
             "9": "EFD-102",
             "16": "EFD-102",
             "23": "EFD-102"
-          }
-        },
-        "4": {
-          "instructor": "ÖMER GEBAN",
-          "schedule": {
-            "37": "EFA-27",
-            "44": "EFA-27",
-            "51": "EFA-27"
           }
         }
       }
@@ -69291,14 +69216,6 @@
     "MSE 482": {
       "name": "PROJECTS IN MATHEMATICS AND SCIENCE EDUCATION",
       "sections": {
-        "1": {
-          "instructor": "ÖZGÜL YILMAZ TÜZÜN",
-          "schedule": {
-            "45": "EFA-25",
-            "52": "EFA-25",
-            "59": "EFA-25"
-          }
-        },
         "2": {
           "instructor": "IŞIL İŞLER BAYKAL",
           "schedule": {
@@ -69306,10 +69223,6 @@
             "18": "EFD-101",
             "25": "EFD-101"
           }
-        },
-        "3": {
-          "instructor": "ESEN KONDAKÇI",
-          "schedule": {}
         }
       }
     },
@@ -69334,7 +69247,8 @@
           "schedule": {
             "7": "EFD-12",
             "14": "EFD-12",
-            "21": "EFD-12"
+            "21": "EFD-12",
+            "28": "EFD-12"
           }
         }
       }
@@ -71465,6 +71379,15 @@
         }
       }
     },
+    "OR 848": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "NADER GHAFFARINASAB",
+          "schedule": {}
+        }
+      }
+    },
     "OR 849": {
       "name": "SPECIAL STUDIES",
       "sections": {
@@ -71542,6 +71465,33 @@
       "sections": {
         "1": {
           "instructor": "SAKİNE BATUN",
+          "schedule": {}
+        }
+      }
+    },
+    "OR 948": {
+      "name": "ADVANCED STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "NADER GHAFFARINASAB",
+          "schedule": {}
+        }
+      }
+    },
+    "OR 949": {
+      "name": "ADVANCED STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "MEHMET HAKAN AKYÜZ",
+          "schedule": {}
+        }
+      }
+    },
+    "OR 950": {
+      "name": "ADVANCED STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "ŞAKİR KARAKAYA",
           "schedule": {}
         }
       }
@@ -71928,7 +71878,9 @@
             "15": "TBA",
             "17": "TBA",
             "22": "TBA",
-            "24": "TBA"
+            "24": "TBA",
+            "29": "EFD-203",
+            "36": "EFD-203"
           }
         }
       }
@@ -73789,16 +73741,8 @@
           "instructor": "MUHAMMED MİRAÇ SERİM",
           "schedule": {
             "28": "U2",
-            "45": "P5",
-            "52": "P5"
-          }
-        },
-        "6": {
-          "instructor": "STAFF",
-          "schedule": {
-            "35": "P5",
-            "42": "P5",
-            "58": "P5"
+            "45": "U2",
+            "52": "U2"
           }
         },
         "7": {
@@ -73823,14 +73767,6 @@
             "3": "P1",
             "10": "P1",
             "16": "P2"
-          }
-        },
-        "10": {
-          "instructor": "STAFF",
-          "schedule": {
-            "3": "YP-A4",
-            "7": "P3",
-            "10": "YP-A4"
           }
         },
         "11": {
@@ -74269,35 +74205,27 @@
           }
         },
         "11": {
-          "instructor": "STAFF",
+          "instructor": "ALPAN BEK",
           "schedule": {}
         },
         "12": {
-          "instructor": "STAFF",
+          "instructor": "UFUK AYDEMİR",
           "schedule": {}
         },
         "13": {
-          "instructor": "STAFF",
+          "instructor": "SADİ TURGUT",
           "schedule": {}
         },
         "14": {
-          "instructor": "STAFF",
+          "instructor": "AHMET KELEŞ",
           "schedule": {}
         },
         "15": {
-          "instructor": "STAFF",
+          "instructor": "HANDE TOFFOLİ",
           "schedule": {}
         },
         "16": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "17": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
-        "18": {
-          "instructor": "STAFF",
+          "instructor": "MUHAMMED MİRAÇ SERİM",
           "schedule": {}
         }
       }
@@ -74713,7 +74641,10 @@
         },
         "26": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "45": "P5",
+            "52": "P5"
+          }
         },
         "27": {
           "instructor": "BÜLENT GÜLTEKİN AKINOĞLU",
@@ -74753,7 +74684,10 @@
         },
         "35": {
           "instructor": "STAFF",
-          "schedule": {}
+          "schedule": {
+            "2": "U1",
+            "22": "P3"
+          }
         },
         "36": {
           "instructor": "STAFF",
@@ -74991,20 +74925,8 @@
             "31": "P-422",
             "38": "P-422",
             "45": "P-422",
-            "52": "P-422"
-          }
-        }
-      }
-    },
-    "PHYS 533": {
-      "name": "THEORY OF MANY-PARTICLE SYSTEMS I",
-      "sections": {
-        "1": {
-          "instructor": "AHMET KELEŞ",
-          "schedule": {
-            "14": "P-436",
-            "17": "P-436",
-            "21": "P-436"
+            "52": "P-422",
+            "59": "P-422"
           }
         }
       }
@@ -78382,7 +78304,10 @@
       "sections": {
         "1": {
           "instructor": "NURAY SAKALLI",
-          "schedule": {}
+          "schedule": {
+            "52": "B205-A",
+            "59": "B205-A"
+          }
         }
       }
     },

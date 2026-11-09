@@ -1,5 +1,59 @@
 # Course Offerings Changelog
 
+## 2026-11-09 14:03 +0300 - 2026-2027 Fall (20261)
+
+22 departments: +5 added, -10 removed, 47 changed
+
+### AH
+- Changed (1): AH 516
+### ARCH
+- Changed (1): ARCH 331
+### ASTR
+- Removed (1): ASTR 310
+### BA
+- Changed (1): BA 5829
+### BASE
+- Changed (2): BASE 301, BASE 401
+### BIN
+- Changed (2): BIN 599, BIN 806
+### BIOL
+- Changed (1): BIOL 528
+### CENG
+- Changed (3): CENG 302, CENG 816, CENG 904
+### CHE
+- Removed (1): CHE 502
+- Changed (1): CHE 204
+### CHEM
+- Changed (2): CHEM 223, CHEM 600
+### DI
+- Changed (1): DI 812
+### ENG
+- Changed (1): ENG 311
+### ENVE
+- Changed (16): ENVE 490, ENVE 802, ENVE 803, ENVE 804, ENVE 805, ENVE 808, ENVE 811, ENVE 814, ENVE 815, ENVE 902, ENVE 903, ENVE 904, ENVE 907, ENVE 908, ENVE 914, ENVE 915
+### FDE
+- Removed (2): FDE 814, FDE 914
+### ID
+- Changed (2): ID 500, ID 802
+### IE
+- Added (1): IE 948
+- Removed (2): IE 566, IE 690
+- Changed (1): IE 497
+### MI
+- Removed (1): MI 545
+### MSE
+- Removed (2): MSE 310, MSE 422
+- Changed (6): MSE 221, MSE 329, MSE 409, MSE 431, MSE 482, MSE 487
+### OR
+- Added (4): OR 848, OR 948, OR 949, OR 950
+### PES
+- Changed (1): PES 2923
+### PHYS
+- Removed (1): PHYS 533
+- Changed (4): PHYS 105, PHYS 400, PHYS 500, PHYS 507
+### PSY
+- Changed (1): PSY 9005
+
 ## 2026-10-24 11:01 +0300 - 2026-2027 Fall (20261)
 
 2 departments: +1 added, -0 removed, 1 changed
