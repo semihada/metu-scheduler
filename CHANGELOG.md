@@ -1,5 +1,22 @@
 # Course Offerings Changelog
 
+## 2026-11-10 13:54 +0300 - 2026-2027 Fall (20261)
+
+6 departments: +0 added, -0 removed, 7 changed
+
+### ARCH
+- Changed (1): ARCH 201
+### EDS
+- Changed (1): EDS 5549
+### EE
+- Changed (1): EE 313
+### HIST
+- Changed (1): HIST 600
+### MSE
+- Changed (1): MSE 808
+### TURK
+- Changed (2): TURK 305, TURK 318
+
 ## 2026-11-09 14:03 +0300 - 2026-2027 Fall (20261)
 
 22 departments: +5 added, -10 removed, 47 changed

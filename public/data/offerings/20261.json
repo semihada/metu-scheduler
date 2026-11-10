@@ -4015,6 +4015,10 @@
             "63": "TBA",
             "66": "TBA"
           }
+        },
+        "10": {
+          "instructor": "FATİH TOPAK",
+          "schedule": {}
         }
       }
     },
@@ -33450,9 +33454,9 @@
         "1": {
           "instructor": "MERVE ZAYİM KURTAY",
           "schedule": {
-            "36": "EFD-106",
-            "43": "EFD-106",
-            "50": "EFD-106"
+            "36": "EFD-206",
+            "43": "EFD-206",
+            "50": "EFD-206"
           }
         }
       }
@@ -34080,12 +34084,12 @@
       "name": "ANALOG ELECTRONICS LABORATORY",
       "sections": {
         "1": {
-          "instructor": "STAFF",
+          "instructor": "HASAN ULUŞAN",
           "schedule": {
-            "0": "TBA",
-            "7": "TBA",
-            "14": "TBA",
-            "21": "TBA"
+            "1": "TBA",
+            "8": "TBA",
+            "15": "TBA",
+            "22": "TBA"
           }
         }
       }
@@ -50917,7 +50921,10 @@
       "sections": {
         "1": {
           "instructor": "BAHAR GÜRSEL",
-          "schedule": {}
+          "schedule": {
+            "0": "B05",
+            "7": "B05"
+          }
         }
       }
     },
@@ -69733,10 +69740,10 @@
         "1": {
           "instructor": "ELVAN ŞAHİN",
           "schedule": {
-            "36": "EFD-206",
-            "38": "EFA-30",
-            "43": "EFD-206",
-            "45": "EFA-30"
+            "36": "TBA",
+            "38": "TBA",
+            "43": "TBA",
+            "45": "TBA"
           }
         }
       }
@@ -84354,8 +84361,8 @@
         "1": {
           "instructor": "YÜCEL ÜNLÜ AYDIN",
           "schedule": {
-            "49": "EFA-10",
-            "56": "EFA-10"
+            "49": "EFA-32",
+            "56": "EFA-32"
           }
         },
         "2": {
@@ -84400,9 +84407,9 @@
         "1": {
           "instructor": "BÜLENT TEKİN",
           "schedule": {
-            "22": "MTB309",
-            "29": "MTB309",
-            "36": "MTB309"
+            "22": "F14",
+            "29": "F14",
+            "36": "FZ14"
           }
         }
       }
