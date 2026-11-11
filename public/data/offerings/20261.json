@@ -2113,10 +2113,6 @@
           "instructor": "TUNCAY YALÇINKAYA",
           "schedule": {}
         },
-        "4": {
-          "instructor": "SERKAN ÖZGEN",
-          "schedule": {}
-        },
         "5": {
           "instructor": "HALİL ERSİN SÖKEN",
           "schedule": {}
@@ -2325,10 +2321,6 @@
           "instructor": "YUSUF ÖZYÖRÜK",
           "schedule": {}
         },
-        "14": {
-          "instructor": "STAFF",
-          "schedule": {}
-        },
         "15": {
           "instructor": "SERKAN ÖZGEN",
           "schedule": {}
@@ -2479,10 +2471,6 @@
         },
         "10": {
           "instructor": "OZAN TEKİNALP",
-          "schedule": {}
-        },
-        "12": {
-          "instructor": "SİNAN EYİ",
           "schedule": {}
         },
         "13": {
@@ -2662,15 +2650,6 @@
         }
       }
     },
-    "AEE 814": {
-      "name": "SPECIAL STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "AEE 815": {
       "name": "SPECIAL STUDIES",
       "sections": {
@@ -2781,17 +2760,6 @@
         }
       }
     },
-    "AEE 905": {
-      "name": "ADVANCED STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "UĞUR KARBAN",
-          "schedule": {
-            "3": "AE128"
-          }
-        }
-      }
-    },
     "AEE 908": {
       "name": "ADVANCED STUDIES",
       "sections": {
@@ -2815,15 +2783,6 @@
       "sections": {
         "1": {
           "instructor": "OZAN TEKİNALP",
-          "schedule": {}
-        }
-      }
-    },
-    "AEE 912": {
-      "name": "ADVANCED STUDIES",
-      "sections": {
-        "1": {
-          "instructor": "SİNAN EYİ",
           "schedule": {}
         }
       }

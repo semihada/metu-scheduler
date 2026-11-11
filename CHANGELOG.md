@@ -1,5 +1,13 @@
 # Course Offerings Changelog
 
+## 2026-11-11 13:30 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -3 removed, 3 changed
+
+### AEE
+- Removed (3): AEE 814, AEE 905, AEE 912
+- Changed (3): AEE 404, AEE 500, AEE 600
+
 ## 2026-11-10 13:54 +0300 - 2026-2027 Fall (20261)
 
 6 departments: +0 added, -0 removed, 7 changed
