@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-11-12 13:47 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 6 changed
+
+### BA
+- Changed (6): BA 4098, BA 4099, BA 5097, BA 5098, BA 5099, BA 8012
+
 ## 2026-11-11 13:30 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -3 removed, 3 changed
