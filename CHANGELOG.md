@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-11-14 12:57 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +0 added, -0 removed, 3 changed
+
+### ME
+- Changed (2): ME 875, ME 975
+### PHYS
+- Changed (1): PHYS 738
+
 ## 2026-11-12 13:47 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 6 changed

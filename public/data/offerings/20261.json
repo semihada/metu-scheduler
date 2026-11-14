@@ -63366,7 +63366,14 @@
       "sections": {
         "1": {
           "instructor": "ORKUN ÖZŞAHİN",
-          "schedule": {}
+          "schedule": {
+            "0": "TBA",
+            "16": "TBA",
+            "35": "TBA",
+            "42": "TBA",
+            "49": "TBA",
+            "56": "TBA"
+          }
         }
       }
     },
@@ -64015,10 +64022,10 @@
         "1": {
           "instructor": "ORKUN ÖZŞAHİN",
           "schedule": {
-            "38": "TBA",
-            "45": "TBA",
-            "52": "TBA",
-            "59": "TBA"
+            "36": "TBA",
+            "43": "TBA",
+            "50": "TBA",
+            "57": "TBA"
           }
         }
       }
@@ -75047,9 +75054,9 @@
         "1": {
           "instructor": "AHMET BİNGÜL",
           "schedule": {
-            "39": "AKLB-104",
-            "46": "AKLB-104",
-            "53": "AKLB-104"
+            "39": "AKıLLı S.",
+            "46": "AKıLLı S.",
+            "53": "AKıLLı S."
           }
         }
       }
