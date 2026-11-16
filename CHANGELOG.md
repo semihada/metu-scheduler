@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-11-16 13:47 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 1 changed
+
+### IAM
+- Changed (1): IAM 591
+
 ## 2026-11-14 12:57 +0300 - 2026-2027 Fall (20261)
 
 2 departments: +0 added, -0 removed, 3 changed
