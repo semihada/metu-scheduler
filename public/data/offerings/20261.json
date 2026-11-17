@@ -11924,9 +11924,9 @@
         "1": {
           "instructor": "EREN YÜNCÜ",
           "schedule": {
-            "11": "BIO Z-05",
-            "18": "BIO Z-05",
-            "25": "BIO Z-05"
+            "11": "BIO Z-07",
+            "18": "BIO Z-07",
+            "25": "BIO Z-07"
           }
         }
       }
@@ -14628,12 +14628,9 @@
       "name": "FUNDAMENTALS OF BIOTECHNOLOGY",
       "sections": {
         "1": {
-          "instructor": "CAN ÖZEN",
+          "instructor": "ALEV BAYINDIRLI",
           "schedule": {
-            "2": "B205-A",
-            "9": "B205-A",
             "10": "FD1",
-            "16": "B205-A",
             "17": "FD1",
             "24": "FD1"
           }
@@ -32465,9 +32462,9 @@
         "5": {
           "instructor": "HANİFE AKAR",
           "schedule": {
-            "8": "EFD-106",
-            "15": "EFD-106",
-            "22": "EFD-106"
+            "8": "EFD-101",
+            "15": "EFD-101",
+            "22": "EFD-101"
           }
         },
         "6": {
@@ -71562,9 +71559,9 @@
         "1": {
           "instructor": "SADETTİN KİRAZCI",
           "schedule": {
-            "36": "TBA",
-            "43": "TBA",
-            "50": "TBA"
+            "36": "EFD-102",
+            "43": "EFD-102",
+            "50": "EFD-102"
           }
         }
       }
@@ -71878,9 +71875,9 @@
         "1": {
           "instructor": "SADETTİN KİRAZCI",
           "schedule": {
-            "35": "EFD-204",
-            "42": "EFD-204",
-            "49": "EFD-204"
+            "35": "EFD-206",
+            "42": "EFD-206",
+            "49": "EFD-206"
           }
         }
       }

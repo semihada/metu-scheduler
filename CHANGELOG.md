@@ -1,5 +1,18 @@
 # Course Offerings Changelog
 
+## 2026-11-17 14:36 +0300 - 2026-2027 Fall (20261)
+
+4 departments: +0 added, -0 removed, 5 changed
+
+### BIOL
+- Changed (1): BIOL 433
+### BTEC
+- Changed (1): BTEC 503
+### EDS
+- Changed (1): EDS 200
+### PES
+- Changed (2): PES 560, PES 3172
+
 ## 2026-11-16 13:47 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed
