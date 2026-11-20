@@ -24142,7 +24142,10 @@
         "1": {
           "instructor": "OKAN ESENTÜRK",
           "schedule": {
+            "36": "K.AUD",
+            "43": "K.AUD",
             "45": "K07",
+            "50": "K.AUD",
             "52": "K07",
             "59": "K07"
           }
@@ -43193,11 +43196,7 @@
         },
         "17": {
           "instructor": "MUSTAFA TOLGA YILMAZ",
-          "schedule": {
-            "36": "MM125",
-            "43": "MM125",
-            "50": "MM125"
-          }
+          "schedule": {}
         },
         "19": {
           "instructor": "IŞIK HAKAN TARMAN",

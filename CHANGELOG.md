@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-11-20 14:03 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +0 added, -0 removed, 2 changed
+
+### CHEM
+- Changed (1): CHEM 555
+### ES
+- Changed (1): ES 500
+
 ## 2026-11-18 14:17 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed
