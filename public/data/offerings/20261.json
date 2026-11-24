@@ -32586,15 +32586,6 @@
         }
       }
     },
-    "EDS 240": {
-      "name": "EDUCATIONAL SOCIOLOGY",
-      "sections": {
-        "1": {
-          "instructor": "STAFF",
-          "schedule": {}
-        }
-      }
-    },
     "EDS 255": {
       "name": "EDUCATIONAL PHILOSOPHY",
       "sections": {
@@ -46490,7 +46481,7 @@
           }
         },
         "3": {
-          "instructor": "KÖSE SAHRA MİNE",
+          "instructor": "SAHRA MİNE KÖSE",
           "schedule": {
             "44": "EFB-18",
             "51": "EFB-18",
@@ -55223,14 +55214,6 @@
     "IR 206": {
       "name": "INTRODUCTION TO INTERNATIONAL RELATIONS",
       "sections": {
-        "1": {
-          "instructor": "ERDEM CEYDİLEK",
-          "schedule": {
-            "37": "G206",
-            "44": "G206",
-            "51": "G206"
-          }
-        },
         "2": {
           "instructor": "ÖZNUR AKCALI YILMAZ",
           "schedule": {
@@ -74257,20 +74240,6 @@
             "18": "TBA",
             "25": "TBA",
             "32": "TBA"
-          }
-        }
-      }
-    },
-    "PHYS 417": {
-      "name": "PRIN.OF MEASUREMENT AND INSTRUMENT. I",
-      "sections": {
-        "1": {
-          "instructor": "ENVER BULUR",
-          "schedule": {
-            "14": "P-422",
-            "21": "P-422",
-            "43": "P-422",
-            "50": "P-422"
           }
         }
       }

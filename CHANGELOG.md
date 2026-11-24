@@ -1,5 +1,18 @@
 # Course Offerings Changelog
 
+## 2026-11-24 16:25 +0300 - 2026-2027 Fall (20261)
+
+4 departments: +0 added, -2 removed, 2 changed
+
+### EDS
+- Removed (1): EDS 240
+### FLE
+- Changed (1): FLE 423
+### IR
+- Changed (1): IR 206
+### PHYS
+- Removed (1): PHYS 417
+
 ## 2026-11-23 14:59 +0300 - 2026-2027 Fall (20261)
 
 2 departments: +0 added, -0 removed, 2 changed
