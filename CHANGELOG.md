@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-11-25 15:17 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 1 changed
+
+### SOC
+- Changed (1): SOC 801
+
 ## 2026-11-24 16:25 +0300 - 2026-2027 Fall (20261)
 
 4 departments: +0 added, -2 removed, 2 changed
