@@ -1,5 +1,12 @@
 # Course Offerings Changelog
 
+## 2026-11-26 15:02 +0300 - 2026-2027 Fall (20261)
+
+1 departments: +0 added, -0 removed, 1 changed
+
+### ENG
+- Changed (1): ENG 101
+
 ## 2026-11-25 15:17 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed
