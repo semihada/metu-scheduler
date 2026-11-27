@@ -1,5 +1,14 @@
 # Course Offerings Changelog
 
+## 2026-11-27 14:54 +0300 - 2026-2027 Fall (20261)
+
+2 departments: +4 added, -0 removed, 2 changed
+
+### BASE
+- Changed (2): BASE 401, BASE 501
+### ROB
+- Added (4): ROB 818, ROB 819, ROB 918, ROB 919
+
 ## 2026-11-26 15:02 +0300 - 2026-2027 Fall (20261)
 
 1 departments: +0 added, -0 removed, 1 changed

@@ -9817,7 +9817,7 @@
           "schedule": {}
         },
         "27": {
-          "instructor": "RUHAN GÜLİZ KENKÜL",
+          "instructor": "AYŞE KARATAŞ",
           "schedule": {}
         },
         "28": {
@@ -9825,7 +9825,7 @@
           "schedule": {}
         },
         "29": {
-          "instructor": "İPEK BEREN LOPEZ SANTAMARİA",
+          "instructor": "BETÜL ÇELİK",
           "schedule": {}
         },
         "30": {
@@ -9882,7 +9882,7 @@
           "schedule": {}
         },
         "11": {
-          "instructor": "ÖZLEM BİLİR",
+          "instructor": "NURAN GORMAN",
           "schedule": {}
         },
         "12": {
@@ -79050,6 +79050,24 @@
         }
       }
     },
+    "ROB 818": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "NEFİZE SHABAN ALAN",
+          "schedule": {}
+        }
+      }
+    },
+    "ROB 819": {
+      "name": "SPECIAL STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "GÖRKEM EĞEMEN GÜLOĞLU",
+          "schedule": {}
+        }
+      }
+    },
     "ROB 901": {
       "name": "ADVANCED STUDIES",
       "sections": {
@@ -79199,6 +79217,24 @@
       "sections": {
         "1": {
           "instructor": "MEHMET EFE TİRYAKİ",
+          "schedule": {}
+        }
+      }
+    },
+    "ROB 918": {
+      "name": "ADVANCED STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "NEFİZE SHABAN ALAN",
+          "schedule": {}
+        }
+      }
+    },
+    "ROB 919": {
+      "name": "ADVANCED STUDIES",
+      "sections": {
+        "1": {
+          "instructor": "GÖRKEM EĞEMEN GÜLOĞLU",
           "schedule": {}
         }
       }
